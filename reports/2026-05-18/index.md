@@ -6,7 +6,6 @@
 
 | Axis | Severity | Summary |
 |------|----------|----------|
-| [ECONOMY_WORK_REVIEW](economy_work_review.md) | UNKNOWN | ... |
 | [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | UNKNOWN | ... |
 | [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | UNKNOWN | ... |
 | [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | UNKNOWN | ... |
@@ -24,7 +23,6 @@
 | [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | UNKNOWN | ... |
 | [HUMAN_WELL_BEING_REVIEW](human_well_being_review.md) | UNKNOWN | ... |
 | [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | UNKNOWN | ... |
-| [master_web_intel](master_web_intel.md) | UNKNOWN | ... |
 | [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | UNKNOWN | ... |
 | [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | UNKNOWN | ... |
 | [ENERGY_REVIEW](energy_review.md) | UNKNOWN | ... |
