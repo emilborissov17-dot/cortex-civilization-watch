@@ -1,24 +1,17 @@
 # SOCIAL RELATIONS REVIEW
 **Date:** 2026-06-20
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Growing loneliness and social isolation among adults
+Анализ на SOCIAL_RELATIONS_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Modern disconnection and isolation due to various factors such as urbanization, technological advancements, and lack of community engagement
-
-## Proposed Actions
-- **Implement community-based programs to promote social connections and a sense of belonging** — Reduce loneliness rates by 20% within the next 12 months
-- **Increase funding for mental health services and social isolation research** — Increase funding by 30% within the next 18 months
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: Gemini rate limit
 
 ## Sources (YouTube)
-- [Loneliness and Social Isolation: Tackling the ... - YouTube](https://www.youtube.com/watch?v=eXEoYLhVGd8)
-  > [DESCRIPTION FALLBACK] Apr 4, 2025 · This webinar will discuss why we should care about loneliness and social isolation, the negative health consequences of these issues, how to recognize and identify...
-
-- [The Loneliness Epidemic: What’s Really Going On ... - YouTubeSense of Community | The Loneliness Epidemic - Overview | PBSHow Cohousing Neighborhoods Can Combat the Rise of Loneliness ...This clip explains how loneliness is a growing public health ...Loneliness Is on the Rise. Are Closer Neighbors a Solution?Loneliness and isolation – the hidden threat to global health ...](https://www.youtube.com/watch?v=eLNoEBiM8Vc)
-  > [DESCRIPTION FALLBACK] In this episode of Perspectives, a panel of Priory experts tackle the truth about modern disconnection, isolation, and what it really means to feel alone in today’s world. One i...
+- [Is Technology Killing Empathy? A Deep Dive into the Loneliness Epidemic](https://www.youtube.com/watch?v=anj0iyliWQo)
+  > It's night side with Dan Ray on WBZ Boston's news radio. &gt;&gt; All right, welcome. Welcome back. Thank you very much, Dan Watkins. We um we interviewed briefly um about a week and a half ago my nex...
 
 ## Sources (RSS)
 - [Catholics in Latin America generally have positive views of Pope Leo](https://www.pewresearch.org/short-reads/2026/06/18/catholics-in-latin-america-generally-have-positive-views-of-pope-leo/)
