@@ -1,23 +1,27 @@
 # PLANETARY POTENTIAL REVIEW
 **Date:** 2026-06-20
 
-**Severity:** UNKNOWN
+**Severity:** MEDIUM
 
 ## Problem
-Анализ на PLANETARY_POTENTIAL_REVIEW — данни получени но LLM грешка
+Inaccurate global emissions database
 
 ## Root Cause
-LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: Gemini rate limit
+Methodological errors in data collection and analysis
+
+## Proposed Actions
+- **Conduct an independent review and revision of the Climate TRACE database** — Achieve a 20% reduction in data errors within the next 6 months
+- **Implement a robust quality control process for data collection and analysis** — Reduce data errors by 50% within the next 12 months
 
 ## Sources (YouTube)
-- [Climate Change acceleration: Do we need an emergency brake? | Dr Pete Sudbury (ex-Green Party)](https://www.youtube.com/watch?v=37szoWu3nEA)
-  > [DESCRIPTION FALLBACK] Climate Change acceleration and the need for an emergency brake.” Bio : Dr. Pete Sudbury is an ex-Green Party Councillor for ......
-
 - [A Climate Scientist Reviews: Project Hail Mary](https://www.youtube.com/watch?v=GJsouT2HV9g)
   > [DESCRIPTION FALLBACK] 00:00 Intro 00:36 Book plot (spoiler alert) 01:18 The Earth's Energy Balance (simplified) 02:38 Greenhouse gases explained ......
 
-- [10 Climate Insights You Can’t Ignore](https://www.youtube.com/watch?v=0rKhgC-4s7s)
-  > [DESCRIPTION FALLBACK] In this episode we unpack the latest “10 New Insights in Climate Science” report and what it really means for our future....
+- [Climate Change acceleration: Do we need an emergency brake? | Dr Pete Sudbury (ex-Green Party)](https://www.youtube.com/watch?v=37szoWu3nEA)
+  > [DESCRIPTION FALLBACK] Climate Change acceleration and the need for an emergency brake.” Bio : Dr. Pete Sudbury is an ex-Green Party Councillor for ......
+
+- [2/3/2026 -- Brad Marston, Brown University -- Can physics save the planet from climate change?](https://www.youtube.com/watch?v=hLVFIfizEZM)
+  > [DESCRIPTION FALLBACK] UMD Physics Colloquium on Feb 3, 2026. Prof. Brad Marston (Brown University, the APS president in 2026) presented his ......
 
 ## Sources (RSS)
 - [Major errors found in Al Gore-founded Climate TRACE database](https://www.sciencedaily.com/releases/2026/06/260618041519.htm)
