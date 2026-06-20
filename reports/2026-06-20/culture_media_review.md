@@ -1,23 +1,13 @@
 # CULTURE MEDIA REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-The spread of misinformation through social media platforms, as discussed in the YouTube transcripts, has the potential to influence free speech rights and public health
+Анализ на CULTURE_MEDIA_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-The lack of effective balance between fighting misinformation and protecting speech on social media platforms, leading to the spread of false information
-
-## Proposed Actions
-- **Implementing more effective fact-checking mechanisms on social media platforms** — Reducing the spread of false information by 30% in the next 6 months
-
-## Sources (YouTube)
-- [What Is The Impact Of Online Misinformation On Free ... - YouTubeSocial media is how we fight misinformation - YouTubeBalance between fighting misinformation and protecting speech ...Social media and the spread of misinformation: infectious and ...How does YouTube balance free speech with the need to ...Free Speech and Social Media: Maintaining the Right BalanceFree Speech versus Public Health: The Role of Social Media ...](https://www.youtube.com/watch?v=Ha_S229Ygwk)
-  > [DESCRIPTION FALLBACK] Sep 19, 2025 · In this informative video, we’ll explore the impact of false information spreading across social media platforms and how it influences free speech rights. We’ll s...
-
-- [Social media is how we fight misinformation - YouTube](https://www.youtube.com/watch?v=CGPxNH-r2a4)
-  > [DESCRIPTION FALLBACK] May 27, 2026 · I connect this problem to vaccine misinformation and the broader distrust of science, noting how decades of expertise can be dismissed by influencers....
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (RSS)
 - [Joan Cusack, the Actress Behind Jessie in ‘Toy Story,’ Takes the Lead](https://www.nytimes.com/2026/06/19/arts/joan-cusack-jessie-toy-story-5.html)
