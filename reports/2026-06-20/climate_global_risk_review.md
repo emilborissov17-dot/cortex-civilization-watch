@@ -1,24 +1,17 @@
 # CLIMATE GLOBAL RISK REVIEW
 **Date:** 2026-06-20
 
-**Severity:** CRITICAL
+**Severity:** UNKNOWN
 
 ## Problem
-Insufficient progress in reducing global emissions and adapting to climate change, as evident from the gridlock in Bonn talks and the need for a major scale-up of carbon removal
+Анализ на CLIMATE_GLOBAL_RISK_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Inadequate global cooperation, lack of decisive action, and insufficient investment in climate change mitigation and adaptation measures
-
-## Proposed Actions
-- **Implement and strengthen global climate agreements, such as the Paris Agreement** — Reduce global greenhouse gas emissions by 45% by 2030 and achieve net-zero by 2050
-- **Invest in climate-resilient infrastructure and climate-smart agriculture** — Increase climate-resilient infrastructure investment by 20% annually and achieve 30% climate-resilient agriculture practices by 2030
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [Extreme Weather 2025: Fires, Floods, Heatwaves & Cyclones ...EXPLAINED: How Climate Change is Fueling Extreme Weather ...Climate Extremes Documentary | Climate Science2025 Europe Climate Review: Extreme Weather Toll and Outlook ...Year in Review: The Biggest Climate Headlines of 2025Wildfires, floods and extreme heat: These are the biggest ...World slammed by extreme weather in 2025, one of the hottest ...Tackle Climate Change - Munich Re | Climate change](https://www.youtube.com/watch?v=jrLBkuyQgKs)
-  > [DESCRIPTION FALLBACK] 🌍 Starkon International presents a detailed global climate report for 2025, covering every continent and every major climate event. Jul 21, 2025 · This video compiles shocking f...
-
-- [EXPLAINED: How Climate Change is Fueling Extreme Weather ...Climate Extremes Documentary | Climate Science2025 Europe Climate Review: Extreme Weather Toll and Outlook ...Year in Review: The Biggest Climate Headlines of 2025Wildfires, floods and extreme heat: These are the biggest ...World slammed by extreme weather in 2025, one of the hottest ...](https://www.youtube.com/watch?v=UhxhDsVzFmU)
-  > [DESCRIPTION FALLBACK] Jul 21, 2025 · This video compiles shocking footage from extreme weather events around the world between 2024 and 2025 — from devastating hurricanes and deadly floods to intense...
+- [When The World Gets 1 Hotter | Climate Change: The... - YouTube](https://www.youtube.com/watch?v=dIsjcG7hTmo)
+  > What's striking is that warming trend cannot be explained by natural factors but is caused by human activities. In particular, by use of fossil fuels. The problem is that everything we do, our entire ...
 
 ## Sources (RSS)
 - [DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations](https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/)
