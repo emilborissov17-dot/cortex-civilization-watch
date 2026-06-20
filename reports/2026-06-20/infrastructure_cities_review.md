@@ -1,21 +1,17 @@
 # INFRASTRUCTURE CITIES REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Housing segregation and potential loss of homes in urban areas
+Анализ на INFRASTRUCTURE_CITIES_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Inadequate urban planning and housing policies, leading to segregation and unaffordability
-
-## Proposed Actions
-- **Implement inclusive zoning policies to promote mixed-income housing** — Increase the number of affordable housing units by 20% within the next 2 years
-- **Provide incentives for real estate developers to build affordable housing** — Increase the number of affordable housing units by 30% within the next 5 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [How UK housing segregates residents - YouTube](https://www.youtube.com/watch?v=oLSAm2szdjM)
-  > [DESCRIPTION FALLBACK] New residential developments in the UK are often segregating people based on those who own their homes and those that live in social housing.Subscribe to The......
+- [How it Happened - The 2008 Financial Crisis: Crash... - YouTube](https://www.youtube.com/watch?v=GPOv72Awo68)
+  > welcome to crash course economics my name is Jacob Clifford and I'm Adrien Hill and today we're going to do something a little different we're going to explore One Moment in history in depth we're goi...
 
 ## Sources (RSS)
 - [Chicago to buy, renovate Greyhound bus terminal](https://www.smartcitiesdive.com/news/chicago-buy-renovate-greyhound-bus-terminal/823261/)
