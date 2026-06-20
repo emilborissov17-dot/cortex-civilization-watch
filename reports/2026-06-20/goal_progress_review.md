@@ -1,23 +1,27 @@
 # GOAL PROGRESS REVIEW
 **Date:** 2026-06-20
 
-**Severity:** UNKNOWN
+**Severity:** MEDIUM
 
 ## Problem
-Анализ на GOAL_PROGRESS_REVIEW — данни получени но LLM грешка
+Lack of trust in healthcare systems hindering effective disease outbreak response
 
 ## Root Cause
-LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: Gemini rate limit
+Insufficient community engagement and education leading to mistrust in healthcare authorities
+
+## Proposed Actions
+- **Implement community-based health education programs** — Increase community participation in health initiatives by 30% within 6 months
+- **Establish transparent communication channels between healthcare authorities and local communities** — Reduce misinformation about diseases by 25% within 3 months
 
 ## Sources (YouTube)
-- [How We Can Make the World a Better Place by 2030 | Michael Green | TED Talks](https://www.youtube.com/watch?v=o08ykAqLOxk)
-  > [DESCRIPTION FALLBACK] Can we end hunger and poverty, halt climate change and achieve gender equality in the next 15 years? The governments of the ......
+- [MIT Study Reveals Why Africa Is Still Poor](https://www.youtube.com/watch?v=1k8TXQWVsoI)
+  > [DESCRIPTION FALLBACK] Africa is the poorest continent in the world. There are, as always, a lot of factors to consider as to why that is the case, but recently ......
 
-- [Sustainable Development Goals (SDGs) Explained: 2026 Reality Check](https://www.youtube.com/watch?v=qfOgdj4Okdw)
-  > [DESCRIPTION FALLBACK] With only 4 years left until the 2030 deadline, the UN Sustainable Development Goals remain the global framework for ......
+- [The Problem with Solar Energy in Africa](https://www.youtube.com/watch?v=7OpM_zKGE4o)
+  > [DESCRIPTION FALLBACK] Be one of the first 500 people to sign up with this link and get 20% off your subscription with Brilliant.org: ......
 
-- [Stocktaking | What it will take to achieve the Sustainable Development Goals? | United Nations](https://www.youtube.com/watch?v=enGJyhu6Xr0)
-  > [DESCRIPTION FALLBACK] We're at the halftime mark to achieve the Sustainable Development Goals, but we're down at halftime. The 2023 SDG Progress ......
+- [Why Europe Suddenly Wants a Stronger Lebanon](https://www.youtube.com/watch?v=yLHKZAA0Rrs)
+  > [DESCRIPTION FALLBACK] Why is the European Union quietly shifting its military strategy in the Middle East? This video uncovers the structural reality behind ......
 
 ## Sources (RSS)
 - [Fermentation, flavour and the future of food: Making sustainability delicious](https://news.un.org/feed/view/en/story/2026/06/1167755)
