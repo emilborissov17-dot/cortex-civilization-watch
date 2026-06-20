@@ -1,24 +1,20 @@
 # GOVERNANCE INSTITUTIONS REVIEW
 **Date:** 2026-06-20
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Lack of effective governance and international cooperation to address humanitarian crises, such as the situation in Gaza and war crimes in Syria
+Анализ на GOVERNANCE_INSTITUTIONS_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Insufficient commitment to and enforcement of international laws and agreements, including the United Nations Convention on the Law of the Sea and human rights treaties
-
-## Proposed Actions
-- **Strengthening the United Nations' ability to enforce international law and hold perpetrators of humanitarian crises accountable** — Increase in the number of successful prosecutions of war crimes and improvement in humanitarian access to affected areas
-- **Encouraging national governments to prioritize human rights and international cooperation** — Increase in the number of countries ratifying and implementing key human rights treaties and participating in international efforts to address humanitarian crises
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [Angela Merkel's revelation on Minsk Agreements - YouTube](https://www.youtube.com/watch?v=0-57KOwG9co)
-  > [DESCRIPTION FALLBACK] About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features....
+- [Global Trends and Geopolitics in 2026: A Look Ahead - YouTubeGlobal Politics 2026 Explained | World Politics 2026 | New ...10 Geopolitics YouTubers You Must Follow in 2026G7 Summit 2026: Leaders Tackle Geopolitics, Economic ...Home | UN Web TVGeopolitics News & Risk Analysis - Keep Pace with a Changing ...UN chief warns of a world in chaos as impunity and ... - UN News](https://www.youtube.com/watch?v=DR-z0cYLhlg)
+  > Welcome to our Freeman Spogli Institute panel on Global Trends and Geopolitics in 2026:&nbsp;&nbsp; A Look Ahead. This is the first in a new&nbsp; quarterly series that we'll be doing here at FSI&nbsp...
 
-- [Беларусь нападет на Украину? | Встреча Лукашенко... - YouTube](https://www.youtube.com/watch?v=NBgcn11jRMc)
-  > [DESCRIPTION FALLBACK] О сервисе Прессе Авторские права Связаться с нами Авторам Рекламодателям Разработчикам Условия использования Конфиденциальность Правила и безопасность Как работает YouTube Тести...
+- [Global Politics 2026 Explained | World Politics 2026 | New ...10 Geopolitics YouTubers You Must Follow in 2026G7 Summit 2026: Leaders Tackle Geopolitics, Economic ...Home | UN Web TVGeopolitics News & Risk Analysis - Keep Pace with a Changing ...UN chief warns of a world in chaos as impunity and ... - UN News](https://www.youtube.com/watch?v=Oy78F649PEQ)
+  > 10 ट्रेंड्स आर टेकिंग प्लेस इन ग्लोबल पॉलिटिक्स 2026 जिनको वन बाय वन जो है डिकोड करने वाले हैं। फ्रेंड्स जिसके अंदर हम मल्टी फैसिटेड चीजों को ऐड करने वाले हैं। आप यह समझ लें कि आपको रीजनल लेवल के ऊपर ...
 
 ## Sources (RSS)
 - [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2026/db260619.doc.htm)
