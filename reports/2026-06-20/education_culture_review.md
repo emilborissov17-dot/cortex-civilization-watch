@@ -1,21 +1,20 @@
 # EDUCATION CULTURE REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Insufficient progress in increasing access to quality education, with persistent inequalities in education outcomes across the world
+Анализ на EDUCATION_CULTURE_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Inadequate investment in education infrastructure, lack of qualified teachers, and socio-economic disparities
-
-## Proposed Actions
-- **Increase funding for education programs and infrastructure development** — 10% increase in education budget allocation within the next 2 years
-- **Implement teacher training and qualification programs** — 25% increase in qualified teachers in underserved areas within the next 5 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [2025 UNESCO Confucius Prize for Literacy highlights global ...UNESCO - YouTubeLiteracy - UNESCOUNESCO in action: Education highlights in 2025 | UNESCOGlobal trends and the future of education in 2025 ... - OECDUNESCO strategy for youth and adult literacy (2020-2025)Reflection on the UNESCO Global Conference on Literacy 2025 - UEA](https://www.youtube.com/watch?v=-SG9a5M-KCI)
-  > [DESCRIPTION FALLBACK] The ceremony marked two decades of honoring inclusive education and lifelong learning, while also opening this year's Confucius Cultural Festival. Building on collaboration amon...
+- [Teacher Breaks Down Literacy Crisis In America - YouTubeHow to Tackle America’s Literacy Gap—Barbara ... - YouTubeWhy the Left Stopped Talking About Achievement GapsPolicy Learning, Policy Failure, and the Mitigation of Policy ...Policy failure and the policy-implementation gap: can policy ...The Literacy Crisis in the U.S. is Deeply Concerning—and ...Full article: The low skills trap: the failure of education ...](https://www.youtube.com/watch?v=2dzFbLxqmuo)
+  > Remember when Linda McMahon got on the Fox News and was talking about how the literacy rate in this country was some astronomical number that I could not believe, and y'all got me together in the chat...
+
+- [How to Tackle America’s Literacy Gap—Barbara ... - YouTube](https://www.youtube.com/watch?v=viqE6we8f0k)
+  > [Music] Well, good morning. I'm Ken Bibbery and welcome to Coffee with Ken, a thought leadership series at the nexus of business, politics, and today literacy. I am thrilled to be back in person right...
 
 
 ---
