@@ -1,24 +1,20 @@
 # COGNITION LEARNING REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Lack of clarity on the difference between studying and learning in educational contexts
+Анализ на COGNITION_LEARNING_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Insufficient emphasis on the process of acquiring new understanding and skills in formal education
-
-## Proposed Actions
-- **Develop and implement more interactive and immersive learning experiences** — Increase student engagement and retention rates by 20% within the next 2 years
-- **Integrate AI-powered tools to personalize learning paths and provide real-time feedback** — Improve student outcomes by 15% within the next 3 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [How AI is Changing Learning and Development in 2025AI in Education 2025: The Smart Classroom RevolutionTop AI YouTube Channels to Watch for Smarter Learning in 2025The future of learning: AI is revolutionizing education 4.014 Educational AI YouTubers Teaching ML in 2025 - DigitalOceanHow AI could radically change schools by 2050 — Harvard GazetteThe Best YouTube Channels for AI Learning and Staying Updated ...](https://www.youtube.com/watch?v=cNdHps3O7mQ)
-  > [DESCRIPTION FALLBACK] Jan 23, 2025 · In today’s episode of the HR Leaders Podcast, we’re joined by Anindyo Naskar, Deputy General Manager – COE – Learning and Leadership Development at Landmark Group...
+- [AI in Education 2025: The Smart Classroom RevolutionHow AI is Changing Learning and Development in 2025Top AI YouTube Channels to Watch for Smarter Learning in 2025The future of learning: AI is revolutionizing education 4.014 Educational AI YouTubers Teaching ML in 2025 - DigitalOceanHow AI could radically change schools by 2050 — Harvard GazetteThe Best YouTube Channels for AI Learning and Staying Updated ...](https://www.youtube.com/watch?v=mh6_KvJ991I)
+  > Hey everyone, welcome back to the Edgitech channel, your go-to place for futurep proof learning. Today we're diving into a topic that's flipping classrooms upside down and turning traditional educatio...
 
-- [AI in Education 2025: The Smart Classroom RevolutionTop AI YouTube Channels to Watch for Smarter Learning in 2025The future of learning: AI is revolutionizing education 4.014 Educational AI YouTubers Teaching ML in 2025 - DigitalOceanHow AI could radically change schools by 2050 — Harvard GazetteThe Best YouTube Channels for AI Learning and Staying Updated ...](https://www.youtube.com/watch?v=mh6_KvJ991I)
-  > [DESCRIPTION FALLBACK] 🧠💡 Welcome to the future of education! In this video, we explore how AI in the classroom is transforming the way students learn and teachers teach. May 15, 2025 · From programmi...
+- [How AI is Changing Learning and Development in 2025Top AI YouTube Channels to Watch for Smarter Learning in 2025The future of learning: AI is revolutionizing education 4.014 Educational AI YouTubers Teaching ML in 2025 - DigitalOceanHow AI could radically change schools by 2050 — Harvard GazetteThe Best YouTube Channels for AI Learning and Staying Updated ...](https://www.youtube.com/watch?v=cNdHps3O7mQ)
+  > just prior to the covid people were more focused on the work the worker and workplace but with Future Ready organizations I think the challenge is completely different we are actually looking how do I...
 
 ## Sources (RSS)
 - [Lotus: A Woman’s Journey oLotus: A Woman’s Journey of Empowerment](https://mindshiftentertainment.wordpress.com/2005/04/01/hello-world/)
