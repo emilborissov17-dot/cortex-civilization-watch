@@ -1,21 +1,20 @@
 # MATERIALS WASTE REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Improper waste sorting and management of plastic waste
+Анализ на MATERIALS_WASTE_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Lack of technical skills for managing hazardous waste, insufficient infrastructure, and inadequate education on proper waste sorting
-
-## Proposed Actions
-- **Implementing standardized waste sorting protocols and educating the public through awareness campaigns** — Increase proper waste sorting rates by 20% within the next 12 months
-- **Investing in research and development of new technologies for efficient plastic waste management** — Reduce plastic waste in landfills by 15% within the next 24 months
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
+- [Pacific ocean litter project targets plastic waste in...](https://www.youtube.com/watch?v=HL9YatMy008)
+  > Regional leaders, environmental experts, and development partners have gathered in Port Moresby this week for the 2026 Melanesian Ocean Summit with the discussions focused on marine pollution, climate...
+
 - [What really happens to the plastic you throw away - Emma... - YouTube](https://www.youtube.com/watch?v=_6xlNyWPpB8)
-  > [DESCRIPTION FALLBACK] About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features....
+  > This is the story of three plastic bottles, empty and discarded. Their journeys are about to diverge with outcomes that impact nothing less than the fate of the planet. But they weren't always this wa...
 
 ## Sources (RSS)
 - [EREF Auction Raises More Than $4 Million to Advance Waste and Recycling Research](https://www.waste360.com/industry-insights/eref-auction-raises-more-than-4-million-to-advance-waste-and-recycling-research)
