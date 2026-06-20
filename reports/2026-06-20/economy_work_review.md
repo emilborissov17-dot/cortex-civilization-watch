@@ -1,21 +1,23 @@
 # ECONOMY WORK REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Rising public borrowing and increasing interest rates on student loans may exacerbate economic inequality and limit access to education
+Анализ на ECONOMY_WORK_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Inadequate fiscal planning and management of public finances, combined with rising costs and inflation
-
-## Proposed Actions
-- **Implement fiscal responsibility measures to reduce public borrowing** — Achieve a 10% reduction in public borrowing within the next 12 months
-- **Introduce income-based repayment plans for student loans** — Increase the number of students able to repay their loans on time by 20% within the next 2 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [The AI Safety Expert: These Are The Only 5 Jobs That Will... - YouTube](https://www.youtube.com/watch?v=UclrVWafRAI)
-  > [DESCRIPTION FALLBACK] WARNING: AI could end humanity, and we’re completely unprepared. Dr. Roman Yampolskiy reveals how AI will take 99% of jobs, why Sam Altman is ignoring safety......
+- [2025 now weakest job growth year since pandemic](https://www.youtube.com/watch?v=u-WIdZMgpIY)
+  > All right, breaking just a few minutes ago, brand&nbsp; new data on jobs. The economy added just 50,000&nbsp;&nbsp; jobs in December. You can see that right there.&nbsp; And jobs growth was revised lo...
+
+- [Goldman&#39;s Hatzius and Snider on the Outlook for 2026 | Odd Lots](https://www.youtube.com/watch?v=7WrpqjcMCWI)
+  > One consistent pattern at the top of almost every equity bull market in the past has been tightening Fed policy instead of easing policy that we have today. And then of course, this is a very small an...
+
+- [Stagflation](https://www.youtube.com/watch?v=x-Q47erm5MI)
+  > Stagflation is a word that for one reason or another is going to get thrown around a lot more over the coming months. But all it means is simply increasing unemployment and slow economic growth at the...
 
 ## Sources (RSS)
 - [Plans to end gazumping with binding agreements in house sales shake-up](https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss)
