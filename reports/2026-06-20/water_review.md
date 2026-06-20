@@ -1,21 +1,23 @@
 # WATER REVIEW
 **Date:** 2026-06-20
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Groundwater depletion and decline in water levels due to drought and unsustainable use
+Анализ на WATER_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Over-extraction of groundwater for agricultural and human consumption purposes, exacerbated by climate change and lack of effective water management systems
-
-## Proposed Actions
-- **Implement efficient irrigation systems and water-saving technologies in agriculture** — Reduce groundwater extraction by 20% within the next 2 years
-- **Develop and enforce sustainable water management policies and regulations** — Increase water recycling and reuse by 30% within the next 5 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: Gemini rate limit
 
 ## Sources (YouTube)
-- [The Yamuna, India's most polluted river - YouTube](https://www.youtube.com/watch?v=eHCaIvPN2rY)
-  > [DESCRIPTION FALLBACK] Guardian India correspondent Michael Safi takes a journey along the Yamuna river. Subscribe to The Guardian on YouTube https://www.youtube.com/user/theguar......
+- [Explained | World&#39;s Water Crisis | FULL EPISODE | Netflix](https://www.youtube.com/watch?v=C65iqOSCZOY)
+  > [narrator] Turn on a faucet and clean water rushes out, as much as we want, anytime we want. It's easy to forget that the quest for this has been one of the defining struggles of human history. Civili...
+
+- [Fresh water scarcity: An introduction to the problem - Christiana Z. Peppard](https://www.youtube.com/watch?v=otrpxtAmDAk)
+  > you you might have heard that we're running out of fresh water this might sound strange to you because if you live in a place where water flows freely from the tap or shower at any time it sure doesn'...
+
+- [Water scarcity - Innovation to combat drought | DW Documentary](https://www.youtube.com/watch?v=5zyxsOMw634)
+  > [music] Climate change is making it clear what a precious treasure we have in water. &gt;&gt; We simply want to use the ground water we have, good, safe water, as efficiently as we can. &gt;&gt; Yet, ...
 
 ## Sources (RSS)
 - [Setting Fires On Purpose to Cut Risk of Catastrophic Wildfires](https://www.circleofblue.org/2026/great-lakes/setting-fires-on-purpose-to-cut-risk-of-catastrophic-wildfires/)
