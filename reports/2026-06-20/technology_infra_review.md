@@ -1,27 +1,20 @@
 # TECHNOLOGY INFRA REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Insufficient access to digital tools and high-speed internet for all people, exacerbating the digital divide
+Анализ на TECHNOLOGY_INFRA_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Systemic poverty and lack of investment in digital infrastructure, particularly in underserved areas
-
-## Proposed Actions
-- **Implement programs to increase access to affordable high-speed internet and digital devices** — Reduce the number of households without internet access by 20% within the next 12 months
-- **Support non-profit organizations working to close the digital divide** — Increase the number of people served by these organizations by 30% within the next 18 months
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [Closing the Digital Divide: How Upwork Supports Human-I-T’s Social Mission](https://www.youtube.com/watch?v=cz-rOhiMxmo)
-  > [DESCRIPTION FALLBACK] Human-I-T is a nonprofit social enterprise committed to ensuring everybody in the world has access to the digital tools they need ......
+- [What the Digital Divide Means in 2026 - YouTubeNet Inclusion 2026 - Bridging the Digital Divide in ... - YouTubeConnected Nation updates the Digital Divide numbers for 2026Digital 2026: internet users pass the 6 billion markInternet use, smartphone ownership, digital divides in the US ...Arjun Linglala: The Digital Divide | TED TalkDigital 2026 Global Overview Report - DataReportal](https://www.youtube.com/watch?v=IrhuVi0Sltc)
+  > We've spent years trying to connect the world, and we've made remarkable world, and we've made remarkable progress. Today, billions of people are online. But what if access isn't the problem But what ...
 
-- [Bedford County closes digital divide with $25 million boost in high-speed internet](https://www.youtube.com/watch?v=3qAfCKfQIUc)
-  > [DESCRIPTION FALLBACK] Bedford County is making big strides in closing the digital divide with a major boost in high-speed internet access. Thanks to a ......
-
-- [IDIA Bridges the Digital Divide | Verizon](https://www.youtube.com/watch?v=f0YlO17l9dg)
-  > [DESCRIPTION FALLBACK] Systemic poverty deepens the digital divide, but IDIA and Verizon can move mountains. Through critical partnerships, IDIA ......
+- [Net Inclusion 2026 - Bridging the Digital Divide in ... - YouTubeConnected Nation updates the Digital Divide numbers for 2026Digital 2026: internet users pass the 6 billion markInternet use, smartphone ownership, digital divides in the US ...Arjun Linglala: The Digital Divide | TED TalkDigital 2026 Global Overview Report - DataReportal](https://www.youtube.com/watch?v=BICaOlqfvfo)
+  > Welcome. My name is Gina Denise Cooper Benjamin. I am the deputy director of NDIA and I'm so happy to be moderating this PL panel today. We're going to have a fun lively conversation. I'm going to sta...
 
 ## Sources (RSS)
 - [How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)](https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html)
