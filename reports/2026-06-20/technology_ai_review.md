@@ -1,29 +1,23 @@
 # TECHNOLOGY AI REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-The high cost of AI coding tools, such as Claude Code, is a barrier to accessibility for many developers
+Анализ на TECHNOLOGY_AI_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-The high development and maintenance costs of AI models, combined with the desire for profit by companies like Anthropic, lead to expensive pricing models for end-users
-
-## Proposed Actions
-- **Develop and promote open-source or low-cost AI coding alternatives** — Increase the number of developers using affordable AI coding tools by 20% within the next 6 months
-- **Encourage companies to offer tiered pricing models or discounts for non-profit and educational use** — Achieve a 30% increase in the number of non-profit and educational organizations using AI coding tools within the next year
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [Dr. Deepika Chopra | The Power of Real Optimism | Talks at Google](https://www.youtube.com/watch?v=cgPAAt9Nd7o)
-  > [DESCRIPTION FALLBACK] Psychologist and visual imagery expert, Dr. Deepika Chopra,  known as the The Optimism Doctor®,  discusses her book "The Power of Real Optimism: A Practical, Science-Based Guide...
+- [The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED](https://www.youtube.com/watch?v=qe9QSCF-d88)
+  > When my son Patrick was around 3, four When my son Patrick was around 3, four years old, I came regularly into his playroom and he was playing with these blocks with letters. I wanted to him to learn ...
 
-- [Jeff Kinney | Diary of a Wimpy Kid: Partypooper | Talks at Google](https://www.youtube.com/watch?v=t8ZUiinrksw)
-  > [DESCRIPTION FALLBACK] New York Times bestselling author, Jeff Kinney, talks about "Partypooper" his global smash-hit series, "Diary of a Wimpy Kid" which has sold over 300 million copies!
+- [AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://www.youtube.com/watch?v=eXdVDhOGqoE)
+  > So I've been an AI researcher for over a decade. And a couple of months ago, I got the weirdest email of my career. A random stranger wrote to me saying that my work in AI is going to end humanity. No...
 
-In Partypo...
-
-- [Susie Wolff | Driven | Talks at Google](https://www.youtube.com/watch?v=YG5w939A9yQ)
-  > [DESCRIPTION FALLBACK] F1 Academy’s Managing Director, former professional racing driver and one of the most respected women in motorsport Susie Wolff discusses her book Driven, an inside look at the ...
+- [Irina Rish—AGI, Scaling, Alignment](https://www.youtube.com/watch?v=ZwvJn4x714s)
+  > what happened within couple of years in terms of the the gradient if you kind of continue along that gradient uh it indeed could be within I don't know 20 years or so what's the probability you think ...
 
 ## Sources (RSS)
 - [The Download: AI bottleneck debates, and BCI trials take off](https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/)
