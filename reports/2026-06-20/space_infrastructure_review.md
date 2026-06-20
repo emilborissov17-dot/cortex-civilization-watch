@@ -1,24 +1,20 @@
 # SPACE INFRASTRUCTURE REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-The rapid development and launch of various satellite constellations and space infrastructure without a unified global governance framework may lead to increased risks of collisions, debris, and unsustainable space activities
+Анализ на SPACE_INFRASTRUCTURE_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Lack of international cooperation and regulation in space activities, driven by the commercialization of space and the absence of a comprehensive global governance framework
-
-## Proposed Actions
-- **Establish a global registry for satellite constellations and space infrastructure** — Achieve 90% registration rate of all satellites and space infrastructure within the next 2 years
-- **Develop and adopt international standards for sustainable space activities** — Reach consensus among 80% of space-faring nations on a set of standards within the next 3 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
 - [NASA's SpaceX 34th Commercial Resupply Services Undocking](https://www.youtube.com/watch?v=fu-t3Om6DIA)
-  > [DESCRIPTION FALLBACK] Watch a SpaceX Dragon spacecraft undock and depart from the International Space Station. The spacecraft is scheduled to undock at 12:05 p.m. EDT (1705 UTC) on Tuesday, June 16, ...
+  > Heat. Heat. [music] [music] Heat. Heat. Heat. Heat. [music] [music] [music] &gt;&gt; [music] [music] &gt;&gt; Heat. Heat. &gt;&gt; [music] [music] [music] &gt;&gt; Good morning and welcome to Mission ...
 
 - [Artemis III Announcement Recap: Crew, Mission Details, and What’s Next](https://www.youtube.com/watch?v=G-GD8SQ0AvU)
-  > [DESCRIPTION FALLBACK] Another step toward one of the most complex spaceflight missions in history, NASA provided updates on Artemis III and announced crew members for the test flight. Planned to laun...
+  > I am so grateful to be here with all of you as we discuss the Artemis program [music] and announce the four astronauts who will undertake this very exciting who will undertake this very exciting missi...
 
 - [Introducing Artemis III](https://www.youtube.com/watch?v=QONgJurkigk)
   > [DESCRIPTION FALLBACK] In 2027, the Artemis III mission will practice docking the Orion spacecraft with two lunar landers in low Earth orbit. On future Artemis missions, landers will bring astronauts ...
