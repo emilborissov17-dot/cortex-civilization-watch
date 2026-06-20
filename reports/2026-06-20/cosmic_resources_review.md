@@ -1,24 +1,23 @@
 # COSMIC RESOURCES REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Insufficient legal frameworks and regulations for asteroid mining, hindering its development and potential benefits
+Анализ на COSMIC_RESOURCES_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Lack of international agreements and national laws governing asteroid mining, leading to uncertainty and barriers to investment
-
-## Proposed Actions
-- **Develop and implement international laws and regulations for asteroid mining** — Establish a clear legal framework for asteroid mining within the next 2 years
-- **Increase investment in asteroid mining research and development** — Allocate at least $100 million in funding for asteroid mining research and development within the next 5 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [Mining Asteroids for Resources: The Future of Space Economy ...ASTEROID MINING & THE TRILLION-DOLLAR SPACE ECONOMY - YouTubePBS Space Time | How Asteroid Mining Will Save Earth | Season ...What is asteroid mining and how close are we to making it a ...How Asteroid Mining Could Change Earth Forever | Watch - MSNThe Asteroid Economy: Reshaping Global Industries and MarketsAre we on the verge of mining metals from the asteroids ... - BBC](https://www.youtube.com/watch?v=Edf7XCHRHLw)
-  > [DESCRIPTION FALLBACK] Oct 11, 2025 · Learn how scientists and private companies plan to extract materials from asteroids to support space exploration and Earth’s growing demand. Discover the technolo...
+- [Unlimited Resources From Space – Asteroid Mining](https://www.youtube.com/watch?v=y8XvQNt26KI)
+  > ah casually watching a video on YouTube on a computer more powerful than anything Humanity could build a few decades ago this progress and all the wonderful machines you take for granted are built on ...
 
-- [ASTEROID MINING & THE TRILLION-DOLLAR SPACE ECONOMY - YouTubePBS Space Time | How Asteroid Mining Will Save Earth | Season ...What is asteroid mining and how close are we to making it a ...How Asteroid Mining Could Change Earth Forever | Watch - MSNThe Asteroid Economy: Reshaping Global Industries and MarketsAre we on the verge of mining metals from the asteroids ... - BBC](https://www.youtube.com/watch?v=R3igSQ71z-I)
-  > [DESCRIPTION FALLBACK] Feb 6, 2026 · What if the key to Earth’s future resources lies not on our planet—but in space? Asteroid mining is emerging as one of the most exciting and profitable frontiers o...
+- [What Happened To Space Mining?](https://www.youtube.com/watch?v=HZPy8hH86LY)
+  > just a couple of years ago it seemed that space mining was inevitable analysts Tech Visionaries and even renowned astrophysicist Neil Degrassi Tyson predicted that space mining was going to be big bus...
+
+- [Asteroid Mining Is No Longer Sci-Fi: TransAstra, AstroForge &amp; Karman+ Explained](https://www.youtube.com/watch?v=DHHAedVxWzw)
+  > Today I'm looking at the asteroid startup scene. I'll cover a few of the startups with plans to mine asteroids for metals or volatiles and return them to Earth orbit for sale. Several missions have de...
 
 ## Sources (RSS)
 - [India’s Jio lays out sovereign LEO constellation plan ahead of IPO](https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/)
