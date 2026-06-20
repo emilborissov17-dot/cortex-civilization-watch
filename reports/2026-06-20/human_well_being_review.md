@@ -1,27 +1,23 @@
 # HUMAN WELL BEING REVIEW
 **Date:** 2026-06-20
 
-**Severity:** MEDIUM
+**Severity:** UNKNOWN
 
 ## Problem
-Many people still lack access to safe blood supplies globally
+Анализ на HUMAN_WELL_BEING_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Persistent inequalities in access to healthcare and weaknesses in government policies
-
-## Proposed Actions
-- **Implementing nationwide blood donation awareness campaigns** — Increase voluntary blood donations by 10% within the next 6 months
-- **Strengthening healthcare infrastructure in underserved areas** — Reduce the gap in access to safe blood supplies by 20% within the next 2 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
 - [Inside The AI Race: DeepMind, OpenAI, Anthropic, China, and The Race to Superintelligence](https://www.youtube.com/watch?v=-UetKKxKqKU)
-  > [DESCRIPTION FALLBACK] Sebastian Mallaby is the Paul A. Volcker senior fellow for international economics at the Council on Foreign Relations, a two-time Pulitzer Prize finalist, and the author of six...
+  > I began by thinking, of course, AI is going to be smarter than us, but it doesn't have an incentive to attack us. And then one day, I go visit Jeff Hinton, the academic father of deep learning who liv...
 
 - [The Path from The Soviet Union to Building Multi-Billion Dollar Companies — Max Levchin](https://www.youtube.com/watch?v=uOjgVxOfxXo)
-  > [DESCRIPTION FALLBACK] Max Levchin is a serial entrepreneur and investor in 100+ startups. He's the founder and CEO of Affirm, the payment network powering consumer purchases and merchant growth. An o...
+  > I was asking myself actually a question like why is our relationship as good as it is and it is really good and is there anything to learn about co-ounding companies like you're co-ounding a family wh...
 
 - [Reimagining Biotech with Jake Becraft of Strand Therapeutics — Tim’s Founder Kitchen](https://www.youtube.com/watch?v=mZ-vJ6kDRD0)
-  > [DESCRIPTION FALLBACK] Jake Becraft is the CEO and co-founder of Strand Therapeutics, a company building one of the most advanced programmable genetic medicine platforms in biotechnology. Under his le...
+  > What we are in the midst of right now is the United States massively losing to China. China has built an industrialized version of clinical trial infrastructure for first- inhuman trials that is so ef...
 
 ## Sources (RSS)
 - [WHO issues comprehensive guidelines on filovirus disease, including Ebola and Marburg disease](https://www.who.int/news/item/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease)
