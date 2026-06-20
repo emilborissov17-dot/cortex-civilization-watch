@@ -1,21 +1,20 @@
 # INEQUALITY POVERTY REVIEW
 **Date:** 2026-06-20
 
-**Severity:** CRITICAL
+**Severity:** UNKNOWN
 
 ## Problem
-Over 40% of people in Sub-Saharan Africa live in extreme poverty
+Анализ на INEQUALITY_POVERTY_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Lack of economic growth and unequal distribution of resources in Sub-Saharan Africa
-
-## Proposed Actions
-- **Invest in education and job training programs in Sub-Saharan Africa** — Reduce poverty rate by 10% in the next 5 years
-- **Implement policies to promote fair trade and equal distribution of resources in Sub-Saharan Africa** — Increase the GDP per capita by 20% in the next 10 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [The Untold Truth About Money: How to Build Wealth From... - YouTube](https://www.youtube.com/watch?v=6mRbDEtDoyA)
-  > [DESCRIPTION FALLBACK] There is an untold truth about money – an actual equation that allows you to build wealth from nothing.It’s an equation that is hardly taught in schools if a......
+- [America’s Wealth Inequality Crisis Explained (2025 ... - YouTubeSocial Inequality 2025: Wealth and Poverty in America - YouTubeHow income inequality grows the wealth gap - Yahoo FinanceIncome Inequality news - Today’s latest updates - CBS NewsHome - WID - World Inequality DatabaseBillionaire wealth jumps three times faster in 2025 to ...WBG Poverty and Inequality Update - Fall 2025](https://www.youtube.com/watch?v=jirhqTwmVFc)
+  > Take a moment and picture this. Two families wake up on the same morning here in the United States. They live in the same country. They breathe the same air. They hear the same news. But their realiti...
+
+- [Social Inequality 2025: Wealth and Poverty in America - YouTube](https://www.youtube.com/watch?v=UJCke1yCXfY)
+  > Hello. Uh this is going to be the first uh of your video lectures for social uh of your video lectures for social inequality. Um I'm going to basically walk you through uh the PowerPoint presentations...
 
 
 ---
