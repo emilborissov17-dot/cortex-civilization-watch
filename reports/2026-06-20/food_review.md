@@ -1,21 +1,17 @@
 # FOOD REVIEW
 **Date:** 2026-06-20
 
-**Severity:** CRITICAL
+**Severity:** UNKNOWN
 
 ## Problem
-673 million people experienced hunger in 2024, and the global food supply chain is vulnerable to climate change-induced disruptions
+Анализ на FOOD_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Conflict, economic shocks, climate extremes, and forced displacement drive food insecurity and malnutrition, while rising food prices and brittle supply chains exacerbate the issue
-
-## Proposed Actions
-- **Implement climate-resilient agricultural practices and improve supply chain management** — Reduce the number of people experiencing hunger by 20% within the next 2 years
-- **Develop and implement policies to address the root causes of food insecurity, such as conflict and economic shocks** — Reduce the number of people affected by food crises by 15% within the next 3 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: Gemini rate limit
 
 ## Sources (YouTube)
-- [I Didn't Eat Food for 7 days. This is what happened to my... - YouTube](https://www.youtube.com/watch?v=KSSBiNPZs8Q)
-  > [DESCRIPTION FALLBACK] Go to https://DrinkLMNT.com/WhatIveLearned to get a free sampler pack with any purchase!Learn my optimized Fasting protocol here: https://bit.ly/FastToLas......
+- [I Didn’t Eat Food For 30 Days - YouTube](https://www.youtube.com/watch?v=vaIgyRoUkQI)
+  > I am not eating any food for the next 30 days wait won't you be hungry this is what I currently look like and I weigh 220 lb and when I say no food I really mean it this was the hardest I've ever push...
 
 
 ---
