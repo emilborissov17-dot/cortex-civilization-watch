@@ -1,21 +1,23 @@
 # GOVERNANCE RIGHTS AT HUMAN LEVEL
 **Date:** 2026-06-20
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Lack of accountability for human rights violations and discriminatory practices against marginalized groups, including child refugees and political prisoners
+Анализ на GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL — данни получени но LLM грешка
 
 ## Root Cause
-Inadequate governance and lack of effective mechanisms for holding individuals and institutions accountable for human rights abuses
-
-## Proposed Actions
-- **Establish independent investigation mechanisms to hold individuals and institutions accountable for human rights abuses** — Increase in number of investigations and prosecutions of human rights abuses by 20% within the next 12 months
-- **Provide training and resources to government agencies and policymakers on human rights laws and regulations** — 90% of government officials report feeling confident in their understanding of human rights laws and regulations within the next 6 months
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [LIVE: UN Forum on Human Rights, Democracy and Rule ... - YouTubeUN Watch | Holding the United Nations AccountableMeeting Trump’s Challenge to Human Rights | Human Rights WatchWorld Report 2026: Peru | Human Rights WatchIndia Human Rights: A Comprehensive Analysis Report - Human ...Human rights and democracy in the world: Annual report 2025](https://www.youtube.com/watch?v=WH92-ILCrrQ)
-  > [DESCRIPTION FALLBACK] It aims to provide factual, up-to-date news, analysis, and insights from India and around the world. The channel delivers a mix of content, including political news, business up...
+- [Defending Dignity: Safeguarding Human Rights in a Changing World | #SkollWF 2025](https://www.youtube.com/watch?v=IH1L0byLpZs)
+  > thank you all who are here I get the honor of introducing uh Leopoldo so I met Leopoldo Lopez recently but I've heard about Leopoldo Lopez for decades I think I first uh came across you when you were ...
+
+- [What are the universal human rights? - Benedetta Berti](https://www.youtube.com/watch?v=nDgIVseTkuE)
+  > [Music] The idea of human rights is that each one of us, no matter who we are or where we are born, is entitled to the same basic rights and freedoms. Human rights are not privileges and they cannot b...
+
+- [E84: Silencing voices — the war on civil liberties](https://www.youtube.com/watch?v=VBy5v0B671Q)
+  > [Mehran] Hello, hello, hello, and welcome! I'm Mehran Khalili. We are DiEM25, a radical, political movement for Europe, and this is another live discussion with our coordinating team, featuring subver...
 
 ## Sources (RSS)
 - [The UK’s Discriminatory  AI Experiment on Child  Refugees](https://www.hrw.org/news/2026/06/19/the-uks-discriminatory-ai-experiment-on-child-refugees)
