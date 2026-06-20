@@ -1,24 +1,17 @@
 # ECOSYSTEMS BIODIVERSITY REVIEW
 **Date:** 2026-06-20
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Deforestation and habitat loss lead to biodiversity loss and species extinction
+Анализ на ECOSYSTEMS_BIODIVERSITY_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Animal agriculture and grazing practices are significant drivers of deforestation and habitat loss
-
-## Proposed Actions
-- **Implement and enforce policies to reduce deforestation and habitat loss, such as certification programs for sustainably sourced products** — Reduce deforestation rate by 20% within the next 5 years
-- **Launch public awareness campaigns to educate consumers about the impact of their food choices on biodiversity** — Increase the proportion of consumers choosing plant-based options by 15% within the next 2 years
+LLM parsing грешка: Всички LLM backends неуспешни. Последна грешка: None
 
 ## Sources (YouTube)
-- [The Causes of Deforestation, Biodiversity Loss, and Species Extinction, Emphasizing the Impact of - YouTube](https://www.youtube.com/watch?v=QOKYEhkb1WQ)
-  > [DESCRIPTION FALLBACK] The Causes of Deforestation, Biodiversity Loss, and Species Extinction, Emphasizing the Impact of Animal Agriculture and Grazing Practices: With Glen Merzer,... Published June 1...
-
-- [How Deforestation and Habitat Loss reduce Biodiversity: Edge Effects and Extinction Debts explained - YouTube](https://www.youtube.com/watch?v=utUttHCCHXk)
-  > [DESCRIPTION FALLBACK] #habitatloss #conservation #extinctiondebt #learningEvery minute an area the size of a football field is clearcut in the Amazon basin. The mind-boggling amo... Published Decembe...
+- [One Year Ago I Built an Ecosystem, This Happened - YouTube](https://www.youtube.com/watch?v=QTH9m6MDIfc)
+  > A year ago today, I built this little chunk of rainforest. This is much more than a bedside tank. It has evolved into a dense ecosystem teeming with life. It is in this video where you can see both th...
 
 ## Sources (RSS)
 - [Global](https://iucn.org/our-work/region/global)
