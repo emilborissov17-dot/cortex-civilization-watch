@@ -1,32 +1,22 @@
 # PLANETARY POTENTIAL REVIEW
 **Date:** 2026-07-29
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-The slowing of the Atlantic current is projected to increase flood risks in California and reduce snow-producing storms in Greenland
+Mass mortality of bumblebees observed on sidewalks
 
 ## Root Cause
-Climate change, particularly the warming of the North Atlantic Ocean, is causing the slowdown of the Atlantic current
+Extreme heat combined with pesticide exposure and habitat loss reducing forage and shelter
 
 ## Proposed Actions
-- **Implement a global carbon pricing mechanism to reduce greenhouse gas emissions** — Achieve a 50% reduction in global carbon emissions by 2030
-- **Develop and implement climate-resilient infrastructure in California, such as sea walls and levees** — Reduce flood-related damages in California by 30% by 2025
-
-## Sources (YouTube)
-- [What Are the Solutions to the Climate Crisis? | Planet A](https://www.youtube.com/watch?v=gCMGFZ2A85o)
-  > Life began on planet Earth in the ocean some 3.8 billion years ago. Over the next 3 billion years, that life became increasingly complex, with amphibians emerging onto land, where mammals evolved. And...
-
-- [Planetary Boundaries: Navigating Our Limits](https://www.youtube.com/watch?v=tG-hh-gSKFQ)
-  > The anthroposine is not a new basin of attraction. It's not a new equilibrium state. It's a pressure. It's that we anthros Greek for humans are now the dominant. We're sitting in the driving seat tota...
-
-- [Be Curious: Navigating Humanity’s Future on Earth](https://www.youtube.com/watch?v=Gbsy20eI0Ho)
-  > Hi everybody and welcome to today's be curious event. I'm Nicola Jones, the director of the Springer Nature sustainable development goals program and my job is all about connecting the publishing that...
+- **Implement stricter controls on neonicotinoid and other pollinator‑harmful pesticides, including phased bans and mandatory Integrated Pest Management (IPM) protocols** — Reduce pesticide residues in bee foraging areas by 50% within 3 years, measured by environmental monitoring
+- **Increase and connect urban green infrastructure (flowering corridors, shaded habitats) to provide cooler microclimates and food sources for bumblebees** — Create at least 200 km of pollinator corridors in major cities and achieve a 30% rise in local bumblebee population indices within 5 years
 
 ## Sources (RSS)
+- [Earth’s hidden “gold kitchen” lies beneath the seafloor](https://www.sciencedaily.com/releases/2026/07/260727214628.htm)
 - [A slowing Atlantic current could unleash stronger California storms](https://www.sciencedaily.com/releases/2026/07/260727214626.htm)
-- [The best way to save giant sequoias may be more fire](https://www.sciencedaily.com/releases/2026/07/260726015243.htm)
-- [Hidden genetic diversity helped inbred brown tree snakes conquer guam](https://www.sciencedaily.com/releases/2026/07/260726015236.htm)
+- [Why are so many dead bumblebees appearing on sidewalks?](https://www.sciencedaily.com/releases/2026/07/260727012134.htm)
 
 
 ---
