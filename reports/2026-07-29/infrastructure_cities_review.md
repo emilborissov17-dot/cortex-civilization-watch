@@ -1,32 +1,32 @@
 # INFRASTRUCTURE CITIES REVIEW
 **Date:** 2026-07-29
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Substantial cuts to mass transit, bike lanes, and EV infrastructure in the DOT proposal
+Technical gaps persist in accessible pedestrian signal systems, hindering safe use by blind and low-vision pedestrians
 
 ## Root Cause
-Politically driven decisions prioritizing short-term gains over long-term sustainability
+Insufficient consideration of accessibility needs in the design and implementation of smart city infrastructure
 
 ## Proposed Actions
-- **Reallocate funds to prioritize sustainable transportation projects** — Increase the percentage of renewable energy sources used in transportation by 20% within the next 5 years
-- **Implement public awareness campaigns to educate citizens about the benefits of sustainable transportation** — Increase public support for sustainable transportation projects by 30% within the next 2 years
+- **Conduct inclusive design workshops with disability advocates to improve accessibility features** — Increase the number of accessible pedestrian signals by 20% within the next 12 months
+- **Provide training for city officials on accessible infrastructure design** — Achieve a 90% completion rate of accessibility training among city transportation staff within the next 6 months
 
 ## Sources (YouTube)
 - [Smart Cities - Infrastructure and Transport of the Future](https://www.youtube.com/watch?v=d1DndVz9dAs)
-  > the world is changing fast cities are growing an urban population is rising the need for transport of people and goods are increasing but so is congestion air pollution road accidents and climate chan...
+  > [DESCRIPTION FALLBACK] Imagine a silent and emission free city. Imagine a cleaner, safer and more resource efficient world. How do we build smart cities ......
 
 - [What is a smart city? | CNBC Explains](https://www.youtube.com/watch?v=bANfnYDTzxE)
-  > just how smart is your city chances are it's getting smarter by the year many governments around the globe are racing to infuse technology into just about every aspect of its city's operations and I m...
+  > [DESCRIPTION FALLBACK] CNBC's Uptin Saiidi looks at three cities infusing technology into every part of its operations. ----- Subscribe to CNBC International: ......
 
 - [Every Urban Planning Concept Explained in 9 Minutes](https://www.youtube.com/watch?v=Pj1vNBdQ2GA)
-  > Strategic planning. Your city spent $847 million to make your commute suck. You know that feeling when you're stuck in traffic wondering why someone built a six-lane highway through downtown? This was...
+  > [DESCRIPTION FALLBACK] Have you ever been stuck in traffic and wondered why your city spent millions on a highway that just made things worse? Or why ......
 
 ## Sources (RSS)
-- [HUD funding changes spur lawsuit from fair housing groups](https://www.smartcitiesdive.com/news/hud-funding-changes-spur-lawsuit-from-fair-housing-groups/826367/)
-- [Waymo robotaxis safer than human drivers: IIHS report](https://www.smartcitiesdive.com/news/waymo-robotaxis-safer-than-human-drivers-iihs-report/826320/)
-- [$7.6B in clean energy grant cancellations politically driven: court filing](https://www.smartcitiesdive.com/news/backlash-trumps-vindictive-grant-cancellations-doe-energy/826261/)
+- [AI adoption by local governments outpaces public trust: survey](https://www.smartcitiesdive.com/news/ai-adoption-by-local-governments-outpaces-public-trust-survey/826483/)
+- [Washington Union Station renovation seeks private investment](https://www.smartcitiesdive.com/news/washington-union-station-renovation-usdot-private-investment/826443/)
+- [Accessible pedestrian signal rollout in Chicago ahead of targets, but technical gaps persist: report](https://www.smartcitiesdive.com/news/accessible-pedestrian-signal-rollout-chicago/826452/)
 
 
 ---
