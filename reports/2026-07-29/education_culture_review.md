@@ -4,23 +4,24 @@
 **Severity:** MEDIUM
 
 ## Problem
-Insufficient emphasis on AI literacy in global education frameworks
+The education system in the US is struggling, with issues such as the Common Core and barriers to quality education
 
 ## Root Cause
-Lack of standardized AI competency frameworks and limited awareness among educators and policymakers
+Inadequate funding, outdated curriculum, and inequitable distribution of resources
 
 ## Proposed Actions
-- **Develop and promote widely adopted AI literacy standards** — Increase the number of countries adopting UNESCO's AI competency frameworks by 30% within the next 2 years
+- **Implement a revised, inclusive, and regularly updated curriculum** — Increase student proficiency rates by 15% within 2 years
+- **Increase funding for under-resourced schools and districts** — Reduce the achievement gap by 20% within 3 years
 
 ## Sources (YouTube)
-- [Keynote 2, Creativity, Global Citizenship, and Health for All | CES 2025, UNESCO Paris](https://www.youtube.com/watch?v=Czng7PNYHVg)
-  > First of all, it's my pleasure to introduce uh DDAN who's the UNESCO chair on global health and education, also a professor and head of the World Health Organization's collaborate collaborating center...
+- [Why The Education System Is Failing America | CNBC Marathon](https://www.youtube.com/watch?v=XlnspY2wOVw)
+  > [DESCRIPTION FALLBACK] CNBC Marathon explores if why the education system in the U.S. is struggling by taking a hard look at the Common Core, ......
 
-- [Building AI Literacy with UNESCO&#39;s AI Competency Frameworks](https://www.youtube.com/watch?v=Wta42k7X2Jo)
-  > All right, good afternoon everyone. Let's get started. So, welcome to the building AI literacy with UNESCO's AI competency framework panel. Uh, today we have a wonderful assortment of panelists from a...
+- [Which country has the best education in the world? - The Global Story podcast, BBC World Service](https://www.youtube.com/watch?v=liyn5xWvx44)
+  > [DESCRIPTION FALLBACK] A good education can help change lives, but some children face huge barriers. Click here to subscribe to our channel ......
 
-- [Top 10 Countries with the Highest Literacy Rates in 2025](https://www.youtube.com/watch?v=pJYV_b_QaIw)
-  > Welcome to say updates top 10 countries by adult literacy 2025. Let's begin. 10th Latvia near universal adult literacy driven by strong schooling. Ninth Estonia digital forward schools and excellent t...
+- [How China is Replacing the US (And What It Means for You)](https://www.youtube.com/watch?v=IhVxVImklZA)
+  > [DESCRIPTION FALLBACK] Will China become the world's next superpower, or is it building a 21st-century empire? As China's unprecedented economic ......
 
 
 ---
