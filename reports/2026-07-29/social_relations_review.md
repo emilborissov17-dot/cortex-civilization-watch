@@ -1,31 +1,26 @@
 # SOCIAL RELATIONS REVIEW
 **Date:** 2026-07-29
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Increasing social isolation and loneliness among Americans, with a significant number of people having no close friends to call on in times of crisis
+Increased social isolation and decreased empathy due to excessive technology use
 
 ## Root Cause
-Decline of social connections and community bonds, potentially exacerbated by societal factors such as increased focus on technology and decreased civic engagement
+Over-reliance on digital communication and lack of face-to-face interaction
 
 ## Proposed Actions
-- **Implement community-based programs that foster social connections and support networks, such as group therapy sessions or volunteer opportunities** — Increase the number of people reporting having at least one close friend by 20% within the next 2 years
+- **Implementing phone-free policies in schools** — Reduce average screen time per student by 30% within 6 months
+- **Organizing community events and activities that promote face-to-face interaction** — Increase participation in community events by 25% within 1 year
 
 ## Sources (YouTube)
-- [The Health Effects of Loneliness](https://www.youtube.com/watch?v=YoqnIs5uc8E)
-  > humans are innately social creatures few of us can truly go it alone our survival depends on having relationships with others so our species has evolved a way to make sure we maintain them loneliness ...
-
-- [Loneliness kills: How to fight depression with social support | Johann Hari | Big Think](https://www.youtube.com/watch?v=Hp-L844-5k8)
-  > [Music] as a really heartbreaking study but asks as a really heartbreaking study but asks Americans how many close friends do you have you can call on in the crisis and when they started doing it deca...
-
-- [Male inequality, explained by an expert | Richard Reeves](https://www.youtube.com/watch?v=DBG1Wgg32Ok)
-  > a number of people warned me against writing a book about boys and men because it's such a fraud subject particularly in politics right now and because so many people were afraid that merely drawing a...
+- [Is Technology Killing Empathy? A Deep Dive into the Loneliness Epidemic](https://www.youtube.com/watch?v=anj0iyliWQo)
+  > [DESCRIPTION FALLBACK] "We are more 'connected' than ever, yet a global crisis of loneliness is silently taking hold. In this special full-hour feature on ......
 
 ## Sources (RSS)
+- [Video: How precise are polls really?](https://www.pewresearch.org/methods/2026/07/29/video-how-precise-are-polls-really/)
+- [More Americans now support than oppose all-day school cellphone bans](https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/)
 - [Most Americans favor big changes to the political system that likely would require amending the Constitution](https://www.pewresearch.org/short-reads/2026/07/28/most-americans-favor-big-changes-to-the-political-system-that-likely-would-require-amending-the-constitution/)
-- [Canadians and Mexicans now view China more positively than the U.S.](https://www.pewresearch.org/short-reads/2026/07/27/canadians-and-mexicans-now-view-china-more-positively-than-the-us/)
-- [How we measured Americans’ engagement in public life](https://www.pewresearch.org/newsletter/the-briefing/how-we-measured-americans-engagement-in-public-life/)
 
 
 ---
