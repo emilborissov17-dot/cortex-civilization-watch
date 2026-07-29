@@ -1,27 +1,27 @@
 # INEQUALITY POVERTY REVIEW
 **Date:** 2026-07-29
 
-**Severity:** HIGH
+**Severity:** CRITICAL
 
 ## Problem
-Severe wealth inequality in the United States and other countries, such as South Africa, where the richest fraction of the population holds a disproportionate amount of wealth
+Generational poverty persists due to ineffective welfare programs and lack of access to education and job opportunities
 
 ## Root Cause
-Unregulated capitalist systems and inadequate social policies that favor the wealthy, leading to a concentration of wealth and power
+Systemic issues, including racism and inadequate social support systems, contribute to the perpetuation of poverty
 
 ## Proposed Actions
-- **Implementing progressive taxation policies to reduce wealth disparities** — Decrease in the Gini coefficient, indicating a more equitable distribution of wealth
-- **Increasing access to quality education and job training programs to enhance social mobility** — Increase in the percentage of low-income individuals achieving middle-class status
+- **Implement evidence-based welfare program reforms focusing on education, job training, and social support** — Reduce generational poverty rates by 20% within 5 years
+- **Develop and fund community-based initiatives providing access to education and job training** — Increase high school graduation rates among low-income communities by 30% within 3 years
 
 ## Sources (YouTube)
-- [Wealth Inequality in America Has Never Been Worse. The Middle Class Has Disappeared](https://www.youtube.com/watch?v=EdqxBNgnmxU)
-  > most people have no clue about how severe wealth inequality has become in America and how much worse it's getting there's a YouTube video by user paulit Zane where he references a study done by a Harv...
+- [New study reveals the effect of racism and poverty on children’s brains](https://www.youtube.com/watch?v=RQYfLGKVq-Y)
+  > [DESCRIPTION FALLBACK] Childhood trauma can have lasting psychological effects. A new study has found that early childhood stress from racism, poverty ......
 
-- [Is inequality inevitable?](https://www.youtube.com/watch?v=rEnf_CFoyv0)
-  > foreign [Music] South Africa one of the most unequal countries in the world the richest one-tenth of one percent owns almost 30 percent of all the country's wealth more than double what the bottom 90 ...
+- [Why is it so hard to escape poverty? - Ann-Helén Bay](https://www.youtube.com/watch?v=D9N7QaIOkG8)
+  > [DESCRIPTION FALLBACK] Explore the paradox of welfare programs, and learn how they inadvertently reinforce generational poverty, and what we can do to ......
 
-- [K-shaped economy: Why the wealthy are thriving as most Americans fall behind](https://www.youtube.com/watch?v=xgQlAZ3uTYY)
-  > amna: The markets may have finished this day on a mixed But if you have been watching lately, you may have noticed the markets have continued to be strong, despite continuing concerns around the shutd...
+- [Using Brain Science to Create New Pathways out of Poverty: Beth Babcock at TEDxBeaconStreet](https://www.youtube.com/watch?v=kHIq-8J2K0Q)
+  > [DESCRIPTION FALLBACK] It wasn't that long ago that finding a job to get out of poverty was pretty straightforward. Jobs were plentiful and you didn't need a ......
 
 
 ---
