@@ -1,31 +1,36 @@
 # SPACE INFRASTRUCTURE REVIEW
 **Date:** 2026-07-29
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-NASA's Deep Space Network is operating at capacity and can't keep up with increasing demand, which could lead to loss of important scientific data
+Critical NASA Deep Space ground station in Spain evacuated due to wildfires, disrupting communication with spacecraft beyond near-Earth capabilities
 
 ## Root Cause
-Lack of investment and outdated infrastructure in NASA's Deep Space Network
+Climate change and increased frequency of wildfires, exacerbated by human activities and inadequate emergency preparedness
 
 ## Proposed Actions
-- **Upgrade and expand NASA's Deep Space Network infrastructure** — Increase network capacity by 20% within the next 12 months
+- **Implementing advanced wildfire detection and prevention systems at critical infrastructure sites** — Reduce evacuation events by 50% within the next 2 years
+- **Developing redundant communication systems for deep space missions** — Achieve 99.9% uptime for critical communication systems within the next 5 years
 
 ## Sources (YouTube)
-- [How to Build in Space — for Life on Earth | Ariel Ekblaw | TED](https://www.youtube.com/watch?v=IHrGK3Mu5K4)
-  > I once had a professor ask me, "Why in the world do we spend so much money on space exploration in the face of so many pressing challenges here on Earth?" It's a good question and a tough one for me. ...
+- [Nancy Grace Roman Space Telescope Mission Preview News Conference (July 29, 2026)](https://www.youtube.com/watch?v=7I-yAwdxWQo)
+  > [DESCRIPTION FALLBACK] Tune in as we preview the Nancy Grace Roman Space Telescope mission one month ahead of its scheduled launch on Aug. 30! Experts from NASA are providing an overview of the missio...
 
-- [ENGINEERING EARTH:  Sci-fi Solutions to Earth&#39;s Problems | 4K Documentary](https://www.youtube.com/watch?v=rN5f72lhJz8)
-  > [Music] [Music] H t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h t h h [Music] Heat. Heat. [Music] [Music] in 1815. 15, a myste...
+- [2026 Total Solar Eclipse (Official NASA Trailer)](https://www.youtube.com/watch?v=29ixFQIGZaY)
+  > [DESCRIPTION FALLBACK] The Sun and Moon are coming together to put on a show for Earth, and we'll be sharing it with you.
 
-- [NASA’s Infrastructure Crisis, Explained | WSJ](https://www.youtube.com/watch?v=-Hkbv3H4ulw)
-  > spacecraft tens of billions of miles away rely on this network of satellite dishes to communicate with Earth but this system is in trouble the deep space network is operating at capacity and can't kee...
+On Aug. 12, 2026, a total solar eclipse will be visible in parts of Greenland...
+
+- [NASA Astronaut Chris Williams Soyuz MS-28 Re-entry and Landing](https://www.youtube.com/watch?v=4h884umjihw)
+  > [DESCRIPTION FALLBACK] After 241 days in orbit, astronaut Chris Williams is returning home from his first mission to the International Space Station.
+
+Williams, along with cosmonauts Sergey Kud-Sverch...
 
 ## Sources (RSS)
-- [Boeing still working with NASA to schedule next Starliner flight](https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/)
-- [Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush](https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/)
-- [Swift reboost mission encounters attitude control problems](https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/)
+- [LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE](https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/)
+- [Fortastra and Hadrian join forces to streamline satellite production](https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/)
+- [H3 to launch next ispace lunar lander mission](https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/)
 
 
 ---
