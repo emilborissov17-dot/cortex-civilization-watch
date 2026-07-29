@@ -4,28 +4,29 @@
 **Severity:** MEDIUM
 
 ## Problem
-Insufficient funding for cost-of-living measures and potential economic instability
+Potential economic instability due to uncertain interest rates and trade policies
 
 ## Root Cause
-Lack of borrowing scope and potential economic recession
+Lack of clear economic policy and global cooperation
 
 ## Proposed Actions
-- **Implement fiscal policies to increase revenue and reduce borrowing** — Reduce budget deficit by 10% within the next 6 months
+- **Implement transparent and predictable monetary policies** — Reduce interest rate volatility by 20% within the next 6 months
+- **Promote global cooperation on trade policies** — Increase international trade agreements by 30% within the next 2 years
 
 ## Sources (YouTube)
-- [What causes an economic recession? - Richard Coffin](https://www.youtube.com/watch?v=SwaCg7Gwtzw)
-  > [Music] for millennia the people of britain had been using bronze to make tools and jewelry and as a currency for trade but around and as a currency for trade but around 800 bce that began to change t...
+- [AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://www.youtube.com/watch?v=eXdVDhOGqoE)
+  > [DESCRIPTION FALLBACK] AI won't kill us all — but that doesn't make it trustworthy. Instead of getting distracted by future existential risks, AI ethics researcher ......
 
-- [What If US Economy CRASHES TOMORROW](https://www.youtube.com/watch?v=y7oKbvbnqjY)
-  > The United States is the wealthiest nation on Earth with the largest economy and a GDP topping $30 trillion. But imagine waking up tomorrow and it's all gone. The stock market has collapsed. Your savi...
+- [The single biggest reason why start-ups succeed | Bill Gross | TED](https://www.youtube.com/watch?v=bNpx7gpSqbY)
+  > [DESCRIPTION FALLBACK] Bill Gross has founded a lot of start-ups, and incubated many others — and he got curious about why some succeeded and others ......
 
-- [Every US Recession Since 1929, Ranked by How Much It Actually Hurt](https://www.youtube.com/watch?v=G2ogn8DRgm4)
-  > Winter 1932. A worker stands in a bread line three blocks long. He has a job or he did 3 weeks ago. Cut to 2009. Same fear, different building. [music] He's carrying a cardboard box out an office. Lai...
+- [Demis Hassabis On The Future of Work in the Age of AI](https://www.youtube.com/watch?v=CRraHg4Ks_g)
+  > [DESCRIPTION FALLBACK] WIRED Editor At Large Steven Levy sits down with Google DeepMind CEO Demis Hassabis for a deep dive discussion on the ......
 
 ## Sources (RSS)
-- [Burnham has no scope to increase borrowing, think tank warns](https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss)
-- [Brits urged to avoid dangerous plug adaptors this summer - what to watch out for](https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss)
-- [Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack](https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss)
+- [US interest rates held for fifth time in a row](https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss)
+- [Some tech shares are plunging - what does that mean for the AI revolution?](https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss)
+- [Ticket prices set to rise by 15p as Heathrow able to recover runway project money](https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss)
 
 
 ---
