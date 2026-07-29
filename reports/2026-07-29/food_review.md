@@ -1,27 +1,26 @@
 # FOOD REVIEW
 **Date:** 2026-07-29
 
-**Severity:** CRITICAL
+**Severity:** HIGH
 
 ## Problem
-343 million people are facing acute hunger globally
+Global food insecurity and hunger due to disruptions in food supply chains
 
 ## Root Cause
-Disruption of global food supply chains due to conflict and climate change
+Conflict and climate change leading to unreliable food production and distribution
 
 ## Proposed Actions
-- **Implement and support community-based farming projects** — Reduce the number of people facing acute hunger by 10% within the next 2 years
-- **Develop and invest in climate-resilient agriculture technologies** — Increase crop yields by 15% in areas affected by climate change within the next 5 years
+- **Implement and support community-supported agriculture (CSA) programs globally** — Increase the number of CSA programs by 20% within the next 2 years, and reduce global hunger by 10%
 
 ## Sources (YouTube)
 - [The Future of Food: Can Community Farms Solve Global Hunger?](https://www.youtube.com/watch?v=8awsHPEyP7A)
-  > All right, let's just jump right in with a number. 343 million. I mean, just let that sink in for a second. That's how many people right now are facing acute hunger. It's a staggering, almost unimagin...
+  > [DESCRIPTION FALLBACK] This video explores the pressing issue of global food insecurity and investigates whether Community Supported Agriculture (CSA) ......
 
 - [A world going hungry? How conflict and climate change disrupt global food supply | Business Beyond](https://www.youtube.com/watch?v=5YcvKvxWaCE)
-  > The world is struggling to feed itself. A planet that once looked like it was winning the&nbsp; war on starvation is now heading for disaster. “There is one person dying from hunger every&nbsp; minute...
+  > [DESCRIPTION FALLBACK] The battle against hunger is quite literally, an existential one. But there was a time when winning that battle seemed within reach ......
 
 - [Food security - A growing dilemma | DW Documentary](https://www.youtube.com/watch?v=wu7PjKawjwI)
-  > Fresh food galore. In Germany, we're used to supermarkets brimming with produce, but often it has come from far away. That makes our supply chains away. That makes our supply chains vulnerable. The wa...
+  > [DESCRIPTION FALLBACK] Many countries, particularly in the West, have long taken reliable food supplies for granted. But climate change, conflict and ......
 
 
 ---
