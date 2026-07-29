@@ -1,32 +1,32 @@
 # CLIMATE GLOBAL RISK REVIEW
 **Date:** 2026-07-29
 
-**Severity:** HIGH
+**Severity:** CRITICAL
 
 ## Problem
-Increased frequency and severity of extreme weather events, such as heatwaves, wildfires, and tropical cyclones
+The world is falling short on 22 of 23 nature targets for 2030, and climate change is driving a shift in childhood malaria risk across Africa
 
 ## Root Cause
-Climate change, driven by human activities such as burning fossil fuels and deforestation, leading to rising global temperatures and altered weather patterns
+Insufficient action by countries to accelerate progress towards halting and reversing nature loss
 
 ## Proposed Actions
-- **Increase investment in renewable energy infrastructure, such as wind farms and solar panels** — Reduce greenhouse gas emissions from energy production by 50% within the next 10 years
-- **Implement policies to protect and restore natural ecosystems, such as reforestation efforts and wetland conservation** — Increase global forest cover by 10% within the next 20 years
+- **Implement and accelerate renewable energy targets, such as those outlined in China's 15th five-year plan** — Increase global renewable energy production by 20% by 2028
+- **Develop and implement policies to protect and restore natural ecosystems, such as reforestation efforts** — Restore 15% of degraded ecosystems by 2030
 
 ## Sources (YouTube)
-- [Climate Extremes:  Extreme Weather (Full Documentary)](https://www.youtube.com/watch?v=X6VCTfzl1DU)
-  > The range of weather extremes that we're experiencing today is already noticeably different, detectably, scientifically different than it was in the 20th century. And of course, the problem with that ...
+- [New Climate Research Warns of Faster Warming, AMOC Instability &amp; Rising Tipping Point Risks](https://www.youtube.com/watch?v=JOmwQL3eTL0)
+  > [DESCRIPTION FALLBACK] A wave of new climate research in 2026 is raising urgent questions about whether global warming is accelerating, how stable key ......
 
-- [Is the weather actually becoming more extreme? - R. Saravanan](https://www.youtube.com/watch?v=NCPTbfQyMt8)
-  > [Music] from 2016 to 2019 meteorologists saw record-breaking heat waves around the globe rampant wildfires in california and rampant wildfires in california and australia and the longest run of catego...
+- [Latest Data : El Niño is here and it has SMASHED all records!](https://www.youtube.com/watch?v=aErvUF2PHew)
+  > [DESCRIPTION FALLBACK] "It looks like this year's El Niño is not only very likely to be the strongest event since reliable records began – it may end up the ......
 
-- [A Super El Niño Is Coming in 2026](https://www.youtube.com/watch?v=_b_sGbjSVZQ)
-  > Something is shifting in the Pacific Something is shifting in the Pacific Ocean. It's not a storm or a current you can see from the surface, but a slow, powerful build-up of heat spanning thousands of...
+- [The Tipping Points of Climate Change — and Where We Stand | Johan Rockström | TED](https://www.youtube.com/watch?v=Vl6VhCAeEfQ)
+  > [DESCRIPTION FALLBACK] We're nearly halfway through the 2020s, dubbed the most decisive decade for action on climate change. Where exactly do things ......
 
 ## Sources (RSS)
-- [Sizing Up the Sargassum Belt](https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/)
-- [Smoke Blankets Oregon](https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/)
-- [NASA Astronaut Chris Williams to Discuss Space Station Mission](https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/)
+- [NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse](https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/)
+- [NASA’s Curiosity Views a Sand-Capped Butte](https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/)
+- [NASA’s Curiosity Discovers a Field of Martian Polygons](https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/)
 
 
 ---
