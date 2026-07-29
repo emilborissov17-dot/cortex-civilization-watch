@@ -4,29 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-Lack of transparency and safety protocols in AI development, as evidenced by the Hugging Face attack and the poor safety ratings of AI companies
+High cost and hype-driven adoption of AI coding tools limit equitable access for developers and increase financial strain on small firms.
 
 ## Root Cause
-Insufficient prioritization of safety and transparency in the pursuit of AI innovation and profit
+Commercial AI providers price advanced models (e.g., Claude Code up to $200/month) while marketing hype inflates demand, creating a barrier for low‑budget developers.
 
 ## Proposed Actions
-- **Implement and enforce strict safety protocols for AI development** — Reduce the number of AI-related security breaches by 50% within the next 12 months
-- **Increase funding for AI safety research and development** — Increase the number of AI safety research papers published by 20% within the next 12 months
+- **Create a publicly funded, open‑source AI coding platform with tiered free access for small teams and startups.** — At least 50% of surveyed small developers report using the platform as primary coding assistant within 12 months.
+- **Implement a pricing transparency standard requiring AI vendors to publish cost‑per‑token and alternative low‑cost plans.** — Compliance by 80% of top AI coding vendors within 6 months measured via audit of published pricing pages.
 
 ## Sources (YouTube)
-- [Why AGI Safety Can’t Wait...](https://www.youtube.com/watch?v=lYo6zaV5IMg)
-  > Artificial intelligence is transforming our world at an astonishing pace. However, just like the myth of Pandora's box, it holds the potential for unintended and potentially catastrophic consequences....
+- [Dr. Robert Wachter | A Giant Leap: How AI Is Transforming Healthcare... | Talks at Google](https://www.youtube.com/watch?v=zKMWLs3S9yg)
+  > [DESCRIPTION FALLBACK] Physician and thought leader Dr. Robert Wachter discusses his book "A Giant Leap: How AI Is Transforming Healthcare and What That Means for Our Future," an engaging, clear-eyed,...
 
-- [Scientists Graded AI Companies On Safety … It Went Badly](https://www.youtube.com/watch?v=c82xuCSx_9k)
-  > Hey, what you reading? Oh, it's the aircraft safety index for summer 2025. Oh, cool. We're flying on an open plane, right? How'd they do? Uh, a C overall and an F on flight safety. Bro, what do you me...
+- [Leo Ku  | From Passion to Profession | Talks at Google](https://www.youtube.com/watch?v=rixcd95VVuM)
+  > [DESCRIPTION FALLBACK] HKG, singer, actor, model, MV director, producer and designer, Leo Ku, shares his stories around how he’s been able to turn his passion into a remarkable career, how he has over...
 
-- [AI Agents for Cybersecurity: Enhancing Automation &amp; Threat Detection](https://www.youtube.com/watch?v=xdUR8-_P3DU)
-  > Cybersecurity threats increase as data volumes grow, and finding real threats hidden among the noise of all that data is a challenge. And there's a chronic shortage of cybersecurity professionals like...
+- [Dr. Deepika Chopra | The Power of Real Optimism | Talks at Google](https://www.youtube.com/watch?v=cgPAAt9Nd7o)
+  > [DESCRIPTION FALLBACK] Psychologist and visual imagery expert, Dr. Deepika Chopra,  known as the The Optimism Doctor®,  discusses her book "The Power of Real Optimism: A Practical, Science-Based Guide...
 
 ## Sources (RSS)
-- [The Download: OpenAI’s predictable hack, and an AI stock sell-off](https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/)
-- [Samsung’s chip workers are jumping ship to rival SK Hynix](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/)
-- [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/)
+- [How an overlooked geothermal plant got a second chance](https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/)
+- [The Download: a chip talent battle, and deflating AI hype](https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/)
+- [The AI Hype Index: Unsexy AI](https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/)
 
 
 ---
