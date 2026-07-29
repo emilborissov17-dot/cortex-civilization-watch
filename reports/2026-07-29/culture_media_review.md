@@ -4,29 +4,28 @@
 **Severity:** HIGH
 
 ## Problem
-The spread of false news and misinformation through social media
+Lack of accountability for powerful individuals in the entertainment industry, as seen in the Jared Leto abuse allegations
 
 ## Root Cause
-Lack of effective regulation and fact-checking mechanisms on social media platforms
+Power dynamics and fear of retaliation, allowing perpetrators to avoid consequences for their actions
 
 ## Proposed Actions
-- **Implementing independent fact-checking mechanisms on social media platforms** — Reducing the spread of false news by 30% within the next 6 months
-- **Developing and enforcing stricter laws and regulations regarding online misinformation** — Increasing the percentage of social media users who report misinformation by 25% within the next year
+- **Implement a mandatory reporting system for abuse allegations in the entertainment industry** — A 20% increase in reported allegations within the first year, with a corresponding 15% increase in prosecutions
 
 ## Sources (YouTube)
+- [Does Fighting Disinformation Mean Denying Freedom of Speech](https://www.youtube.com/watch?v=CbrJlnOtH3M)
+  > [DESCRIPTION FALLBACK] Disinformation can be a weapon of destruction, yet attempts to shut it down have run into opposition from those who would ......
+
 - [Don&#39;t Regulate Social Media: Free Speech Matters More Than Fake News](https://www.youtube.com/watch?v=_1dfxXAs4yo)
-  > a new type of war has emerged information warfare this activity by the Russians is going to go down in history as the greatest covert action campaign in the history of Mother Russia news can have real...
+  > [DESCRIPTION FALLBACK] Both Democrats and Republicans are missing the mark when they call for the government to control the flow of information on the ......
 
-- [How Social Media Shapes Conflict](https://www.youtube.com/watch?v=TpWgPy3Ybxk)
-  > we've been developing our future of conflict program over the past few years it has three pillars the first is technology and conflict with a special focus on social media is climate and conflict whic...
-
-- [How false news can spread - Noah Tavlin](https://www.youtube.com/watch?v=cSKGa_7XJkg)
-  > [Music] there's a quote usually attributed to the writer Mark Twain that goes a lie can travel Halfway Around the World while the truth is putting on its shoes funny thing about that there's reason to...
+- [Why is some online disagreement labeled disinformation?](https://www.youtube.com/watch?v=_wIFnDYgmg4)
+  > [DESCRIPTION FALLBACK] The battle over online disinformation is usually framed as a fight for truth. But it is also a fight over power. As platforms tighten ......
 
 ## Sources (RSS)
-- [Sam Smith Opens Up About Engagement, New Musical Direction](https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html)
-- [‘Spider-Man: Brand New Day’ Review: Can We Do Whatever a Spider Can?](https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html)
-- [Lena Waithe Says Goodbye to ‘The Chi’](https://www.nytimes.com/2026/07/28/arts/television/lena-waithe-the-chi-end.html)
+- [John Leguizamo on the Success of ‘The Odyssey’ and Representation in Hollywood](https://www.nytimes.com/2026/07/29/movies/john-leguizamo-the-odyssey-christopher-nolan.html)
+- [How the Curtain Rose on One of Zaha Hadid’s Final Acts](https://www.nytimes.com/2026/07/29/arts/design/how-the-curtain-rose-on-one-of-zaha-hadids-final-acts.html)
+- [The Young Hopefuls of ‘Spring Awakening’ Take Their Musical Shot](https://www.nytimes.com/2026/07/29/theater/spring-awakening-revival-casting.html)
 
 
 ---
