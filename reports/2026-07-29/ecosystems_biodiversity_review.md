@@ -4,24 +4,24 @@
 **Severity:** CRITICAL
 
 ## Problem
-Biodiversity loss due to deforestation, habitat destruction, and other human activities is causing a significant decline in ecosystems and species
+Habitat loss and destruction of ecosystems, such as the Amazon, are leading to biodiversity decline and extinction of species
 
 ## Root Cause
-Human activities such as deforestation, habitat destruction, and pollution are the primary drivers of biodiversity loss, largely due to economic interests and lack of effective conservation efforts
+Human activities, including deforestation, pesticide use, and climate change, are the primary drivers of habitat loss and ecosystem destruction
 
 ## Proposed Actions
-- **Implement and enforce strict conservation laws and regulations to protect endangered species and habitats** — Increase protected areas by 20% and reduce deforestation rates by 30% within the next 5 years
-- **Promote sustainable land use practices and certify eco-friendly products to reduce consumer demand for products contributing to deforestation** — Increase certified sustainable products market share by 50% within the next 3 years
+- **Implement and enforce stricter conservation laws and regulations** — Reduce deforestation rates by 20% within the next 5 years
+- **Promote sustainable land-use practices and reforestation efforts** — Increase global forest cover by 10% within the next 10 years
 
 ## Sources (YouTube)
-- [Biodiversity Loss Emergency: The Silent Extinction Crisis Explained](https://www.youtube.com/watch?v=DjVU3kgmVBc)
-  > picture yourself walking through a lush rainforest where the air is thick with humidity and the sounds of Life surround you from every direction the vibrant calls of tropical birds Echo above while be...
+- [The destruction of the Amazon, explained](https://www.youtube.com/watch?v=SAZAKPUQMw0)
+  > [DESCRIPTION FALLBACK] The 2019 fires were just the tip of the iceberg. This is Part 1 of Vox Atlas: The Amazon, a three-part series about the world's largest ......
 
-- [How Deforestation and Habitat Loss reduce Biodiversity: Edge Effects and Extinction Debts explained](https://www.youtube.com/watch?v=utUttHCCHXk)
-  > every minute an area the size of a soccer or football field depending on where you watch this from is clear-cut in the Amazon basin which because of feedbacks of the forest on its own climate may be o...
+- [Climate 101: Deforestation | National Geographic](https://www.youtube.com/watch?v=Ic-J6hcSKa8)
+  > [DESCRIPTION FALLBACK] Forests cover about 30% of the planet, but deforestation is clearing these essential habitats on a massive scale. What is ......
 
-- [Untangled: Biodiversity loss - why should you care?](https://www.youtube.com/watch?v=KM0EZP5ijbA)
-  > [Applause] we've all seen photos of rain forests destroyed rivers littered with plastic news of wildfires and species going news of wildfires and species going extinct biodiversity loss may not be hap...
+- [Humans, Biodiversity, and Habitat Loss — HHMI BioInteractive Video](https://www.youtube.com/watch?v=1drkFgHbcWY)
+  > [DESCRIPTION FALLBACK] This 30 minute video lists human activities and their threats to biodiversity. In the second lecture of the series "Biodiversity in the ......
 
 ## Sources (RSS)
 - [Global](https://iucn.org/our-work/region/global)
