@@ -4,24 +4,24 @@
 **Severity:** MEDIUM
 
 ## Problem
-Insufficient progress in achieving sustainable and equitable global health, including high levels of global hunger and inequality in access to healthcare
+Regional disparities in hunger levels persist despite global decline
 
 ## Root Cause
-Systemic issues such as inadequate funding, lack of access to education and healthcare, and persistent economic disparities
+Uneven distribution of resources and insufficient implementation of sustainable solutions
 
 ## Proposed Actions
-- **Increase funding for global health initiatives and programs** — Reduce global hunger by 10% and increase access to healthcare by 15% within the next 2 years
-- **Implement policies to address economic disparities and promote education** — Decrease income inequality by 5% and increase education enrollment by 10% within the next 5 years
+- **Implement targeted interventions to address regional disparities in hunger levels** — Reduce regional hunger levels by 20% within the next 2 years
+- **Increase investment in sustainable agriculture and food systems** — Increase crop yields by 15% and reduce food waste by 10% within the next 3 years
 
 ## Sources (YouTube)
-- [PBS News Hour full episode, July 28, 2026](https://www.youtube.com/watch?v=2vU_Pupb6Bs)
-  > GEOFF BENNETT: Good evening. I'm Geoff Bennett. AMNA NAWAZ: And I'm Amna Nawaz. On the "NewsHour" tonight: two White House&nbsp; visits, two different wars. What Ukraine's&nbsp;&nbsp; president and Is...
-
 - [Power and Poverty: Inside South Africa’s inequality crisis - Global Eye, BBC World Service](https://www.youtube.com/watch?v=bDmJt8Jm8ts)
-  > Hello and welcome to Global Eye from the BBC World Service. In the next half hour, we'll bring you some of the best of our global investigative journalism and reportage. I'm Nomsa Maseko, the BBC's So...
+  > [DESCRIPTION FALLBACK] In this week's episode of Global Eye, Nomsa Maseko reports from South Africa in the wake of the first ever G20 summit on African ......
+
+- [Is inequality inevitable?](https://www.youtube.com/watch?v=rEnf_CFoyv0)
+  > [DESCRIPTION FALLBACK] Explore how economic inequality can be measured and how it is impacted by different governmental policy choices. -- Income ......
 
 - [Global Wealth Inequality  -  What you never knew you never knew (See description for 2017 updates)](https://www.youtube.com/watch?v=uWSxzjyMNpU)
-  > People are talking a lot about inequality these days, about the fact that the richest 1% have so much more than everybody else, but most of the focus seems to be on the United States. And it strikes m...
+  > [DESCRIPTION FALLBACK] NOTE: Firstly, we know about and apologise for the incorrect map in this version of the video, there is an update version in the ......
 
 ## Sources (RSS)
 - [WHO: Integration, innovation and community leadership key to ending HIV, hepatitis and STIs](https://www.who.int/news/item/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis)
