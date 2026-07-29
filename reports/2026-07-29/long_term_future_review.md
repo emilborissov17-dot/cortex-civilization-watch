@@ -1,32 +1,19 @@
 # LONG TERM FUTURE REVIEW
 **Date:** 2026-07-29
 
-**Severity:** CRITICAL
+**Severity:** UNKNOWN
 
 ## Problem
-Uncontrolled AI development poses a threat to human civilization
+Анализ на LONG_TERM_FUTURE_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Lack of effective AI safety regulations and oversight
-
-## Proposed Actions
-- **Establish and enforce robust AI safety standards** — Reduce the number of reported AI-related incidents by 50% within the next 2 years
-- **Increase funding for AI safety research** — Allocate at least 10% of total AI research funding to AI safety research within the next year
-
-## Sources (YouTube)
-- [THE HUMAN FUTURE: A Case for Optimism](https://www.youtube.com/watch?v=o48X3_XQ9to)
-  > foreign foreign [Music] [Music] foreign foreign [Music] [Music] [Music] we stand at a Crossroads of accelerating change unlike anything ever seen in the history of life it feels as if the future could...
-
-- [Elon Musk: Is AI The Existential Risk to Human Civilization? #ai #robot #elonmusk](https://www.youtube.com/watch?v=d0UAnxrqTqk)
-  > our robots going to take our jobs everybody's jobs in the future or I think we should be really concerned about ai ai is a fundamental existential risk for human civilization and I don't think people ...
-
-- [THE FUTURE OF HUMANITY: A.I Predicts 400 Years In 3 Minutes (4K)](https://www.youtube.com/watch?v=-UBaW1OIgTo)
-  > Tasked with designing 400 years into the future, 2 Arcadians set out with the mission to both warn humanity of the dangers of the current climate conditions and show our species its great potential sh...
+LLM parsing грешка: Не може да се parse JSON от LLM отговор: {
+  "problem": "Lack of understanding of the conditions for
 
 ## Sources (RSS)
-- [Isn't it a threat to reject unfair offers in the Ultimatum Game?](https://www.lesswrong.com/posts/bAKMEv5umocCXJkpM/isn-t-it-a-threat-to-reject-unfair-offers-in-the-ultimatum)
-- [What use is prompting if there's ASI?](https://www.lesswrong.com/posts/ybwCdWvfHpBudytyC/what-use-is-prompting-if-there-s-asi)
-- […but have the weights left the server?](https://www.lesswrong.com/posts/EDQE3fgFyxW7H6sy6/but-have-the-weights-left-the-server)
+- [Compute growth doesn't make a software intelligence explosion more likely](https://www.lesswrong.com/posts/PMkBrDcXHoShHak7y/compute-growth-doesn-t-make-a-software-intelligence)
+- [Notes on the Anthropic cryptographic blogpost](https://www.lesswrong.com/posts/ftE2aJ8txJHQnf9dR/notes-on-the-anthropic-cryptographic-blogpost)
+- [Value Generalisation 3: Pre-aligned AIs](https://www.lesswrong.com/posts/uMKGaEKRDpoqnZyBh/value-generalisation-3-pre-aligned-ais)
 
 
 ---
