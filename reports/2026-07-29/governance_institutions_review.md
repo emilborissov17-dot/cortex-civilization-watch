@@ -4,29 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-Increased global conflict and tensions, potentially leading to a larger-scale war, as indicated by the US-Iran missile strikes and the discussion of World War III
+Increased conflict and instability globally, particularly in regions like southern Europe, Japan, and the Middle East, threatening governance and institutions
 
 ## Root Cause
-Competition for global influence and resources among major powers, coupled with a lack of effective international cooperation and diplomacy
+Complex interplay of factors including geopolitical tensions, environmental disasters, and socio-economic instability
 
 ## Proposed Actions
-- **Establish an emergency diplomatic meeting among world leaders to discuss de-escalation and cooperation** — A joint statement or agreement outlining steps towards reduced tensions and increased cooperation within 30 days
-- **Increase funding and support for international organizations focused on conflict resolution and diplomacy** — A 20% increase in funding for such organizations within the next 6 months, with a notable increase in successful conflict resolutions
+- **Establish a global emergency response fund to support affected regions** — Reduce the average response time to natural disasters by 30% within the next 12 months
+- **Facilitate diplomatic talks between key nations to address underlying geopolitical tensions** — Successfully negotiate and implement at least 2 major international agreements promoting peace and cooperation within the next 24 months
 
 ## Sources (YouTube)
 - [Are We Heading Toward World War III? | Heni Ozi Cukier | TED](https://www.youtube.com/watch?v=Ew59SKy181Y)
-  > History has taught us many lessons. And we should pay attention to its signs because we might be heading towards World War III. One way to understand today's events is to look for clues from the past....
+  > [DESCRIPTION FALLBACK] In this urgent talk, political scientist Heni Ozi Cukier analyzes the social, economic, political and military conditions that preceded ......
+
+- [The Peace Deal That Turned the West Against Itself](https://www.youtube.com/watch?v=aYYR2UTdPh0)
+  > [DESCRIPTION FALLBACK] The Ukraine peace deal didn't just fail, it exposed a deep crisis inside the West. For the first time, the United States and the ......
 
 - [The Next Global Superpower Isn&#39;t Who You Think | Ian Bremmer | TED](https://www.youtube.com/watch?v=uiUPD-z9DTg)
-  > I have a big question which is who runs the world that used to be an easy question to answer if you're over 45 like me you grew up in a world that was dominated by two giants the United States called ...
-
-- [If France Sends Troops To Ukraine?](https://www.youtube.com/watch?v=nRapwhM3m4w)
-  > If France sends troops to Ukraine, countries can help Ukraine under collective self-defense in the UN charter. Ukraine is not in NATO. So if French troops are attacked in Ukraine, NATO's article 5 doe...
+  > [DESCRIPTION FALLBACK] Who runs the world? Political scientist Ian Bremmer argues it's not as simple as it used to be. With some eye-opening questions ......
 
 ## Sources (RSS)
-- [Watch: The moment quake hit Japan](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss)
-- [Iran and US trade strikes, shattering brief lull in fighting](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
-- [How Mexican drug cartels have outsourced meth labs to Nigeria](https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss)
+- [Two firefighters die in Crete as wildfires threaten parts of southern Europe](https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss)
+- [France fire crews face searing heat in battle to contain flames](https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss)
+- [More than 100 aftershocks hit Japan after powerful quake that killed 13](https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss)
 
 
 ---
