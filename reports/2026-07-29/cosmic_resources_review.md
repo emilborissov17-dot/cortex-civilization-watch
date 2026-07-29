@@ -4,28 +4,29 @@
 **Severity:** MEDIUM
 
 ## Problem
-Dependence on rare and precious materials for technological advancements, potentially leading to environmental degradation and resource depletion
+Over-reliance on finite resources for space exploration and potential environmental impact
 
 ## Root Cause
-The current extractive nature of the mining industry and the lack of sustainable resource management practices
+Lack of sustainable and renewable resource planning in space exploration and development
 
 ## Proposed Actions
-- **Implement extended producer responsibility for electronic device manufacturers to promote recycling and sustainable material sourcing** — Reduce electronic waste by 20% and increase recycling rates of rare materials by 30% within the next 5 years
+- **Develop and implement sustainable propulsion systems for space exploration** — Reduce carbon emissions from space launches by 20% within the next 5 years
+- **Establish international guidelines for environmental impact assessments in space development** — Have at least 50% of space agencies adopting these guidelines within the next 3 years
 
 ## Sources (YouTube)
-- [Unlimited Resources From Space – Asteroid Mining](https://www.youtube.com/watch?v=y8XvQNt26KI)
-  > ah casually watching a video on YouTube on a computer more powerful than anything Humanity could build a few decades ago this progress and all the wonderful machines you take for granted are built on ...
+- [An Alternative Theory About What Could Have Killed The Dinosaurs](https://www.youtube.com/watch?v=VrbqkeB4UqE)
+  > [DESCRIPTION FALLBACK] A new scientific model has discovered what actually happened to the earth after the asteroid impact that killed the dinosaurs....
 
-- [The Space Mining Boom - How Resources Will Shape the Future Economy](https://www.youtube.com/watch?v=0l5Sv54pgYI)
-  > From the moon to the asteroids, [music] the race for space resources could spark the greatest economic boom in human the greatest economic boom in human history. Why mine in space? When we think about...
+- [Geoengineering: A Horrible Idea We Might Have to Do](https://www.youtube.com/watch?v=dSu5sXmsur4)
+  > [DESCRIPTION FALLBACK] Get Merch designed with ❤ from https://kgs.link/shop-133 Join the Patreon Bird Army https://kgs.link/patreon ▽▽ More infos ......
 
-- [The $10 Quintillion Secret: The Space Mineral War Between USA &amp; China](https://www.youtube.com/watch?v=z7_MelvEUKk)
-  > Humanity has [music] fought wars for oil, competed for land, killed [music] for competed for land, killed [music] for gold. But here's the question almost no one is prepared for. [music] What happens ...
+- [Mexico’s $7.5B Gamble to Disrupt the Panama Canal | WSJ Breaking Ground](https://www.youtube.com/watch?v=NMDCKpmc-uo)
+  > [DESCRIPTION FALLBACK] Mexico's $7.5 billion interoceanic corridor aims to ease a major chokehold in a global shipping mess and rival the Panama Canal....
 
 ## Sources (RSS)
-- [Boeing still working with NASA to schedule next Starliner flight](https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/)
-- [Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush](https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/)
-- [Swift reboost mission encounters attitude control problems](https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/)
+- [LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE](https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/)
+- [Fortastra and Hadrian join forces to streamline satellite production](https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/)
+- [H3 to launch next ispace lunar lander mission](https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/)
 
 
 ---
