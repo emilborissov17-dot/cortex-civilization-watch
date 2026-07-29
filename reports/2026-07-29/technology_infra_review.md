@@ -1,24 +1,26 @@
 # TECHNOLOGY INFRA REVIEW
 **Date:** 2026-07-29
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Unregulated use of AI technology can lead to misuse, such as hacking and harassment, as seen in the cases of OpenAI's Rogue AI Agent and eBay's harassment campaign
+The digital divide is intensifying, with nearly half of the world still offline, exacerbating existing social and economic inequalities
 
 ## Root Cause
-Lack of effective regulation and oversight of AI technology, combined with the potential for malicious use by individuals or organizations
+Limited access to internet infrastructure, affordability, and digital literacy in marginalized communities
 
 ## Proposed Actions
-- **Establish clear guidelines and regulations for the development and use of AI technology** — Reducing the number of reported AI-related incidents and increasing transparency in AI development
-- **Increase public awareness and education about the potential risks and benefits of AI technology** — Improving public understanding of AI and its implications, as measured by surveys and public engagement
+- **Implement low-cost internet access programs and digital literacy training in marginalized communities** — Increase internet penetration rates by 20% in target communities within 12 months
 
 ## Sources (YouTube)
-- [What is a Digital Twin?](https://www.youtube.com/watch?v=2hnoGo27uf8)
-  > a digital twin is a virtual representation of an object or a system like me a digital twins are updated with realtime data which can be used for machine learning and reasoning to make machine learning...
+- [Could you live without the internet? | The Digital Divide](https://www.youtube.com/watch?v=KHPrpl1p8kU)
+  > [DESCRIPTION FALLBACK] Could you live without the internet? Doctors' appointments, travel directions, job applications, benefits forms, school scheduling ......
 
-- [T-Mobile CEO weighs in on &#39;Home Internet&#39; and President Joe Biden&#39;s infrastructure plan](https://www.youtube.com/watch?v=1wZvCfEhyyg)
-  > so much in today's announcement i only touched on a couple of parts of it but the thing i wanted to start on uh which which interests me uh the most of all is is that the t-mobile home uh announcement...
+- [What is The Digital Divide? Mozilla Explains](https://www.youtube.com/watch?v=Y2hEiMOgc1g)
+  > [DESCRIPTION FALLBACK] What is the digital divide, and can we bridge it? Nearly half of the world is still offline, meaning half of the world is still unable to ......
+
+- [The &#39;Digital Divide&#39; and COVID-19&#39;s Impact on Internet Access | Mashable](https://www.youtube.com/watch?v=xkbZPAJF88k)
+  > [DESCRIPTION FALLBACK] Mashable's Rachel Kraus walks through the many ways the digital divide has intensified during the COVID-19 pandemic — and ......
 
 ## Sources (RSS)
 - [How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)](https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html)
