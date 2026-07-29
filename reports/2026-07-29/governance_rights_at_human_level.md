@@ -4,29 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-Arbitrary detention of individuals for political or journalistic activities
+Restrictions on human rights and freedoms, including forced returns of journalists and political prisoners
 
 ## Root Cause
-Lack of respect for human rights and freedoms by certain governments, particularly in China and Cuba
+Lack of democratic governance and authoritarian regimes in certain countries
 
 ## Proposed Actions
-- **Issue public statements and diplomatic warnings to China and Cuba** — Release of detained individuals and improvement in human rights records
-- **Support and empower local civil society and advocacy groups** — Increased public awareness and mobilization on human rights issues
+- **Increase diplomatic pressure on countries with poor human rights records** — Reduction in number of political prisoners and forced returns
+- **Launch targeted social media campaigns to raise awareness about human rights violations** — Increase in public engagement and signatures on petitions supporting human rights
 
 ## Sources (YouTube)
 - [2025-Oct-02, JUST Meeting No. 5, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=lWDUzY8D0hQ)
-  > participants to have a look at the guidelines that are on the cards on the table. Uh these measures are in place to table. Uh these measures are in place to prevent audio incidents. Is the translation...
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 5 JUST - Standing Committee on Justice and Human Rights. Held 2025-Oct-02 from ......
 
 - [Civil Rights and Civil Liberties | Government &amp; Politics: Civics for the American Experiment](https://www.youtube.com/watch?v=eoylR5yJjZE)
-  > [Music] Civil rights are the rights we have as members of a political community. The purpose of government, as stated in the Declaration of Independence, is to protect the rights of the people. It is ...
+  > [DESCRIPTION FALLBACK] What does it take to protect the rights of all citizens—and why does it matter? In this video, explore the foundations of civil rights in ......
 
 - [What are the universal human rights? - Benedetta Berti](https://www.youtube.com/watch?v=nDgIVseTkuE)
-  > [Music] The idea of human rights is that each one of us, no matter who we are or where we are born, is entitled to the same basic rights and freedoms. Human rights are not privileges and they cannot b...
+  > [DESCRIPTION FALLBACK] View full lesson: http://ed.ted.com/lessons/what-are-the-universal-human-rights-benedetta-berti The basic idea of human rights is ......
 
 ## Sources (RSS)
+- [Freedom House and Rutgers Democracy Lab Announce New Strategic Partnership to Strengthen Democracy and Freedom Online](https://freedomhouse.org/article/freedom-house-and-rutgers-democracy-lab-announce-new-strategic-partnership-strengthen)
 - [Cuba: Freedom House Welcomes Release of Luis Manuel Otero Alcántara, Calls for Release of Other Political Prisoners](https://freedomhouse.org/article/cuba-freedom-house-welcomes-release-luis-manuel-otero-alcantara-calls-release-other)
 - [Joint Statement: Urgent Call to  Thai Government to Halt the Forcible Return  of Journalist Bai Zhaodong to China](https://freedomhouse.org/article/joint-statement-urgent-call-thai-government-halt-forcible-return-journalist-bai-zhaodong)
-- [Joint Statement by Hong Kong Diaspora Condemning Beijing’s Ethnic Unity Law and Its Assault on Communities in China and Beyond](https://freedomhouse.org/article/joint-statement-hong-kong-diaspora-condemning-beijings-ethnic-unity-law-and-its-assault)
 
 
 ---
