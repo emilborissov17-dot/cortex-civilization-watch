@@ -4,19 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-The potential for attackers to subliminally implant backdoors in AI systems, increasing the vulnerability of intelligent life and its environments
+Attackers can subliminally implant backdoors into AI models with very few training samples without prompt access
 
 ## Root Cause
-Insufficient security measures and lack of transparency in AI development, allowing for the exploitation of vulnerabilities
+Current AI training pipelines lack robust detection for hidden malicious patterns and do not enforce strict data provenance, allowing low‑sample malicious data to influence model behavior
 
 ## Proposed Actions
-- **Implement robust security testing and validation protocols for AI systems** — Reduce the number of successful backdoor implantations by 90% within the next 12 months
-- **Establish and enforce transparency standards for AI development, including open-sourcing code and documentation** — Increase the percentage of AI systems with publicly available code and documentation to 80% within the next 24 months
+- **Introduce mandatory adversarial data audits that test for hidden backdoors using synthetic low‑sample attacks before any model release** — Detect and reject at least 95% of injected backdoor attempts in pre‑release testing
+- **Establish an industry‑wide certification for secure AI training practices, requiring provenance tracking and cryptographic signing of all training datasets** — Achieve certification for 80% of major AI developers within two years
+
+## Sources (YouTube)
+- [25 Trillion Miles Suddenly Doesn&#39;t Matter Anymore | The Warp Drive Breakthrough](https://www.youtube.com/watch?v=A9Tf7nPC7Fo)
+  > [DESCRIPTION FALLBACK] Subscribe for more space mysteries: https://www.youtube.com/@MagneticSpaceX?sub_confirmation=1 For 70000 years, the ......
+
+- [The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED](https://www.youtube.com/watch?v=qe9QSCF-d88)
+  > [DESCRIPTION FALLBACK] Yoshua Bengio — the world's most-cited computer scientist and a "godfather" of artificial intelligence — is deadly concerned about ......
+
+- [Robots, flying cars, and the AI warning you can&#39;t ignore: The Future is Now | Special Report](https://www.youtube.com/watch?v=fNRjMX7J2zM)
+  > [DESCRIPTION FALLBACK] Technology is advancing so fast that everything in our daily lives is about to change, from our health — how we heal and how long ......
 
 ## Sources (RSS)
+- [What if people value their work mattering?](https://www.lesswrong.com/posts/3dFYQu4ifG5ZsjjZm/what-if-people-value-their-work-mattering)
+- [[LINK] The Ferrett fails will save against the Dark Arts](https://www.lesswrong.com/posts/nupgk8k8iqwBJZv65/link-the-ferrett-fails-will-save-against-the-dark-arts)
 - [Attackers Can Subliminally Implant a Backdoor at Low Sample Count Without Prompt Access](https://www.lesswrong.com/posts/RH8LGLC6GpLYo48sW/attackers-can-subliminally-implant-a-backdoor-at-low-sample)
-- [Selective Identity](https://www.lesswrong.com/posts/DSLtgkhrEveQPqgu7/selective-identity)
-- [III. Anthropic reasoning has issues with infinite worlds; D-SIA can fix this](https://www.lesswrong.com/posts/wZFxgrQmA8Gfmw7AG/iii-anthropic-reasoning-has-issues-with-infinite-worlds-d)
 
 
 ---
