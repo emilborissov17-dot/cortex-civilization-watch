@@ -1,34 +1,33 @@
 # SPACE INFRASTRUCTURE REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Increasing dependence on private companies for space infrastructure and satellite launches may lead to unequal access and potential geopolitical tensions
+Rapid increase in low Earth orbit (LEO) satellite traffic, especially from Starlink launches, raises collision risk and space debris generation.
 
 ## Root Cause
-The shift towards private companies such as SpaceX and Starlink for space infrastructure and satellite launches is driven by their ability to provide services at a lower cost and with greater efficiency than traditional government-funded programs
+Commercial mega‑constellation deployment outpaces existing debris mitigation regulations and tracking capabilities, leading to insufficient end‑of‑life planning.
 
 ## Proposed Actions
-- **Establish clear regulations and standards for private space companies to ensure equal access and prevent monopolies** — Measure the number of private companies providing space infrastructure and satellite launches and the level of competition in the industry
-- **Increase funding for government-funded space programs to promote diversity and competition in the industry** — Measure the level of funding for government-funded space programs and the number of new programs and initiatives launched
+- **Mandate active de‑orbit modules on all new LEO satellites with a verified de‑orbit timeline of ≤5 years after end‑of‑life.** — Percentage of newly launched LEO satellites with functional de‑orbit hardware rises to 100% within 2 years.
+- **Create a shared, real‑time debris tracking database accessible to all launch operators, funded by a levy on launch frequencies.** — Database coverage of ≥95% of tracked objects >10 cm improves collision avoidance maneuver success rate by 30% within 3 years.
+- **Implement a launch‑frequency cap for any single operator in VLEO to limit cumulative collision probability.** — Annual launch count for the largest operator (e.g., SpaceX) reduced to ≤120 launches per year, with collision risk index below 0.01 per year.
 
 ## Sources (YouTube)
-- [NASA's SpaceX Crew-13 Flight Crew News Conference (Aug. 3, 2026)](https://www.youtube.com/watch?v=x8344PSeH30)
-  > [DESCRIPTION FALLBACK] The four members of NASA's SpaceX Crew-13 mission to the International Space Station, targeted to launch no earlier than mid-September, are talking about their upcoming journey ...
+- [Artemis II to the Moon: Launch to Splashdown (NASA Mission Animation)](https://www.youtube.com/watch?v=Ke6XX8FHOHM)
+  > [DESCRIPTION FALLBACK] The Artemis II mission, slated to launch early 2026, will fly four astronauts around the Moon. This mission will last for about 10 ......
 
-- [NASA's SpaceX Crew-13 Mission Overview News Conference (Aug. 3, 2026)](https://www.youtube.com/watch?v=IDUtReQSlb0)
-  > [DESCRIPTION FALLBACK] Leaders from NASA and agency partners are holding a news conference at NASA's Johnson Space Center to discuss final preparations for our upcoming SpaceX Crew-13 mission to the I...
+- [How to Build in Space — for Life on Earth | Ariel Ekblaw | TED](https://www.youtube.com/watch?v=IHrGK3Mu5K4)
+  > [DESCRIPTION FALLBACK] Is space the “final frontier” — or the perfect place to revolutionize life on Earth? Space architect Ariel Ekblaw reveals how ......
 
-- [2026 Total Solar Eclipse](https://www.youtube.com/watch?v=rSvCuSQhC3w)
-  > [DESCRIPTION FALLBACK] Come watch the eclipse with NASA.
-
-On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, Spain, and the Atlantic Ocean. A partial solar ec...
+- [1 Hour of the Universe&#39;s Greatest Discoveries](https://www.youtube.com/watch?v=iQ05XHDoGTc)
+  > [DESCRIPTION FALLBACK] Prof Brian Cox explores 1 hour of humanity's place in the cosmos - from the history of particle physics and the discovery of ......
 
 ## Sources (RSS)
+- [Kreios Space to fly VLEO demonstration in NanoAvionics bus](https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/)
+- [NASA, SpaceX studying how to prevent future upper stage lunar collisions](https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/)
 - [Hughes files for bankruptcy after GEO business loses ground to Starlink](https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/)
-- [Xona secures spectrum approval for satellite navigation network](https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/)
-- [Airbus and Thales win order for SpainSat replacement](https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/)
 
 
 ---
