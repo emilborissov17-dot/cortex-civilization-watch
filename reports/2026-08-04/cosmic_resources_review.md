@@ -1,21 +1,32 @@
 # COSMIC RESOURCES REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Increasing dependence on private companies for critical space infrastructure and services
+Rapid decommissioning of GEO communications satellites without guaranteed end‑of‑life disposal, exemplified by Hughes filing for bankruptcy after losing market share to low‑cost LEO constellations like Starlink
 
 ## Root Cause
-Lack of sufficient public investment and governance in space technology and infrastructure development
+Market shift toward inexpensive LEO broadband has rendered traditional GEO satellite operators financially unsustainable, while existing regulatory frameworks lack enforceable requirements for responsible disposal of GEO assets
 
 ## Proposed Actions
-- **Establish a comprehensive public-private partnership framework for space infrastructure development** — Increase public investment in space technology by 20% within the next 2 years
+- **Adopt a binding international treaty that requires all GEO satellite operators to reserve fuel for, and execute within 12 months of end‑of‑life, a controlled move to a designated graveyard orbit with verified post‑mission tracking** — At least 95% of GEO satellites launched after 2024 achieve verified graveyard orbit placement within 12 months of de‑commissioning
+- **Create a financial assurance mechanism (e.g., escrow or insurance) that obliges operators to fund end‑of‑life disposal before launch approval** — 100% of new GEO launch licences include a funded disposal escrow that is released only after successful graveyard insertion
+
+## Sources (YouTube)
+- [Unlimited Resources From Space – Asteroid Mining](https://www.youtube.com/watch?v=y8XvQNt26KI)
+  > [DESCRIPTION FALLBACK] Get Merch designed with ❤ from https://kgs.link/shop-127 Join the Patreon Bird Army https://kgs.link/patreon ▽▽ More infos ......
+
+- [The Space Mining Boom - How Resources Will Shape the Future Economy](https://www.youtube.com/watch?v=0l5Sv54pgYI)
+  > [DESCRIPTION FALLBACK] From lunar regolith to metal-rich asteroids, this episode examines how off-world resources could spark the largest economic boom ......
+
+- [The $10 Quintillion Secret: The Space Mineral War Between USA &amp; China](https://www.youtube.com/watch?v=z7_MelvEUKk)
+  > [DESCRIPTION FALLBACK] The $10 Quintillion Secret: The Space Mineral War No One Talks About The next global conflict won't be on land, sea, or air — it ......
 
 ## Sources (RSS)
+- [Kreios Space to fly VLEO demonstration in NanoAvionics bus](https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/)
+- [NASA, SpaceX studying how to prevent future upper stage lunar collisions](https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/)
 - [Hughes files for bankruptcy after GEO business loses ground to Starlink](https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/)
-- [Xona secures spectrum approval for satellite navigation network](https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/)
-- [Airbus and Thales win order for SpainSat replacement](https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/)
 
 
 ---
