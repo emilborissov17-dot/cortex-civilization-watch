@@ -10,18 +10,26 @@ The world is not on track to meet the goal of halting and reversing nature loss 
 Lack of accelerated action by countries to address nature loss and climate change
 
 ## Proposed Actions
-- **Increase funding and support for conservation efforts and sustainable land use practices** — Achieve a 50% reduction in deforestation rates and a 20% increase in protected areas by 2025
-- **Develop and implement effective climate change adaptation and mitigation strategies** — Reduce greenhouse gas emissions by 45% by 2030 and achieve net-zero emissions by 2050
+- **Implement and enforce policies to reduce greenhouse gas emissions and protect natural habitats** — Reduce carbon emissions by 50% by 2030 and increase protected areas by 20% by 2025
+- **Increase public awareness and education about the importance of nature conservation and climate action** — Reach 80% of the global population with climate and nature conservation awareness campaigns by 2025
 
 ## Sources (YouTube)
-- [Race, Climate Justice, and International Law](https://www.youtube.com/watch?v=3k6PSHPsVuA)
-  > [DESCRIPTION FALLBACK] The 12th Annual Douglas M. Johnston Leture, featuring Professors Carmen G. Gonzalez and James T. Gathii of Loyola University ......
+- [Climate Extremes:  Extreme Weather (Full Documentary)](https://www.youtube.com/watch?v=X6VCTfzl1DU)
+  > The range of weather extremes that we're experiencing
+today is already noticeably different. Detectable, scientifically different
+than it was in the 20th century. And of course, the problem with that ...
 
-- [2. The ‘A’ Factor: accountability for locally-led adaptation](https://www.youtube.com/watch?v=8C5Kqu2US04)
-  > [DESCRIPTION FALLBACK] At the start of 2021, 40 governments and leading organisations endorsed eight principles for locally led adaptation. As the number ......
+- [Is the weather actually becoming more extreme? - R. Saravanan](https://www.youtube.com/watch?v=NCPTbfQyMt8)
+  > From 2016 to 2019, meteorologists saw record-breaking
+heat waves around the globe, rampant wildfires 
+in California and Australia, and the longest run 
+of category 5 tropical cyclones on record. The n...
 
-- [This is just how unfair climate change is](https://www.youtube.com/watch?v=pHRu0VV-Dbw)
-  > [DESCRIPTION FALLBACK] We're all living through the climate crisis. But we're not all in it together. So what exactly does climate change have to do with ......
+- [I Didn&#39;t Want to Make This Video.](https://www.youtube.com/watch?v=JLubu0orxPw)
+  > ﻿This is the most important video 
+you are ever going to watch, and it’s why I’m here on 
+screen talking to you today. Because humanity has “lost the 
+fight against climate change”. These were the wor...
 
 ## Sources (RSS)
 - [Louisiana Students Loft Payloads from NASA Balloon Facility in Texas](https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/)
