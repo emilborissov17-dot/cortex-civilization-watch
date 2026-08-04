@@ -4,24 +4,29 @@
 **Severity:** MEDIUM
 
 ## Problem
-Despite record high PET thermoform recovery, the industry faces a circularity gap due to yield losses and label challenges
+Inadequate plastic waste recycling and lack of circular economy practices
 
 ## Root Cause
-Inefficient recycling technologies and lack of standardization in packaging design
+Insufficient infrastructure, lack of standardization, and limited consumer awareness
 
 ## Proposed Actions
-- **Develop and implement standardized packaging designs for easier recyclability** — Increase PET thermoform recovery rate by 20% within the next 2 years
-- **Invest in research and development of more efficient recycling technologies** — Reduce yield losses by 15% within the next 3 years
+- **Implement Extended Producer Responsibility (EPR) laws** — Increase plastic waste recycling rate by 20% within the next 2 years
+- **Develop and deploy affordable recycling technologies** — Reduce plastic waste in landfills by 15% within the next 3 years
 
 ## Sources (YouTube)
-- [Circular Plastics: the challenges of plastic recycling](https://www.youtube.com/watch?v=MDHrUGTL6mM)
-  > [DESCRIPTION FALLBACK] How can you turn plastic waste into new products? Professor of Circular Plastics Kim Ragaert and her team explain the most ......
+- [Recycling Marine Plastic Waste A Circular Economy Case | Suzanna Laskaridis | TEDxAthens](https://www.youtube.com/watch?v=n_3vSDOY7iU)
+  > Transcriber: Maria Pericleous
+Reviewer: Chryssa Rapessi In 2017, I was approached
+by a team of designers to help finance a project
+they were doing here in Greece. The aim was to reuse old fishing nets...
 
-- [Scientists Scramble To Create Replacements For Plastic | NBC News](https://www.youtube.com/watch?v=a4GaXjqLXQw)
-  > [DESCRIPTION FALLBACK] There's a major push to replace plastics in our lives, and not just with paper bags or straws. NBC News' Tammy Leitner talks to ......
+- [Plastics Recycling - an important element of Circular Economy](https://www.youtube.com/watch?v=UcPqKg_82Rw)
+  > [Music] Plastics are nowadays part of our life they are omnipresent in our homes in our toys electronic appliances and Furniture in our cars sports equipment medical equipment or simply being used for...
 
-- [Agriculture &amp; Plasticulture | Trash Academy: Sectors of Plastic Pollution](https://www.youtube.com/watch?v=Xkb1h4s3Dqs)
-  > [DESCRIPTION FALLBACK] One trip to an agricultural field will leave a person shocked at the amount of plastic used to grow our food, long before it ends up at ......
+- [The Circular Economy  Closing the Loop on Plastic Waste](https://www.youtube.com/watch?v=0RP_J6lw_Zw)
+  > [Music] we have finite resources and at the moment we're 
+just using them at an outrageous rate but on top   of that we're using the resources and then we're 
+creating pollution out of the resources t...
 
 ## Sources (RSS)
 - [WM's &quot;Landfill of the Future&quot; Advances Towards Autonomous Equipment Testing](https://www.waste360.com/waste-collection-transfer/wm-s-landfill-of-the-future-advances-towards-autonomous-equipment-testing)
