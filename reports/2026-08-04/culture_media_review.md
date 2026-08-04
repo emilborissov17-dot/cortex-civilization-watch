@@ -1,27 +1,34 @@
 # CULTURE MEDIA REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Spread of misinformation through circular reporting and lack of media literacy
+The spread of false information and disinformation on social media poses a threat to democracy and can lead to the erosion of trust in institutions
 
 ## Root Cause
-Insufficient critical thinking and fact-checking skills among consumers, combined with the ease of information dissemination through social media and other online platforms
+The design of social media algorithms prioritizes engagement over truth, allowing lies and hate speech to spread quickly
 
 ## Proposed Actions
-- **Implement comprehensive media literacy education in schools** — Achieve a 30% increase in media literacy test scores among high school students within the next 2 years
-- **Collaborate with social media platforms to develop and promote fact-checking tools and initiatives** — Reduce the spread of false news by 25% on major social media platforms within the next year
+- **Implement fact-checking mechanisms and transparency in social media algorithms** — Reduce the spread of false information by 30% within the next 6 months
+- **Integrate media literacy education into school curricula** — Increase the number of students who can critically evaluate online information by 50% within the next 2 years
 
 ## Sources (YouTube)
+- [How Social Media Shapes Conflict](https://www.youtube.com/watch?v=TpWgPy3Ybxk)
+  > We’ve been developing our Future of Conflict Program 
+over the past few years. It has three pillars. The first is technology and conflict, 
+with a special focus on social media.  Second is climate and...
+
 - [How false news can spread - Noah Tavlin](https://www.youtube.com/watch?v=cSKGa_7XJkg)
-  > [DESCRIPTION FALLBACK] Dive into the phenomenon known as circular reporting and how it contributes to the spread of false news and misinformation....
+  > There's a quote usually attributed
+to the writer Mark Twain that goes, "A lie can travel 
+halfway around the world while the truth is putting on its shoes." Funny thing about that. There's reason to d...
 
-- [Media and Information Literacy and its role in Elections Processes in the era of AI](https://www.youtube.com/watch?v=Zlc9lchce2A)
-  > [DESCRIPTION FALLBACK] Welcome to “Freedom of Expression, Artificial Intelligence and Elections,” organized by the Knight Center for Journalism in the ......
-
-- [2026 Herb Caen Lecture: Press Freedom in Peril](https://www.youtube.com/watch?v=1BkLPpMgMJg)
-  > [DESCRIPTION FALLBACK] UC Berkeley Journalism Dean Michael D. Bolden hosts a critical conversation on the rising threats to global journalism. Featured ......
+- [Maria Ressa - Disinformation on Social Media Is Threat to Democracy](https://www.youtube.com/watch?v=JLWBV_QUG10)
+  > American biologist, E.O.
+Wilson said it best. We're facing paleolithic
+emotions, medieval institutions, and God-like technology. Social media has become a
+behavior modification system and we are Pavlo...
 
 ## Sources (RSS)
 - [Misty Copeland on Her Joyce Theater Festival and Ballet Philosophy](https://www.nytimes.com/2026/08/03/arts/dance/misty-copeland-ballet-festival-joyce-theater.html)
