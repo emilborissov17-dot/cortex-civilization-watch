@@ -1,32 +1,33 @@
 # GOVERNANCE RIGHTS AT HUMAN LEVEL
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Erosion of democratic rights and freedoms in various countries, including Nicaragua and Cuba
+Ongoing human rights violations against refugees, migrants, and political dissidents in multiple regions (e.g., Tigray, Ceuta, Nicaragua, Cuba)
 
 ## Root Cause
-Authoritarian governance and transnational repression, facilitated by digital means such as cyberattacks
+State‑level political repression combined with weak international enforcement mechanisms and insufficient coordination of civil‑society responses
 
 ## Proposed Actions
-- **Support and amplify the work of organizations like Freedom House, promoting democracy and freedom online** — Increase in the number of countries with improved democracy scores, as measured by Freedom House's annual reports
-- **Develop and implement international standards and regulations for tech companies to prevent digital transnational repression** — Adoption of these standards by a significant number of countries and tech companies, with a notable decrease in reported cases of digital transnational repression
+- **Create a binding UN‑mandated rapid‑response task force for documented large‑scale human rights violations, with authority to deploy observers and trigger targeted sanctions within 30 days of verification** — Number of verified violations addressed within 30 days rises from 0 to at least 5 within the first year
+- **Establish a coordinated EU‑Africa funding pool to support legal aid and safe‑housing for at‑risk refugees, funded by 0.1% of member‑state GDP** — Legal aid provided to 10,000 displaced persons and safe‑housing for 20,000 within two years
+- **Mandate tech platforms to adopt a transparent reporting API for state‑linked cyber‑repression incidents, overseen by an independent watchdog consortium** — Reduction in undocumented cyber‑repression cases by 40% as measured by the watchdog’s annual report
 
 ## Sources (YouTube)
-- [Middle East geopolitics explained simply || The Middle East explained in a nutshell](https://www.youtube.com/watch?v=BpTDDKsdMcY)
-  > [DESCRIPTION FALLBACK] This video gives the average person looking to understand more about what is going on in the Middle East a high level overview ......
+- [2025-Dec-11, JUST Meeting No. 14-2, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=Vpr7pZwrvzE)
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 14 JUST - Standing Committee on Justice and Human Rights. Held 2025-Dec-11 from ......
 
-- [The Middle East&#39;s cold war, explained](https://www.youtube.com/watch?v=veMFCFyOwFI)
-  > [DESCRIPTION FALLBACK] How two feuding countries are tearing apart the Middle East. Help us make more ambitious videos by joining the Vox Video Lab: ......
+- [2025-Oct-02, JUST Meeting No. 5, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=lWDUzY8D0hQ)
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 5 JUST - Standing Committee on Justice and Human Rights. Held 2025-Oct-02 from ......
 
-- [What are the universal human rights? - Benedetta Berti](https://www.youtube.com/watch?v=nDgIVseTkuE)
-  > [DESCRIPTION FALLBACK] View full lesson: http://ed.ted.com/lessons/what-are-the-universal-human-rights-benedetta-berti The basic idea of human rights is ......
+- [Civil Rights and Civil Liberties | Government &amp; Politics: Civics for the American Experiment](https://www.youtube.com/watch?v=eoylR5yJjZE)
+  > [DESCRIPTION FALLBACK] What does it take to protect the rights of all citizens—and why does it matter? In this video, explore the foundations of civil rights in ......
 
 ## Sources (RSS)
-- [TNR Watch: Cyberattacks as a Tactic of Digital Transnational Repression](https://freedomhouse.org/article/tnr-watch-cyberattacks-tactic-digital-transnational-repression)
-- [Freedom In Focus: Elections Abolished in Nicaragua](https://freedomhouse.org/article/freedom-focus-elections-abolished-nicaragua)
-- [Freedom House and Rutgers Democracy Lab Announce New Strategic Partnership to Strengthen Democracy and Freedom Online](https://freedomhouse.org/article/freedom-house-and-rutgers-democracy-lab-announce-new-strategic-partnership-strengthen)
+- [“I know what it feels like to be a refugee and how change can happen”](https://www.amnesty.org/en/latest/campaigns/2026/08/i-know-what-it-feels-like-to-be-a-refugee-and-how-change-can-happen/)
+- [Ethiopia: Tigray residents at renewed risk of human rights violations as violence returns to the region](https://www.amnesty.org/en/latest/news/2026/08/ethiopia-tigray-residents-at-renewed-risk-of-human-rights-violations-as-violence-returns-to-the-region/)
+- [EU: European leaders must respond with humanity and solidarity to the situation in Ceuta](https://www.amnesty.org/en/latest/news/2026/08/eu-european-leaders-must-respond-with-humanity-and-solidarity-to-the-situation-in-ceuta/)
 
 
 ---
