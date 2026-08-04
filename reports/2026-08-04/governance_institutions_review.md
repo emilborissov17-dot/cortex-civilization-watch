@@ -4,18 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-Increased conflict and tensions between nations, particularly between Ukraine and Russia, and Iran and the US, leading to human casualties and disruptions to global trade and energy supplies
+Continued civilian casualties and humanitarian suffering in Gaza despite UN Security Council debates and sanctions mechanisms
 
 ## Root Cause
-Complex geopolitical relationships, historical conflicts, and competing national interests
+Political deadlock within the UN Security Council and absence of enforceable mechanisms to compel warring parties to cease hostilities
 
 ## Proposed Actions
-- **Establish a neutral, international mediation platform to facilitate dialogue between conflicting nations** — Number of successful diplomatic meetings and agreements reached within 6 months
+- **Adopt a binding UN resolution authorising the deployment of a neutral, UN‑mandated humanitarian corridor with enforceable sanctions for violations** — Reduction of civilian casualty reports by 30% within six months of corridor activation
+- **Create an independent monitoring body reporting to the UN General Assembly on compliance with the humanitarian corridor and sanctions** — Monthly public compliance reports published, with at least 80% of reported violations resulting in sanctions within three months
+
+## Sources (YouTube)
+- [Are We Heading Toward World War III? | Heni Ozi Cukier | TED](https://www.youtube.com/watch?v=Ew59SKy181Y)
+  > [DESCRIPTION FALLBACK] In this urgent talk, political scientist Heni Ozi Cukier analyzes the social, economic, political and military conditions that preceded ......
+
+- [The Peace Deal That Turned the West Against Itself](https://www.youtube.com/watch?v=aYYR2UTdPh0)
+  > [DESCRIPTION FALLBACK] The Ukraine peace deal didn't just fail, it exposed a deep crisis inside the West. For the first time, the United States and the ......
+
+- [The Next Global Superpower Isn&#39;t Who You Think | Ian Bremmer | TED](https://www.youtube.com/watch?v=uiUPD-z9DTg)
+  > [DESCRIPTION FALLBACK] Who runs the world? Political scientist Ian Bremmer argues it's not as simple as it used to be. With some eye-opening questions ......
 
 ## Sources (RSS)
-- [Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss)
-- [Iran says it is in talks with Oman but not the US after Trump says negotiations to resume](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
-- [Threat to oil tankers in Middle East  worst since start of Iran war, analysts say](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss)
+- [Press Conference by Security Council President on Work Programme for August](https://press.un.org/en/2026/260803_sc.doc.htm)
+- [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2026/db260803.doc.htm)
+- [On International Youth Day, Secretary-General Calls for Greater Role of Young People in Local, National, Global Decisions](https://press.un.org/en/2026/23233.doc.htm)
 
 
 ---
