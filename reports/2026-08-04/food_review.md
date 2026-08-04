@@ -1,13 +1,35 @@
 # FOOD REVIEW
 **Date:** 2026-08-04
 
-**Severity:** UNKNOWN
+**Severity:** CRITICAL
 
 ## Problem
-Няма достатъчно данни за анализ
+343 million people are facing acute hunger globally, with food supply chains vulnerable to disruptions from conflict and climate change
 
 ## Root Cause
-Липсващи или недостъпни sources
+The increasing global population, combined with intensive farming practices that threaten the environment and survival, has exacerbated the issue of food security
+
+## Proposed Actions
+- **Implement and support community farm projects to increase local food production and reduce reliance on industrial agriculture** — Reduce the number of people facing acute hunger by 10% within the next 5 years
+- **Develop and promote sustainable agricultural practices, such as agroforestry and permaculture, to reduce environmental degradation and improve food security** — Increase the adoption of sustainable agricultural practices by 20% among small-scale farmers within the next 3 years
+
+## Sources (YouTube)
+- [The Future of Food: Can Community Farms Solve Global Hunger?](https://www.youtube.com/watch?v=8awsHPEyP7A)
+  > All right, let's just jump right in with the number 343 million. I mean, just let that sink in for a second. That's how many people right now are facing acute hunger. It's a staggering, almost unimagi...
+
+- [A world going hungry? How conflict and climate change disrupt global food supply | Business Beyond](https://www.youtube.com/watch?v=5YcvKvxWaCE)
+  > [DESCRIPTION FALLBACK] The battle against hunger is quite literally, an existential one. But there was a time when winning that battle seemed within reach ......
+
+- [Food security - A growing dilemma | DW Documentary](https://www.youtube.com/watch?v=wu7PjKawjwI)
+  > Fresh food galore. In Germany, we're used to
+supermarkets brimming with produce. But often it has come from far away.
+That makes our supply chains vulnerable. The war in Ukraine is
+revealing our limit...
+
+## Sources (RSS)
+- [Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it](https://www.sciencedaily.com/releases/2026/08/260802223424.htm)
+- [Ant brains reveal how evolution turned hunger into parenting](https://www.sciencedaily.com/releases/2026/07/260729051519.htm)
+- [Why are so many dead bumblebees appearing on sidewalks?](https://www.sciencedaily.com/releases/2026/07/260727012134.htm)
 
 
 ---
