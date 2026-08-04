@@ -1,16 +1,27 @@
 # INFRASTRUCTURE CITIES REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Homelessness is increasing in Los Angeles after two years of decline, and US cities are vulnerable to water utility cyberattacks
+Homelessness in Los Angeles increased after two years of decline
 
 ## Root Cause
-Lack of affordable housing and inadequate cybersecurity measures
+Unaffordable housing combined with insufficient social safety nets and rising cost of living, amplified by limited affordable-unit construction and fragmented coordination among service providers
 
 ## Proposed Actions
-- **Increase funding for affordable housing initiatives and implement robust cybersecurity measures for water utilities** — Reduce homelessness by 20% and successfully defend against 90% of cyberattacks within the next 12 months
+- **Accelerate the adoption of inclusionary zoning and fast‑track permitting for affordable housing projects to add at least 5,000 new affordable units within 3 years** — Number of new affordable units approved and built; reduction in annual homeless count by 10% within 3 years
+- **Create a coordinated citywide homelessness response hub that integrates housing, health, and employment services, with a guaranteed 30‑day placement target for each new entrant** — Percentage of new homeless individuals placed in stable housing within 30 days; overall decrease in street homelessness
+
+## Sources (YouTube)
+- [Smart Cities - Infrastructure and Transport of the Future](https://www.youtube.com/watch?v=d1DndVz9dAs)
+  > [DESCRIPTION FALLBACK] Imagine a silent and emission free city. Imagine a cleaner, safer and more resource efficient world. How do we build smart cities ......
+
+- [What is a smart city? | CNBC Explains](https://www.youtube.com/watch?v=bANfnYDTzxE)
+  > [DESCRIPTION FALLBACK] CNBC's Uptin Saiidi looks at three cities infusing technology into every part of its operations. ----- Subscribe to CNBC International: ......
+
+- [Every Urban Planning Concept Explained in 9 Minutes](https://www.youtube.com/watch?v=Pj1vNBdQ2GA)
+  > [DESCRIPTION FALLBACK] Have you ever been stuck in traffic and wondered why your city spent millions on a highway that just made things worse? Or why ......
 
 ## Sources (RSS)
 - [LA homelessness ticks up after two years of declines](https://www.smartcitiesdive.com/news/la-homelessness-ticks-up-after-two-years-of-declines/826837/)
