@@ -1,13 +1,32 @@
 # INEQUALITY POVERTY REVIEW
 **Date:** 2026-08-04
 
-**Severity:** UNKNOWN
+**Severity:** HIGH
 
 ## Problem
-Няма достатъчно данни за анализ
+The planned $71 bn reconstruction of Gaza is unrealistic and likely to fail due to lack of effective Palestinian leadership and governance structures.
 
 ## Root Cause
-Липсващи или недостъпни sources
+Weak institutional capacity and fragmented political authority in the Palestinian territories prevent coordinated planning, fund allocation, and implementation of large‑scale reconstruction projects.
+
+## Proposed Actions
+- **Establish an independent, donor‑backed reconstruction oversight body that includes Palestinian NGOs, local technical experts, and international auditors to manage and monitor fund disbursement.** — At least 80 % of allocated funds released within the first 12 months are verified as reaching identified reconstruction projects with documented outcomes.
+- **Launch a capacity‑building program for Palestinian municipal authorities focusing on project management, financial transparency, and anti‑corruption practices.** — Completion of training for 70 % of relevant officials and a 30 % reduction in audit‑identified irregularities within 2 years.
+
+## Sources (YouTube)
+- [Wealth Inequality in America Has Never Been Worse. The Middle Class Has Disappeared](https://www.youtube.com/watch?v=EdqxBNgnmxU)
+  > [DESCRIPTION FALLBACK] What Wealth Inequality in America looks like. Special thanks to user politzane for the inspiration - their video will be linked down ......
+
+- [Is inequality inevitable?](https://www.youtube.com/watch?v=rEnf_CFoyv0)
+  > [DESCRIPTION FALLBACK] Explore how economic inequality can be measured and how it is impacted by different governmental policy choices. -- Income ......
+
+- [1955 vs 2025, who actually had it better?](https://www.youtube.com/watch?v=J4qqIJ312zI)
+  > [DESCRIPTION FALLBACK] Is the American Dream Dead? Get an exclusive 15% discount on Saily data plans! Use code johnnyharris at checkout. Download ......
+
+## Sources (RSS)
+- [Gaza’s $71bn reconstruction will cost seven times all previous rebuilds combined, and will fail without Palestinian leadership – Oxfam warns](https://www.oxfam.org/en/press-releases/gazas-71bn-reconstruction-will-cost-seven-times-all-previous-rebuilds-combined-and)
+- [A Presidency Grounded in EU Values: Oxfam's Recommendations for the Irish Presidency of the Council of the EU](https://www.oxfam.org/en/research/presidency-grounded-eu-values-oxfams-recommendations-irish-presidency-council-eu)
+- [Scale of Ebola virus outbreak likely under-estimated – Oxfam](https://www.oxfam.org/en/press-releases/scale-ebola-virus-outbreak-likely-under-estimated-oxfam)
 
 
 ---
