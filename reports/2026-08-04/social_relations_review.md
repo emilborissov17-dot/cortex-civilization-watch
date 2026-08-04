@@ -1,16 +1,34 @@
 # SOCIAL RELATIONS REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Lack of prioritization of language learning in U.S. schools, with only four-in-ten Americans considering it extremely or very important
+Significant decline in close personal relationships and social support networks among Americans, leading to increased loneliness and related health issues
 
 ## Root Cause
-Limited awareness of the benefits of language learning and cultural exchange, potentially stemming from a narrow focus on domestic issues
+Erosion of community ties caused by rising individualism, digital/social media displacement of face‑to‑face interaction, and lack of institutional emphasis on relational skills in education and workplaces
 
 ## Proposed Actions
-- **Implement language learning programs in U.S. schools, starting with pilot projects in select districts** — Increase the number of students enrolled in language learning courses by 20% within the next two years
+- **Introduce mandatory social‑emotional learning (SEL) modules in K‑12 schools that include cooperative projects, peer‑mentoring, and guided discussions on loneliness** — By 2027, 80% of schools report SEL implementation; survey shows a 10% increase in the proportion of students reporting at least one close friend they can rely on in a crisis
+- **Create a federal grant program for municipalities to develop free, regularly‑scheduled community hubs (e.g., neighborhood cafés, maker spaces, intergenerational clubs) that encourage regular in‑person interaction** — Within 3 years, 60% of mid‑size cities have at least one active community hub with ≥200 monthly participants; local surveys show a 5% reduction in self‑reported loneliness rates
+- **Launch a public‑media campaign highlighting the health risks of chronic loneliness and promoting simple ways to connect (e.g., phone check‑ins, volunteerism)** — Reach 70% of adult population with campaign messages; national loneliness surveys show a 3% decline in the proportion reporting ‘no close friends’ within 2 years
+
+## Sources (YouTube)
+- [The Health Effects of Loneliness](https://www.youtube.com/watch?v=YoqnIs5uc8E)
+  > [music] >> Reed Pence: Humans are innately social
+creatures. Few of us can truly go it alone. Our survival depends on having relationships
+with others, so our species has evolved a way to make sure we...
+
+- [Loneliness kills: How to fight depression with social support | Johann Hari | Big Think](https://www.youtube.com/watch?v=Hp-L844-5k8)
+  > There’s a really heartbreaking study that
+asked Americans, “How many close friends do you have that you can call on in a crisis?” And when they started doing it decades ago
+the most common answer was ...
+
+- [Male inequality, explained by an expert | Richard Reeves](https://www.youtube.com/watch?v=DBG1Wgg32Ok)
+  > - A number of people warned
+me against writing a book about boys and men because
+it's such a fraught subject, particularly in politics right now, and because so many people were afraid that merely dra...
 
 ## Sources (RSS)
 - [What do Americans think about language learning in U.S. schools?](https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/)
