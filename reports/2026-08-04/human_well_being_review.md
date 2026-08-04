@@ -4,26 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-The United States' withdrawal from the World Health Organization (WHO) may compromise global health security and response to infectious diseases
+Inadequate breast cancer screening for women under 50 who are at higher risk
 
 ## Root Cause
-Political and economic factors, such as differing priorities and funding disagreements, have led to the US withdrawal from the WHO
+Current NHS checks are not effectively identifying and screening younger women who are at higher risk of developing breast cancer
 
 ## Proposed Actions
-- **Establish an emergency fund to support global health initiatives and fill the funding gap left by the US withdrawal** — Increase the overall funding for global health programs by 10% within the next 6 months
-- **Foster international cooperation and diplomacy to encourage the US to reconsider its withdrawal or find alternative ways to contribute to global health security** — Secure commitments from at least 5 major countries to increase their funding for global health programs within the next year
+- **Implement more targeted and frequent breast cancer screenings for women under 50 who are at higher risk** — Reduce the percentage of younger women who are at higher risk of developing breast cancer and are not being screened
 
 ## Sources (YouTube)
-- [The Life Advice That Changed Matthew McConaughey's Life](https://www.youtube.com/watch?v=Ni_ZYnst46c)
-  > [DESCRIPTION FALLBACK] Tim Ferriss is one of Fast Company’s “Most Innovative Business People” and an early-stage tech investor/advisor in Uber, Facebook, Twitter, Shopify, Duolingo, Alibaba, and 50+ o...
+- [Power and Poverty: Inside South Africa’s inequality crisis - Global Eye, BBC World Service](https://www.youtube.com/watch?v=bDmJt8Jm8ts)
+  > Hello and welcome to Global Eye from the BBC World Service. In the next half hour,
+we'll bring you some of the best of our global investigative
+journalism and reportage. I'm Nomsa Maseko, the BBC's So...
 
-- [Tim McGraw: “I want to be the underdog."  #timmcgraw](https://www.youtube.com/watch?v=dxMrMbx1Xjs)
-  > [DESCRIPTION FALLBACK] Tim Ferriss is one of Fast Company’s “Most Innovative Business People” and an early-stage tech investor/advisor in Uber, Facebook, Twitter, Shopify, Duolingo, Alibaba, and 50+ o...
+- [Is inequality inevitable?](https://www.youtube.com/watch?v=rEnf_CFoyv0)
+  > In South Africa, one of the most
+unequal countries in the world, the richest one-tenth of 1%, owns 
+almost 30% of all the country’s wealth, more than double what the bottom 90% owns. Income and wealth...
 
-- [Is Your Relationship Stuck in Objectivity Battles? #relationships #terryreal](https://www.youtube.com/watch?v=vsl7OyHug9k)
-  > [DESCRIPTION FALLBACK] Listen to my full interview with relationship therapist Terry Real. 
-
-Tim Ferriss is one of Fast Company’s “Most Innovative Business People” and an early-stage tech investor/adv...
+- [Global Wealth Inequality  -  What you never knew you never knew (See description for 2017 updates)](https://www.youtube.com/watch?v=uWSxzjyMNpU)
+  >       People are talking a lot about
+inequality these days... about the fact that the richest 1% have so much more than everybody
+else. But most of the focus seems to be on the United States and it st...
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
