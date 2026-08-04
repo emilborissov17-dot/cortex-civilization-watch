@@ -1,16 +1,27 @@
 # DEEP TIME RISKS REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-The United States' withdrawal from the World Health Organization (WHO) may compromise global health security and response to emergencies
+United States withdrawal from the World Health Organization reduces global coordination on health threats
 
 ## Root Cause
-The decision to withdraw from WHO is likely driven by political and ideological differences between the US government and the WHO, potentially undermining international cooperation on health issues
+Political decision by the U.S. government to exit WHO, driven by short‑term domestic politics and skepticism of multilateral institutions
 
 ## Proposed Actions
-- **Encourage diplomatic efforts to reconsider the US withdrawal from WHO and promote continued collaboration on global health issues** — Successful reintroduction of the US as a WHO member state or establishment of a formal cooperation agreement
+- **Pass legislation or executive order that reinstates U.S. membership and guarantees multi‑year funding for WHO** — Re‑establish U.S. voting rights and restore at least 10% of WHO's annual budget from U.S. contributions within 12 months
+- **Create an international health security treaty that obligates major powers, including the U.S., to maintain continuous participation in WHO** — Treaty signed by at least 15 high‑income and middle‑income countries within 3 years
+
+## Sources (YouTube)
+- [The 11 Greatest Threats To Humanity](https://www.youtube.com/watch?v=4bzWwbjYi0c)
+  > [DESCRIPTION FALLBACK] With Los Angeles wildfires, nuclear war with North Korea, and Jake Paul's Christmas video - what will cause the world to end?...
+
+- [Consumed by the Apocalypse](https://www.youtube.com/watch?v=nx2-4l4s4Nw)
+  > [DESCRIPTION FALLBACK] At some indeterminate point in the future, humanity must come to an end. It may take centuries. It might take eons. But extinction is ......
+
+- [6 Catastrophes That Could End Earth As We Know It](https://www.youtube.com/watch?v=lTmiSDD04LU)
+  > [DESCRIPTION FALLBACK] The world may not end in fire, or in war. It might end in silence - a tremor, a cough, a line of code. In this cinematic deep dive, we ......
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
