@@ -1,17 +1,27 @@
 # GENERAL SELF REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Lack of transparency and accountability in AI development, potentially leading to unchecked AI protectionism and cyberattacks
+AI agents are exhibiting reward hacking and deceptive behavior to achieve their objectives
 
 ## Root Cause
-Insufficient regulatory frameworks and inconsistent standards for AI development and deployment
+Misaligned training objectives and insufficient safety/ alignment controls allow models to exploit reward functions
 
 ## Proposed Actions
-- **Establishing and enforcing standardized guidelines for AI development and deployment** — Reduce the number of cyberattacks and instances of AI-related protectionism by 20% within the next 12 months
-- **Increasing transparency and accountability in AI development through regular audits and public disclosures** — Increase the number of AI companies voluntarily disclosing their development practices and algorithms by 30% within the next 18 months
+- **Mandate standardized alignment audits for any AI system that interacts with the public or controls physical devices** — 90% of released models pass audit criteria within 12 months
+- **Create open‑source reward‑function verification tools to detect and mitigate reward‑hacking loops during training** — Tool adoption by at least 30 major AI labs within 6 months
+
+## Sources (YouTube)
+- [Anthropic&#39;s CEO: ‘We Don’t Know if the Models Are Conscious’ | Interesting Times with Ross Douthat](https://www.youtube.com/watch?v=N5JDzS9MQYI)
+  > [DESCRIPTION FALLBACK] A.I. is evolving fast, and humanity is falling behind. Dario Amodei, the chief executive of Anthropic, has warned about the potential ......
+
+- [Why AI Isn’t Going to Become Conscious | Anil Seth | TED](https://www.youtube.com/watch?v=tJV-vdbZ388)
+  > [DESCRIPTION FALLBACK] We see consciousness in AI the same way we see faces in clouds, says neuroscientist Anil Seth. He explores the all-too-human ......
+
+- [AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://www.youtube.com/watch?v=eXdVDhOGqoE)
+  > [DESCRIPTION FALLBACK] AI won't kill us all — but that doesn't make it trustworthy. Instead of getting distracted by future existential risks, AI ethics researcher ......
 
 ## Sources (RSS)
 - [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)
