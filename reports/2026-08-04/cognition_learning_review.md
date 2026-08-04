@@ -4,18 +4,36 @@
 **Severity:** MEDIUM
 
 ## Problem
-Lack of discussion on crucial topics such as sovereignty, money, love, and power in polite conversation
+The current education system is not adequately preparing students for the rapidly changing job market and real-life challenges
 
 ## Root Cause
-Societal norms and fear of judgement or rejection
+The education system is focused on traditional college readiness rather than career-connected learning and practical skills development
 
 ## Proposed Actions
-- **Create and promote documentary films and educational content that address these taboos** — Increase the number of discussions and workshops on these topics in public spaces by 20% within the next 6 months
+- **Implement career-connected learning programs in high schools** — Increase the number of students enrolled in vocational training or apprenticeships by 20% within the next 2 years
+- **Integrate AI-powered learning tools in classrooms** — Improve student engagement and academic performance by 15% within the next year
+
+## Sources (YouTube)
+- [This Is How Kids Should Be Learning with AI | Priya Lakhani | TED](https://www.youtube.com/watch?v=YBH8rQv4aTQ)
+  > Twenty years ago,
+I founded a social enterprise. I wanted to change the world. And we were funding millions
+of meals to the underprivileged. We were providing tens of thousands
+of vaccines across part...
+
+- [What is the Future of Education? Freakonomics’ Steve Levitt &amp; Google Chief Technologist Ben Gomes](https://www.youtube.com/watch?v=U-7THjkQdbg)
+  > - How do I get an AI
+tutor in every kid's ear? How is there not a stampede to get kids equipped with those tools? (dramatic classical music) - So Steven, I've been
+a huge fan of your books for a long ...
+
+- [How China Is Using Artificial Intelligence in Classrooms | WSJ](https://www.youtube.com/watch?v=JMLsHI8aV0g)
+  > (speaking in foreign language) - [Presenter] Teachers at
+this primary school in China-- (speaking in foreign language) know exactly when someone
+isn't paying attention. (speaking in foreign language) ...
 
 ## Sources (RSS)
-- [The Taboo of…Money, Love and Power](https://mindshiftentertainment.wordpress.com/2005/04/01/hello-world/)
-- [Lotus: A Woman’s Journey of Empowerment](https://mindshiftentertainment.wordpress.com/2003/03/23/lotus-a-womans-journey-of-empowerment/)
-- [Fresh Wave](https://mindshiftentertainment.wordpress.com/1988/09/09/fresh-wave/)
+- [High Schools Need a New Model for a New Economy](https://edsurge.com/news/high-schools-need-a-new-model-for-a-new-economy)
+- [Why Would Anyone Opt for Virtual Kindergarten?](https://edsurge.com/news/why-would-anyone-opt-for-virtual-kindergarten)
+- [Reality Bites: Students Say They Face Stark Challenges After High School](https://edsurge.com/news/reality-bites-students-say-they-face-stark-challenges-after-high-school)
 
 
 ---
