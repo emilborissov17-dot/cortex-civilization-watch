@@ -1,22 +1,32 @@
 # ECONOMY WORK REVIEW
 **Date:** 2026-08-04
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Increase in fuel theft from UK forecourts
+US states are suing to block Trump-era tariffs that were imposed on dozens of countries over alleged forced labour violations
 
 ## Root Cause
-Economic instability and rising fuel costs due to the Iran war
+The tariffs were introduced without coordinated international verification mechanisms, leading to disputed claims of forced labour and fragmented legal challenges across US states
 
 ## Proposed Actions
-- **Implementing stricter security measures at fuel stations** — Reduce fuel theft incidents by 20% within the next 6 months
-- **Introducing fuel price regulation to stabilize prices** — Stabilize fuel prices and reduce theft incidents by 30% within the next 12 months
+- **Establish an independent, multilateral audit platform under the International Labour Organization to certify forced labour claims before tariffs are applied** — Reduce the number of legal challenges to tariffs by 80% within two years and ensure 90% of tariff decisions are based on verified data
+- **Create a US federal‑state liaison committee to harmonize legal responses to trade measures and streamline litigation processes** — Decrease the average duration of state lawsuits from current levels to under six months within one year
+
+## Sources (YouTube)
+- [What causes an economic recession? - Richard Coffin](https://www.youtube.com/watch?v=SwaCg7Gwtzw)
+  > [DESCRIPTION FALLBACK] How can factors like inflation, supply and demand, and interest rates trigger recessions? Learn the economic basics of modern ......
+
+- [What If US Economy CRASHES TOMORROW](https://www.youtube.com/watch?v=y7oKbvbnqjY)
+  > [DESCRIPTION FALLBACK] The US is hanging by a thread and one bad day could snap it! Dive into today's wild new video to see how fast the economy could ......
+
+- [Why the World Might Be Headed for a Recession in 2025](https://www.youtube.com/watch?v=m70CX0EHq8M)
+  > [DESCRIPTION FALLBACK] Are we heading toward a global recession in 2025? In this video, we break down what a recession really means — why it ......
 
 ## Sources (RSS)
-- [Half price rail travel extended to 18-year-olds](https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss)
-- [Threat to oil tankers in Middle East  worst since start of Iran war, analysts say](https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss)
-- [Tokenomics: Why making AI pay is tricky](https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss)
+- [Half-price rail travel extended to 18-year-olds](https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss)
+- [US states sue to block Trump tariffs impacting dozens of countries](https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss)
+- [Why is Trump Media selling early access to Trump's Truth Social posts?](https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss)
 
 
 ---
