@@ -1,27 +1,30 @@
 # ECOSYSTEMS BIODIVERSITY REVIEW
 **Date:** 2026-08-04
 
-**Severity:** CRITICAL
+**Severity:** HIGH
 
 ## Problem
-Habitat destruction and biodiversity loss are leading to language extinction and threatening over 1 million plant and animal species with extinction
+Deforestation and habitat loss leading to biodiversity loss and potential extinction of species
 
 ## Root Cause
-Human activities such as deforestation, urbanization, and pollution are causing habitat destruction and disrupting ecosystems
+Human activities such as agriculture, urbanization, and logging, driven by economic interests and lack of effective conservation policies
 
 ## Proposed Actions
-- **Establish and expand protected areas for conservation** — Increase protected areas by 20% within the next 5 years
-- **Implement sustainable land-use practices and reduce deforestation** — Reduce deforestation rates by 30% within the next 10 years
+- **Implementing reforestation programs and protecting areas of high conservation value** — Increase global forest cover by 10% within the next 10 years
+- **Promoting sustainable agriculture practices and reducing deforestation-driven agriculture** — Reduce deforestation rates by 20% within the next 5 years
 
 ## Sources (YouTube)
-- [New study shows direct link between habitat destruction and language extinction Guardian](https://www.youtube.com/watch?v=eNVQwKepKTI)
-  > [DESCRIPTION FALLBACK] The destruction of natural environments is not only diminishing the amount of biological diversity around the globe, it's also ......
+- [How Deforestation and Habitat Loss reduce Biodiversity: Edge Effects and Extinction Debts explained](https://www.youtube.com/watch?v=utUttHCCHXk)
+  > every minute an area the size of a soccer or football field depending on where you watch this from is clear-cut in the Amazon basin which because of feedbacks of the forest on its own climate may be o...
 
-- [Biodiversity Loss Explained | Causes, Consequences &amp; Ecosystem Recovery](https://www.youtube.com/watch?v=zx96g_bvw0w)
-  > [DESCRIPTION FALLBACK] Biodiversity refers to the variety of life on Earth — from microorganisms and plants to animals and entire ecosystems. Healthy ......
+- [Untangled: Biodiversity loss - why should you care?](https://www.youtube.com/watch?v=KM0EZP5ijbA)
+  > [Applause] we've all seen photos of rain forests destroyed rivers littered with plastic news of wildfires and species going extinct biodiversity loss may not be happening at our doorstep but it should...
 
-- [Untangled: Biodiversity loss - what on Earth is causing it?](https://www.youtube.com/watch?v=lcNh_ZS3u-k)
-  > [DESCRIPTION FALLBACK] Right now, over 1 million plant and animal species are threatened with extinction and the average population sizes of wildlife ......
+- [Climate 101: Deforestation | National Geographic](https://www.youtube.com/watch?v=Ic-J6hcSKa8)
+  > - [Narrator] Forests cover
+about 30% of the planet. And the ecosystems they
+create play an essential role in supporting life on earth. But deforestation is
+clearing earth's forest on a massive scale. ...
 
 ## Sources (RSS)
 - [Global](https://iucn.org/our-work/region/global)
