@@ -1,13 +1,32 @@
 # EDUCATION CULTURE REVIEW
 **Date:** 2026-08-04
 
-**Severity:** UNKNOWN
+**Severity:** HIGH
 
 ## Problem
-Няма достатъчно данни за анализ
+High school curricula are not aligned with the rapidly changing labor market, leading to graduates lacking the skills needed for emerging jobs.
 
 ## Root Cause
-Липсващи или недостъпни sources
+Education systems continue to prioritize traditional college‑preparatory pathways and outdated vocational tracks, while industry demands new, interdisciplinary competencies that evolve faster than curricula can adapt.
+
+## Proposed Actions
+- **Create a mandated framework for career‑connected learning that requires schools to co‑design modules with local employers and update them annually.** — By 2027, 60 % of high schools adopt at least three industry‑validated competency modules, and graduate employment mismatch rates drop by 15 % in participating regions.
+- **Launch a national teacher‑upskilling program focused on emerging technologies and interdisciplinary projects, funded by a public‑private partnership.** — Train 20,000 teachers within three years; assess post‑training student skill gains via standardized project‑based assessments.
+
+## Sources (YouTube)
+- [Keynote 2, Creativity, Global Citizenship, and Health for All | CES 2025, UNESCO Paris](https://www.youtube.com/watch?v=Czng7PNYHVg)
+  > [DESCRIPTION FALLBACK] n this keynote, Didier Jourdan, Head of the UNESCO Chair on Global Health and Education, explored the links between creativity, ......
+
+- [Top 10 Countries with the Highest Literacy Rates in 2025](https://www.youtube.com/watch?v=pJYV_b_QaIw)
+  > [DESCRIPTION FALLBACK] Discover the Top 10 Countries with the Highest Literacy Rates in 2025 — based on the latest UNESCO and World Bank data for ......
+
+- [Building AI Literacy with UNESCO&#39;s AI Competency Frameworks](https://www.youtube.com/watch?v=Wta42k7X2Jo)
+  > [DESCRIPTION FALLBACK] MIT AI+Education Summit Day 1 PM Shafika Isaacs, UNESCO Chief of Section for AI and Technology Kelly Shiohira, Executive ......
+
+## Sources (RSS)
+- [High Schools Need a New Model for a New Economy](https://edsurge.com/news/high-schools-need-a-new-model-for-a-new-economy)
+- [Why Would Anyone Opt for Virtual Kindergarten?](https://edsurge.com/news/why-would-anyone-opt-for-virtual-kindergarten)
+- [Reality Bites: Students Say They Face Stark Challenges After High School](https://edsurge.com/news/reality-bites-students-say-they-face-stark-challenges-after-high-school)
 
 
 ---
