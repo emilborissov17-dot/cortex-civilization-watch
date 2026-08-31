@@ -1,26 +1,25 @@
 # LONG TERM FUTURE REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Plan A‑type international agreements are being designed in ways that can concentrate power and enable permanent authoritarian regimes.
+[VIDEO] [YT] The Terrifying Possibility That No Civilization Survives - YouTube: We look hard at the most uncomfortable term in astronomy. We move past the traditional tropes of alien sci-fi to confront a quiet, mathematical reality.
 
 ## Root Cause
-Agreement drafts prioritize rapid consensus and geopolitical leverage over robust checks, lack sunset clauses, and insufficiently involve civil society, allowing power to become entrenched.
+Current scientific understanding and potential for misinterpretation leading to pessimistic views on long-term survival without proper context
 
 ## Proposed Actions
-- **Mandate independent oversight and sunset clauses for all new multilateral agreements, with periodic public reviews.** — At least 80% of new treaties signed after 2027 include an independent oversight board and a 10‑year sunset/review provision.
-- **Create an open‑access monitoring platform that tracks power‑concentration indicators (e.g., decision‑making centralization, veto rights) for each agreement.** — Platform launched within 2 years and used by >50% of signatory states for compliance checks.
+- **Provide additional context about the mathematical reality discussed in the video to prevent misinterpretation as a pessimistic outlook on long-term survival.** — Reduce public misunderstanding by at least 20%
 
 ## Sources (YouTube)
-- [Existential Risk Governance in Turbulent Times - YouTubeStanford Existential Risks Initiative - YouTubeExistential Risk, Emerging Technology, and Democracy: The ...Watch How Anthropic Weighs the Risk of Human Extinction ...Home - Existential Risk ObservatoryDoomsday Clock - Bulletin of the Atomic ScientistsExistential Risk and the Future of Humanity: Lessons from AI ...](https://www.youtube.com/watch?v=bvjRzI13OmA)
-  > [DESCRIPTION FALLBACK] Mar 25, 2026 · -What are the real stakes for global risk governance if naked power politics becomes the new norm? -How are energy dependencies, trade realignments, and financial...
+- [The Terrifying Possibility That No Civilization Survives - YouTube](https://www.youtube.com/watch?v=xRPIKAoDja4)
+  > [DESCRIPTION FALLBACK] Tonight, we look hard at the most uncomfortable term in astronomy. We move past the traditional tropes of alien sci-fi to confront a quiet, mathematical real... Published: June ...
 
 ## Sources (RSS)
-- [Future agents shouldn't care about being undeployed for misbehavior](https://www.lesswrong.com/posts/pEezp49MDg5PFq2eT/future-agents-shouldn-t-care-about-being-undeployed-for)
-- [Persuasion as Market Making](https://www.lesswrong.com/posts/2qDpf6Tvu7dxtRve7/persuasion-as-market-making)
-- [OODing up your Anki game](https://www.lesswrong.com/posts/2jFDSBypCjzyTDaGM/ooding-up-your-anki-game)
+- [Value generalisation Theory of Change: putting it into practice](https://www.lesswrong.com/posts/kjPEH4KGEHd8iQ4Hn/value-generalisation-theory-of-change-putting-it-into)
+- [The separation principle: where do beliefs and desires come from?](https://www.lesswrong.com/posts/awMDNhoL6J97s6wFJ/the-separation-principle-where-do-beliefs-and-desires-come)
+- [Study 2 Results: Exploring representational counterparts of welfare-relevant indicators under post-training quantization](https://www.lesswrong.com/posts/pxXTJtvtpJaNwdCTw/study-2-results-exploring-representational-counterparts-of)
 
 
 ---
