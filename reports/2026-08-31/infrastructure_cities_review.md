@@ -1,24 +1,26 @@
 # INFRASTRUCTURE CITIES REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Severe shortage of affordable housing units in the United States, exemplified by New Mexico lacking 58,000 homes
+States moving to rein in license plate surveillance, which may lead to reduced public trust and transparency in city governance.
 
 ## Root Cause
-Regulatory bottlenecks (complex permitting, land‑lease restrictions) and market‑driven treatment of housing as a speculative asset rather than a human right
+Lack of clear benefits or potential negative impacts on public perception and trust from state actions.
 
 ## Proposed Actions
-- **Enact a nationwide “Affordable Housing Fast‑Track” law that caps permitting time to 90 days, mandates inclusionary zoning of at least 20% affordable units in new developments, and uses the US DOT’s streamlined land‑lease model for utility corridors to free up land for housing** — Construction of 10,000 new affordable housing units per year nationwide, and reduction of average permitting time to <90 days for qualifying projects
-- **Create a federal grant program that matches private investment 1:1 for affordable housing built on utility‑right‑of‑way lands identified via the streamlined lease process** — Leverage $2 billion of private capital into at least 50,000 affordable units within five years
+- **Conduct a public awareness campaign to explain the benefits of license plate surveillance in maintaining public safety and security.** — Increase public understanding by 20% regarding the role of license plate surveillance in ensuring public safety.
 
 ## Sources (YouTube)
-- ["The Global Housing Crisis is Fundamentally a Crisis of ...“How the Housing Crisis Fuels Inequality — Explained Simply”The Global Housing Crisis. - ArcGIS StoryMapsDialogue 1 - The Global Housing Crisis: What is the Plan ...Housing 101 Video Series - Bipartisan Policy CenterUrban inequalities in the 21st century economy - ScienceDirectWhat's driving the housing affordability crisis? And what can ...](https://www.youtube.com/watch?v=WeRBQvDLLkg)
-  > [DESCRIPTION FALLBACK] Jul 12, 2026 · He continued, “we have placed affordable housing, integrated urban planning and resilient infrastructure at the centre of our national development priorities thro...
+- [Smart Cities: How LiDAR Technology Enables Real‑Time Urban Intelligence](https://www.youtube.com/watch?v=obwDCtxa73Y)
+  > [DESCRIPTION FALLBACK] Asad Lesani, VP of Smart Infrastructure at Ouster, breaks down how lidar enhances existing smart city systems with real-time ......
 
-- [“How the Housing Crisis Fuels Inequality — Explained Simply”The Global Housing Crisis. - ArcGIS StoryMapsDialogue 1 - The Global Housing Crisis: What is the Plan ...Housing 101 Video Series - Bipartisan Policy CenterUrban inequalities in the 21st century economy - ScienceDirectWhat's driving the housing affordability crisis? And what can ...](https://www.youtube.com/watch?v=tRw9DkxP5MQ)
-  > [DESCRIPTION FALLBACK] This video breaks down how housing shortages drive rising income inequality and block social mobility — from the homeowners vs. renters wealth gap to intergenerational disadvant...
+- [Portugal Smart Cities Summit 2026 | WrapUp](https://www.youtube.com/watch?v=5lTgFwb3PfQ)
+  > [DESCRIPTION FALLBACK] The Portugal Smart Cities Summit 2026 brought together policymakers, researchers, companies, and citizens to reflect on the ......
+
+- [AI, Real Estate, and the Future of Smart Cities | Judyta Sawicka](https://www.youtube.com/watch?v=GYeF7qh4sAg)
+  > [DESCRIPTION FALLBACK] What does artificial intelligence mean for the future of cities, buildings, infrastructure, and investment? In this episode of AI: Voice ......
 
 ## Sources (RSS)
 - [US DOT proposes streamlining land leases along roads, railroads for utility needs](https://www.smartcitiesdive.com/news/us-dot-corridors-of-commerce/829019/)
