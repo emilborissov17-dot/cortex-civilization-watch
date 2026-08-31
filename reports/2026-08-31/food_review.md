@@ -4,21 +4,24 @@
 **Severity:** MEDIUM
 
 ## Problem
-All 212 plant‑based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin
+All tested plant-based meat alternatives contain naturally occurring fungal toxins (mycotoxins)
 
 ## Root Cause
-Widespread use of fungal‑derived protein ingredients that naturally produce secondary metabolites, combined with insufficiently comprehensive testing and regulatory limits that focus only on a few known toxins
+Widespread use of fungal-derived protein ingredients without comprehensive mycotoxin screening and insufficient regulatory thresholds for emerging food categories
 
 ## Proposed Actions
-- **Require mandatory, comprehensive screening for the full spectrum of fungal toxins in all plant‑based protein products before market entry** — Achieve >95% of new products passing a stricter toxin threshold within 2 years; reduce average toxin concentration by 50% across the product category
-- **Fund research into processing technologies (e.g., heat treatment, fermentation tweaks) that degrade or remove fungal toxins without harming nutritional quality** — Develop at least two scalable toxin‑reduction methods with demonstrated >80% toxin removal in pilot studies within 3 years
+- **Mandate routine quantitative mycotoxin testing for all plant‑based meat products and set stricter maximum limits than current EU guidelines** — Achieve 90% of products below the new stricter limit within 3 years and 100% compliance by year 5
+- **Fund research into low‑mycotoxin fungal strains and alternative protein extraction methods** — Develop at least two commercial low‑toxicity fungal protein isolates within 5 years
 
 ## Sources (YouTube)
-- [State of Food Security and Nutrition in The World 2025Food Security Report 2025: Global shocks drive food ... - YouTubeThe State of Food Security and Nutrition in the WorldThe State of Food Security and Nutrition in the World 2025The State of Food Security and Nutrition in the World 20252025 Digital Dialogues - The World Food Prize - Improving the ...FAO Digital Media Hub - GLOBAL FOOD SECURITY REPORT 2025](https://www.youtube.com/watch?v=jZwPIMk-HoM)
-  > [DESCRIPTION FALLBACK] Jul 28, 2025 · The State of Food Security and Nutrition in the World 2025 reports that between 638 and 720 million people faced hunger in 2024. Jul 22, 2025 · The report examine...
+- [The Future of Food: Can Community Farms Solve Global Hunger?](https://www.youtube.com/watch?v=8awsHPEyP7A)
+  > [DESCRIPTION FALLBACK] This video explores the pressing issue of global food insecurity and investigates whether Community Supported Agriculture (CSA) ......
 
-- [Food Security Report 2025: Global shocks drive food ... - YouTubeThe State of Food Security and Nutrition in the WorldThe State of Food Security and Nutrition in the World 2025The State of Food Security and Nutrition in the World 20252025 Digital Dialogues - The World Food Prize - Improving the ...FAO Digital Media Hub - GLOBAL FOOD SECURITY REPORT 2025](https://www.youtube.com/watch?v=syO6OGKg27I)
-  > [DESCRIPTION FALLBACK] Jul 22, 2025 · The report examines the challenges that rising food prices pose for achieving the Sustainable Development Goal (SDG) 2.1 and 2.2 targets of ending hunger, food in...
+- [A world going hungry? How conflict and climate change disrupt global food supply | Business Beyond](https://www.youtube.com/watch?v=5YcvKvxWaCE)
+  > [DESCRIPTION FALLBACK] The battle against hunger is quite literally, an existential one. But there was a time when winning that battle seemed within reach ......
+
+- [What’s the Best Way to Feed an Entire Continent?︱Ibrahim Maigari Ahmadu](https://www.youtube.com/watch?v=JXBsd7u2L9k)
+  > [DESCRIPTION FALLBACK] Africa holds 16-17% of the world's arable land, yet hunger remains a persistent challenge across the continent. What's preventing ......
 
 ## Sources (RSS)
 - [Researchers unveil sustainable spirulina solution to vitamin B12 deficiency](https://www.sciencedaily.com/releases/2026/08/260829035227.htm)
