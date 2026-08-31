@@ -1,21 +1,26 @@
 # GOVERNANCE RIGHTS AT HUMAN LEVEL
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-The Haitian state failed to protect civilians from an armed gang attack in Kenscoff, resulting in at least 47 deaths and 22 injuries.
+Taiwan's proposed referendum on judicial caning threatens human rights protection.
 
 ## Root Cause
-Weak governance, chronic under‑funding of security forces, pervasive corruption and impunity, and the absence of effective rule‑of‑law mechanisms enable armed gangs to operate with little resistance.
+Lack of effective governance and enforcement mechanisms for human rights laws in Taiwan.
 
 ## Proposed Actions
-- **Deploy a UN‑mandated rapid response security mission to secure the most vulnerable communes, coupled with a joint investigation team to document and prosecute the perpetrators.** — Reduction of civilian deaths from gang attacks by 50% within 12 months and initiation of at least three prosecutions within 18 months.
-- **Launch a transparent community‑based policing reform program funded by international donors, including training, equipment, and salary guarantees for local police.** — Increase in public trust in police (measured by independent survey) to above 60% and a 30% rise in reported crimes being investigated within 24 months.
+- **Engage with the Central Election Commission to ensure transparency in the referendum process.** — Increase public awareness about the potential impact of the proposed judicial caning on human rights protection.
 
 ## Sources (YouTube)
-- [Democrats Facing Accountability For Their Actions For... - YouTube](https://www.youtube.com/watch?v=Vs_hcN2jhi0)
-  > [DESCRIPTION FALLBACK] Check out my other political news channel: / @conservativemodelminority 0:00 FAFO 1:30 Facing accountability for the 1st time 3:37 Woman learns hard lesson after following ICE 5...
+- [2025-Oct-02, JUST Meeting No. 5, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=lWDUzY8D0hQ)
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 5 JUST - Standing Committee on Justice and Human Rights. Held 2025-Oct-02 from ......
+
+- [2025-Dec-11, JUST Meeting No. 14-2, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=Vpr7pZwrvzE)
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 14 JUST - Standing Committee on Justice and Human Rights. Held 2025-Dec-11 from ......
+
+- [2025-Oct-23, JUST Meeting No. 9, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=-vBL4qAmNk0)
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 9 JUST - Standing Committee on Justice and Human Rights. Held 2025-Oct-23 from ......
 
 ## Sources (RSS)
 - [Taiwan: Proposed judicial caning referendum indicates further erosion of human rights protection](https://www.amnesty.org/en/latest/news/2026/08/taiwan-proposed-judicial-caning-referendum-indicates-further-erosion-of-human-rights-protection/)
