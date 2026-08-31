@@ -1,18 +1,18 @@
 # GOAL PROGRESS REVIEW
 **Date:** 2026-08-31
 
-**Severity:** CRITICAL
+**Severity:** HIGH
 
 ## Problem
-Accelerating sea-level rise is increasing the frequency and severity of coastal flooding, threatening millions of lives and livelihoods.
+Accelerating global sea level rise threatening coastal populations and ecosystems
 
 ## Root Cause
-Anthropogenic climate change caused by continued high greenhouse gas emissions, which drives thermal expansion of oceans and melting of land ice.
+Anthropogenic greenhouse gas emissions driving rapid warming, causing thermal expansion of oceans and accelerated melting of land ice
 
 ## Proposed Actions
-- **Implement a worldwide carbon price of at least $100 per ton CO2 equivalent to drive rapid decarbonisation.** — Global CO2 emissions reduced by 30% relative to 2020 levels within 5 years.
-- **Establish a UN‑backed Climate‑Resilient Coastal Fund to finance sea walls, nature‑based defenses, and voluntary relocation for high‑risk communities.** — Protect or relocate at least 10 million people in the most vulnerable coastal zones by 2030.
-- **Mandate regular, high‑resolution sea‑level monitoring and early‑warning systems for all coastal megacities.** — Early‑warning alerts issued with ≥90% lead time for 95% of coastal flood events by 2027.
+- **Adopt and enforce legally binding net‑zero emissions targets for the top 20 emitting countries by 2030** — Global CO2 emissions reduced by at least 45% relative to 2010 levels by 2030, as reported by the UNFCCC
+- **Scale up nature‑based coastal protection by restoring 10 million hectares of mangroves and wetlands worldwide** — Area of restored mangroves verified through remote‑sensing datasets by 2035
+- **Invest in climate‑resilient coastal infrastructure (elevated housing, flood barriers) in the most vulnerable delta regions** — Number of at‑risk households relocated or protected increased by 30% in identified hotspots by 2050
 
 ## Sources (YouTube)
 - [SDG Report 2025 Overview - YouTubeSDG Moment 2025 - YouTubeTHE 17 GOALS - Sustainable DevelopmentThe Sustainable Development Goals - United Nations ...Learning Videos | SDG Help DeskThe Sustainable Development Goals ReportSDG Academy Library | UN SDG:Learn](https://www.youtube.com/watch?v=MFUyf5Z6hD8)
@@ -22,9 +22,9 @@ Anthropogenic climate change caused by continued high greenhouse gas emissions, 
   > [DESCRIPTION FALLBACK] The SDG Moment serves to place an annual spotlight on the Sustainable Development Goals (SDGs) and will be held at the beginning of the United Nation's General Assembly's High-L...
 
 ## Sources (RSS)
+- [‘The lake is our life’: Protecting a shared lifeline in Uganda](https://news.un.org/feed/view/en/story/2026/08/1168228)
 - [Rising seas, rising stakes: What increasing sea-levels mean to humanity](https://news.un.org/feed/view/en/story/2026/08/1168206)
 - [As the Himalayas melt, deadly floods become the new normal](https://news.un.org/feed/view/en/story/2026/08/1168227)
-- [UN chief condemns ‘indifference’ as Ebola cases mount in DR Congo](https://news.un.org/feed/view/en/story/2026/08/1168217)
 
 
 ---
