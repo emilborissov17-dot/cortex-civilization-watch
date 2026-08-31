@@ -1,24 +1,27 @@
 # COSMIC RESOURCES REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Absence of a binding, internationally recognized legal and regulatory framework for asteroid and space resource extraction
+The potential for space mining to disrupt Earth's resources and balance, especially with the increasing interest in asteroid mining as a viable business opportunity.
 
 ## Root Cause
-Political inertia and fragmented national legislation, exemplified by the 2015 U.S. Space Resource Exploration and Utilization Act that never became law, combined with competing interests of emerging space actors
+Lack of comprehensive regulations and oversight on space mining activities, leading to potential conflicts over resource distribution and environmental impacts.
 
 ## Proposed Actions
-- **Initiate an UN‑mandated negotiation for a Space Resource Utilization Treaty that defines ownership, environmental safeguards, and equitable benefit‑sharing** — Treaty opened for signature by at least 20 countries and 5 major industry players within 5 years
-- **Create a transparent, science‑based licensing authority under the treaty to evaluate sustainability of each extraction mission** — Issue at least 3 licensed asteroid‑mining missions that meet predefined environmental impact thresholds within 7 years
+- **Engage with ESRIC to accelerate research on sustainable space resource utilization** — Increase the number of research projects focused on sustainable asteroid mining by 30%
+- **Support and promote international cooperation in space mining regulations** — Achieve at least one ratified international agreement on space resource utilization by 2027
 
 ## Sources (YouTube)
-- [Asteroid mining: Is space the new gold rush for resource ...How Asteroid Mining Could Change The World | 4K - YouTubeAsteroid Mining Explained: Concepts, Challenges & What’s NextExploration: Safe and clean mining on Earth and asteroidsWhat is asteroid mining and how close are we to making it a ...Economics of the Stars: The Future of Asteroid Mining and the ...Asteroid Mining | @techwithnature | #dailyvlog - video ...](https://www.youtube.com/watch?v=Uiqet8E5Htc)
-  > [DESCRIPTION FALLBACK] Oct 7, 2025 · Long time considered as being a part of the Science fiction field, asteroids mining exploitation is on the verge of becoming a reality. Powerful actors and states ...
+- [Asteroid Mining: Turning Space Rocks into Billion‑Dollar ...Asteroid Mining Boom 2025 - YouTubeWhat is asteroid mining and how close are we to making it a ...The Race to Mine Asteroids: Which Country Will Strike Space ...The Future Of Asteroid Mining - YouTubeUnlocking the Asteroid Economy: The Future of Space MiningAsteroid Mining Could Change Everything! - YouTube](https://www.youtube.com/watch?v=OIwyuM8EuCA)
+  > [DESCRIPTION FALLBACK] May 14, 2026 · A single metallic asteroid could contain more precious metals than all the ore ever mined on Earth—could this be the next gold rush? This exploratory documentary ...
 
-- [How Asteroid Mining Could Change The World | 4K - YouTube](https://www.youtube.com/watch?v=-1PvTYMWzHE)
-  > [DESCRIPTION FALLBACK] Oct 18, 2025 · With rising global consumption, climate change, and environmental degradation from traditional mining, asteroid mining could help shift humanity toward a space-ba...
+- [Asteroid Mining Boom 2025 - YouTubeWhat is asteroid mining and how close are we to making it a ...The Race to Mine Asteroids: Which Country Will Strike Space ...The Future Of Asteroid Mining - YouTubeUnlocking the Asteroid Economy: The Future of Space MiningAsteroid Mining Could Change Everything! - YouTube](https://www.youtube.com/watch?v=iU3E_Qdv0vo)
+  > [DESCRIPTION FALLBACK] Apr 22, 2026 · Join us on a journey to explore the vast resources of our solar system and the emerging asteroid economy. 0:00 Introduction to the world of space mining, where co...
+
+- [The Future Of Asteroid Mining - YouTubeUnlocking the Asteroid Economy: The Future of Space MiningAsteroid Mining Could Change Everything! - YouTube](https://www.youtube.com/watch?v=o_VgI3Eah54)
+  > [DESCRIPTION FALLBACK] Nov 6, 2025 · This premium documentary explores the high-stakes world of asteroid mining. We investigate the science, technology, business, and complex ethics of harvesting tril...
 
 ## Sources (RSS)
 - [The electronics ‘under the hood’ of space networking](https://spacenews.com/the-electronics-under-the-hood-of-space-networking/)
