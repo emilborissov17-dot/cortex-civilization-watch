@@ -1,18 +1,16 @@
 # SPACE INFRASTRUCTURE REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Rapid increase in low Earth orbit satellite launches, especially Starlink constellations, is accelerating orbital debris accumulation and congestion.
+SpaceX's rapid increase in Starlink satellite launches poses a threat to the health of Earth's atmosphere and could potentially cause interference with space-based telescopes like NASA's Nancy Grace Roman Space Telescope.
 
 ## Root Cause
-Commercial demand for global broadband drives mass production and launch of small satellites without universally enforced end‑of‑life and debris mitigation standards.
+The exponential growth in SpaceX's Starlink satellite fleet is outpacing regulatory oversight, leading to potential atmospheric disturbances and signal interference.
 
 ## Proposed Actions
-- **Adopt and enforce a binding global standard requiring all new LEO satellites to have a verifiable deorbit capability within 5 years of mission end.** — >90% of newly launched LEO satellites demonstrate compliance via on‑orbit telemetry within 2 years of standard adoption.
-- **Create an incentive program (e.g., launch fee discounts, tax credits) for operators that implement active debris removal technologies or use passively safe orbital designs.** — At least three operators launch demonstrator removal missions and reduce tracked debris >10% within 5 years.
-- **Establish a real‑time, open‑access orbital traffic management platform integrating the "electronics under the hood" of space networking for collision prediction and coordination.** — Reduce the number of close‑approach alerts (>3 km) by 30% within 3 years.
+- **Develop and implement stricter regulations for Starlink satellite launches, including requirements for atmospheric impact assessments.** — Reduce the number of Starlink satellites launched by SpaceX by 20% within one year.
 
 ## Sources (YouTube)
 - [NASA's Artemis II Astronauts Receive the Congressional Space Medal of Honor](https://www.youtube.com/watch?v=8NOLpgadWXc)
