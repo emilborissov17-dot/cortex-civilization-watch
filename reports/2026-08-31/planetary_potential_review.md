@@ -1,21 +1,17 @@
 # PLANETARY POTENTIAL REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Hundreds of previously undetected glacial earthquakes beneath Antarctica's Doomsday Glacier indicate insufficient monitoring of ice sheet stability, raising the risk of rapid ice loss and sea‑level rise.
+Hundreds of previously overlooked glacial earthquakes detected beneath Antarctica's Thwaites Glacier.
 
 ## Root Cause
-Sparse seismic instrumentation in remote polar regions and limited integration of glaciological data into global monitoring networks leave large portions of the Antarctic ice sheet unobserved.
+Climate change and ice melting in the region, leading to increased seismic activity under the glacier.
 
 ## Proposed Actions
-- **Deploy a network of autonomous ocean‑bottom seismometers around the Thwaites and Doomsday glacier fronts and integrate their data with existing satellite altimetry to create a real‑time glacial‑seismic monitoring system.** — Reduce the number of unknown glacial seismic events by >80% within three years and produce monthly reports on ice‑sheet stress trends.
-- **Establish an international data‑sharing platform that links seismic, GPS, and satellite observations for the Antarctic ice sheet.** — All Antarctic research stations and major polar programs contribute data to the platform within two years; platform usage tracked by number of active users and data downloads.
-
-## Sources (YouTube)
-- [Geoengineering The Unforeseen Economic and ClimateGeoengineering: Videos, reports, a podcast and moreEngineering Europe - YouTubeVideos - Geoengineer.orgGeo Economics in Transition Adapting to Global Economic ...](https://www.youtube.com/watch?v=DEzYL4UdAZo)
-  > [DESCRIPTION FALLBACK] Oct 5, 2025 · What happens when we try to “fix” the climate at planetary scale? In this video, we unpack the hidden economic ripple effects and climate risks of geoengineering—f...
+- **Conduct further research into glacial earthquakes and their impact on Antarctica's stability.** — Reduce the number of undetected seismic events by 50% within a year.
+- **Develop early warning systems for potential megaquakes in Cascadia region.** — Decrease the risk of a Cascadia megathrust earthquake causing significant damage by 20%
 
 ## Sources (RSS)
 - [Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier](https://www.sciencedaily.com/releases/2026/08/260829035328.htm)
