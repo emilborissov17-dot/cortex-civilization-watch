@@ -4,25 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Elevated nitrate concentrations in the municipal drinking water supply, posing cancer risk to residents
+Severe water shortage in the Colorado River basin leading to reduced allocations for downstream users
 
 ## Root Cause
-Intensive agricultural runoff, especially from dairy concentrated animal feeding operations (CAFOs) and fertilizer application, leaches nitrates into groundwater and surface water that feed the city's water source
+Overallocation of water rights combined with prolonged drought and climate‑driven reductions in snowpack and runoff
 
 ## Proposed Actions
-- **Implement stricter nitrate limits for agricultural runoff and require buffer zones around water bodies for all CAFOs and high‑fertilizer farms** — Reduce nitrate concentration in the city's source water to below 10 mg/L (EPA maximum contaminant level) within 3 years
-- **Upgrade municipal water treatment plants with advanced denitrification technology (e.g., ion exchange or biological denitrification)** — Achieve >90% removal efficiency of nitrates from raw intake water, verified by quarterly water quality reports
-- **Promote precision agriculture and cover‑crop programs through subsidies and technical assistance for farmers in the watershed** — Decrease fertilizer nitrogen application rates by 20% across the watershed within 5 years, measured via agricultural input reporting
+- **Implement a basin‑wide water‑banking system that allows temporary water trades and incentivises conservation among large agricultural users** — Achieve a net reduction of 10% in total water withdrawals from the Colorado River by 2029 compared to 2024 baseline
+- **Mandate and fund the adoption of high‑efficiency irrigation technologies (e.g., drip, laser‑leveling) on 50% of irrigated acreage in the basin** — Increase irrigation water‑use efficiency from current ~70% to >85% on targeted lands by 2032
 
 ## Sources (YouTube)
-- [The Water Crisis | National Geographic - YouTube](https://www.youtube.com/watch?v=3VyfN30XzDM)
-  > [DESCRIPTION FALLBACK] Actor, Adrian Grenier, and National Geographic Explorer, Shannon SwitzerSwanson, explore the growing problem of water scarcity in the US. Are werunning out o... Published: May 5...
+- [Explained | World&#39;s Water Crisis | FULL EPISODE | Netflix](https://www.youtube.com/watch?v=C65iqOSCZOY)
+  > [DESCRIPTION FALLBACK] In partnership with Vox Media Studios and Vox, this enlightening explainer series will take viewers deep inside a wide range of ......
 
-- [Water scarcity - Innovation to combat drought | DW Documentary - YouTube](https://www.youtube.com/watch?v=5zyxsOMw634)
-  > [DESCRIPTION FALLBACK] While heat and drought reduce the groundwater in many places, water consumption continues to rise. Is it possible to reverse this global trend by using water... Published: Novem...
+- [Water scarcity - Innovation to combat drought | DW Documentary](https://www.youtube.com/watch?v=5zyxsOMw634)
+  > [DESCRIPTION FALLBACK] While heat and drought reduce the groundwater in many places, water consumption continues to rise. Is it possible to reverse this ......
 
-- [The Water Crisis and Wall Street - YouTube](https://www.youtube.com/watch?v=nTy872i51Ec)
-  > [DESCRIPTION FALLBACK] There is a growing crisis of global freshwater availability, due to over-pumping of groundwater, agricultural demands, and climate change. And Wall Street in... Published: Augus...
+- [Europe Is Drying Out: The Dangerous Spread of Desertification | Full Documentary](https://www.youtube.com/watch?v=davjaRBL3HY)
+  > [DESCRIPTION FALLBACK] Southern Europe is facing a growing ecological crisis: desertification. In countries like Portugal, Spain, Italy and Greece, fertile ......
 
 ## Sources (RSS)
 - [Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier](https://www.sciencedaily.com/releases/2026/08/260829035328.htm)
