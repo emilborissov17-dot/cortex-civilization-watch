@@ -4,22 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Plastic and mixed packaging waste is marketed as recyclable, but the majority ends up in landfills or incinerated, creating persistent environmental pollution.
+Continued high production and low recycling rates of single‑use plastic packaging, leading to growing plastic waste in the environment
 
 ## Root Cause
-Design of single‑use packaging for convenience, weak extended producer responsibility (EPR) enforcement, and insufficient recycling infrastructure lead to a false recycling narrative.
+Economic incentives favor virgin plastic because it is cheaper than recycled material, combined with weak or inconsistently applied Extended Producer Responsibility (EPR) regulations and packaging designs that are difficult to recycle
 
 ## Proposed Actions
-- **Pass legislation requiring all consumer packaging to meet 100 % recyclability or compostability standards and to be collected under a mandatory EPR scheme.** — Increase the proportion of packaging waste captured in formal recycling streams from ~15 % to ≥60 % within five years.
-- **Create public‑private innovation funds to scale technologies that convert landfill gas to methanol (e.g., Emvolon) and to develop low‑wear refuse‑truck systems (e.g., InterMotive PTO Pro).** — Deploy at least 200 new waste‑to‑fuel plants and retrofit 30 % of refuse trucks in major cities within ten years.
-- **Launch a coordinated consumer education campaign exposing the “recycling myth” and promoting reusable alternatives.** — Achieve a 25 % reduction in per‑capita single‑use plastic purchases within three years, measured by retail sales data.
+- **Adopt a mandatory EPR framework that requires a minimum recycled content (e.g., 30%) in all single‑use plastic containers and enforces design‑for‑recycling standards** — Share of recycled content in sold plastic bottles rises from current ~10% to 30% by 2026; reduction of plastic waste landfill volume by 15% by 2026
+- **Create a public‑private fund that subsidizes advanced recycling technologies (e.g., chemical recycling, landfill‑gas‑to‑methanol) and retrofits municipal collection fleets with efficiency‑enhancing controls** — Installation of upgraded collection trucks in 50% of major U.S. cities within 3 years; 10 % increase in processed plastic tonnage annually
 
 ## Sources (YouTube)
-- [The Recycling Myth⎜WHY PLASTIC?⎜(Full documentary) - YouTubeThe Plastic Problem - A PBS NewsHour Documentary - YouTubeThe Recycling Myth⎜WHY PLASTIC?⎜ (Full documentary)Best Documentaries About Plastic Pollution | Green Newton11 Plastic Documentary Films to Watch - TRVSTPlastic Wars | FRONTLINE | PBS | Official Site | Documentary ...Films and Documentaries | Break Free From Plastic](https://www.youtube.com/watch?v=j_tgfvomUf8)
-  > [DESCRIPTION FALLBACK] Mar 10, 2025 · Can plastic be recycled? Do you know what happens to your plastic waste? In the last few years the plastic pollution crisis has become enormous. Pictures of poiso...
+- [Plastic, Forever](https://www.youtube.com/watch?v=fkM8RIwFXDk)
+  > [DESCRIPTION FALLBACK] "Economics favor more plastic production. It is far cheaper to make a soda bottle out of newly produced plastic than from recycled ......
 
-- [The Plastic Problem - A PBS NewsHour Documentary - YouTubeThe Recycling Myth⎜WHY PLASTIC?⎜ (Full documentary)Best Documentaries About Plastic Pollution | Green Newton11 Plastic Documentary Films to Watch - TRVSTPlastic Wars | FRONTLINE | PBS | Official Site | Documentary ...Films and Documentaries | Break Free From Plastic](https://www.youtube.com/watch?v=1RDc2opwg0I)
-  > [DESCRIPTION FALLBACK] It’s an environmental crisis that’s been in the making for nearly 70 years. Plastic pollution is now considered one of the largest environmental threats facing humans and animal...
+- [Plastic pollution: is it really that bad?](https://www.youtube.com/watch?v=qiXRTA0tYoI)
+  > [DESCRIPTION FALLBACK] Nine in ten Europeans worry about plastic's impact on the environment. But plastic is not the worst offender when compared to ......
+
+- [The surprising solution to ocean plastic | David Katz](https://www.youtube.com/watch?v=mT4Qbp89nIQ)
+  > [DESCRIPTION FALLBACK] Can we solve the problem of ocean plastic pollution and end extreme poverty at the same time? That's the ambitious goal of The ......
 
 ## Sources (RSS)
 - [This Week in Waste: Top Stories Aug 24 – Aug 27](https://www.waste360.com/industry-insights/this-week-in-waste-top-stories-aug-24-aug-27)
