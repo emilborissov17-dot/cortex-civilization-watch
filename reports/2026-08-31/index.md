@@ -2,39 +2,39 @@
 
 > An autonomous system monitoring 25 axes of civilization toward dignity, sustainability and long-term survival of intelligent life.
 
-**Coverage:** 25 axes · 266 sources · 53 videos · 23 axes flagged critical ([details](master_web_intel.md))
+**Coverage:** 25 axes · 279 sources · 67 videos · 14 axes flagged critical ([details](master_web_intel.md))
 
-**Critical this run:** DEEP_TIME_RISKS_REVIEW, CLIMATE_GLOBAL_RISK_REVIEW, ENERGY_REVIEW, WATER_REVIEW, MATERIALS_WASTE_REVIEW, ECOSYSTEMS_BIODIVERSITY_REVIEW, CULTURE_MEDIA_REVIEW, COGNITION_LEARNING_REVIEW, GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL, HUMAN_WELL_BEING_REVIEW, SOCIAL_RELATIONS_REVIEW, INEQUALITY_POVERTY_REVIEW
+**Critical this run:** DEEP_TIME_RISKS_REVIEW, CLIMATE_GLOBAL_RISK_REVIEW, ENERGY_REVIEW, WATER_REVIEW, MATERIALS_WASTE_REVIEW, ECOSYSTEMS_BIODIVERSITY_REVIEW, HUMAN_WELL_BEING_REVIEW, CULTURE_MEDIA_REVIEW, COGNITION_LEARNING_REVIEW, SOCIAL_RELATIONS_REVIEW, ECONOMY_WORK_REVIEW, INEQUALITY_POVERTY_REVIEW
 
 ## Today's Findings
 
 | Axis | Severity | Summary |
 |------|----------|----------|
-| [ECONOMY_WORK_REVIEW](economy_work_review.md) | MEDIUM | Financial favoritism within families leads to unequal access to capital, creatin... |
-| [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | HIGH | Widespread use of AI tools in K-12 education is causing excessive cognitive offl... |
-| [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | HIGH | Mass civilian killings in the Kenscoff massacre (at least 47 deaths) due to gang... |
-| [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | HIGH | Gaza's reconstruction requires $71 billion, seven times previous rebuilds, and i... |
-| [INFRASTRUCTURE_CITIES_REVIEW](infrastructure_cities_review.md) | HIGH | Severe shortage of affordable housing units in the United States, exemplified by... |
-| [TECHNOLOGY_AI_REVIEW](technology_ai_review.md) | HIGH | Enterprise AI agents are being deployed with insufficient governance, leading to... |
-| [TECHNOLOGY_INFRA_REVIEW](technology_infra_review.md) | HIGH | Critical reliance on centralized CDN/DNS providers (e.g., Cloudflare) creates si... |
-| [COSMIC_RESOURCES_REVIEW](cosmic_resources_review.md) | HIGH | Absence of a binding, internationally recognized legal and regulatory framework ... |
-| [DEEP_TIME_RISKS_REVIEW](deep_time_risks_review.md) | CRITICAL | Uncontrolled development of highly autonomous AI systems that could self‑improve... |
-| [GENERAL_SELF_REVIEW](general_self_review.md) | HIGH | Uncoordinated deployment of virtual power plants (VPPs) without standardized gri... |
-| [GOAL_PROGRESS_REVIEW](goal_progress_review.md) | CRITICAL | Accelerating sea-level rise is increasing the frequency and severity of coastal ... |
-| [LONG_TERM_FUTURE_REVIEW](long_term_future_review.md) | HIGH | Plan A‑type international agreements are being designed in ways that can concent... |
-| [SPACE_INFRASTRUCTURE_REVIEW](space_infrastructure_review.md) | HIGH | Rapid increase in low Earth orbit satellite launches, especially Starlink conste... |
-| [COGNITION_LEARNING_REVIEW](cognition_learning_review.md) | HIGH | Students are increasingly relying on AI tools for reading and learning tasks, wh... |
-| [CULTURE_MEDIA_REVIEW](culture_media_review.md) | HIGH | Online platforms lack effective content moderation, allowing rapid spread of hat... |
-| [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | HIGH | The Haitian state failed to protect civilians from an armed gang attack in Kensc... |
-| [HUMAN_WELL_BEING_REVIEW](human_well_being_review.md) | HIGH | Salmonella outbreak in the UK causing hundreds of illnesses linked to imported e... |
-| [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | HIGH | Shooting at a Swiss rave that killed one person and injured five, indicating ina... |
-| [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | HIGH | Climate change is exposing 580 million children worldwide to at least 20 additio... |
-| [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | HIGH | Human physical presence and development (roads, cities, infrastructure) are resh... |
-| [ENERGY_REVIEW](energy_review.md) | HIGH | A massive grid modernization backlog (≈1,700 GW in Europe) is preventing rapid i... |
-| [FOOD_REVIEW](food_review.md) | MEDIUM | All 212 plant‑based meat alternatives and drinks tested in the UK contained at l... |
-| [MATERIALS_WASTE_REVIEW](materials_waste_review.md) | HIGH | Plastic and mixed packaging waste is marketed as recyclable, but the majority en... |
-| [PLANETARY_POTENTIAL_REVIEW](planetary_potential_review.md) | HIGH | Hundreds of previously undetected glacial earthquakes beneath Antarctica's Dooms... |
-| [WATER_REVIEW](water_review.md) | HIGH | Elevated nitrate concentrations in the municipal drinking water supply, posing c... |
+| [ECONOMY_WORK_REVIEW](economy_work_review.md) | HIGH | Geopolitical conflicts are causing volatile oil prices and inflation, destabiliz... |
+| [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | HIGH | The threat of student cognitive offloading to AI tools, which risks eroding crit... |
+| [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | MEDIUM | The Kenscoff Massacre exposes worsening brutality in Haiti's gang crisis, leadin... |
+| [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | HIGH | More Palestinians killed by Israeli military and settlers across occupied West B... |
+| [INFRASTRUCTURE_CITIES_REVIEW](infrastructure_cities_review.md) | LOW | States moving to rein in license plate surveillance, which may lead to reduced p... |
+| [TECHNOLOGY_AI_REVIEW](technology_ai_review.md) | MEDIUM | The emergence of secretive antiaging drugs and virtual power plants could lead t... |
+| [TECHNOLOGY_INFRA_REVIEW](technology_infra_review.md) | LOW | Insurance claims adjusters' negative perception of AI, leading to potential unde... |
+| [COSMIC_RESOURCES_REVIEW](cosmic_resources_review.md) | MEDIUM | The potential for space mining to disrupt Earth's resources and balance, especia... |
+| [DEEP_TIME_RISKS_REVIEW](deep_time_risks_review.md) | CRITICAL | Potential runaway self-improving AI leading to uncontrollable superintelligence |
+| [GENERAL_SELF_REVIEW](general_self_review.md) | LOW | OpenAI's acquisition of Cursor leading to potential loss of data and model acces... |
+| [GOAL_PROGRESS_REVIEW](goal_progress_review.md) | HIGH | Accelerating global sea level rise threatening coastal populations and ecosystem... |
+| [LONG_TERM_FUTURE_REVIEW](long_term_future_review.md) | LOW | [VIDEO] [YT] The Terrifying Possibility That No Civilization Survives - YouTube:... |
+| [SPACE_INFRASTRUCTURE_REVIEW](space_infrastructure_review.md) | MEDIUM | SpaceX's rapid increase in Starlink satellite launches poses a threat to the hea... |
+| [COGNITION_LEARNING_REVIEW](cognition_learning_review.md) | HIGH | Excessive reliance on AI-driven instructional tools in middle school classrooms ... |
+| [CULTURE_MEDIA_REVIEW](culture_media_review.md) | HIGH | Private, exclusive viewing of the fragile Bayeux tapestry by a wealthy, politica... |
+| [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | MEDIUM | Taiwan's proposed referendum on judicial caning threatens human rights protectio... |
+| [HUMAN_WELL_BEING_REVIEW](human_well_being_review.md) | HIGH | Salmonella outbreak in the UK linked to imported eggs causing hundreds of illnes... |
+| [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | HIGH | Rapid increase in social isolation and declining empathy, driven by technology‑m... |
+| [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | HIGH | An additional 20 heat‑stress days per year are affecting 580 million children wo... |
+| [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | HIGH | Human physical presence in natural areas is altering wildlife movement patterns ... |
+| [ENERGY_REVIEW](energy_review.md) | HIGH | Insufficient and outdated electricity transmission and distribution grid capacit... |
+| [FOOD_REVIEW](food_review.md) | MEDIUM | All tested plant-based meat alternatives contain naturally occurring fungal toxi... |
+| [MATERIALS_WASTE_REVIEW](materials_waste_review.md) | HIGH | Continued high production and low recycling rates of single‑use plastic packagin... |
+| [PLANETARY_POTENTIAL_REVIEW](planetary_potential_review.md) | LOW | Hundreds of previously overlooked glacial earthquakes detected beneath Antarctic... |
+| [WATER_REVIEW](water_review.md) | HIGH | Severe water shortage in the Colorado River basin leading to reduced allocations... |
 
 ---
 *Generated by CORTEX++ AGI | 2026-08-31*
