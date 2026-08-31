@@ -1,22 +1,26 @@
 # TECHNOLOGY INFRA REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Critical reliance on centralized CDN/DNS providers (e.g., Cloudflare) creates single points of failure that cause massive internet outages
+Insurance claims adjusters' negative perception of AI, leading to potential underutilization and mismanagement of AI tools in insurance industry.
 
 ## Root Cause
-Concentration of traffic routing, caching, and DNS services in a few corporate entities without sufficient mandatory redundancy or decentralized alternatives
+Historical biases and lack of transparency in AI systems can lead to negative perceptions from human users, especially those with vested interests like insurance claims adjusters.
 
 ## Proposed Actions
-- **Mandate multi‑provider redundancy for any service that routes >5% of global web traffic** — Average outage duration for affected services drops below 5 minutes per incident
-- **Fund and accelerate open‑source decentralized content delivery networks (e.g., IPFS, NDN) for public services and popular platforms** — Share of global web traffic served by decentralized nodes reaches 20% within 3 years
-- **Create an international coordination task force to audit critical internet infrastructure and publish resilience metrics** — Annual public resilience report issued, with at least 80% of critical services scoring above a defined resilience threshold
+- **Conduct AI ethics training for insurance claims adjusters to improve their understanding and acceptance of AI technologies.** — Reduce negative reviews on AI tools by at least 20% within the next year.
 
 ## Sources (YouTube)
-- [How Cloudflare Broke the Internet - Root Cause Analysis in ...YouTube Goes Down Worldwide: What Happened and What’s ConfirmedWhat caused worldwide internet outage that wiped out ...The Root Causes of Internet Outages and How Modern ISPs Are ...Online outages: Q3 2025 Internet disruption summaryWhat Caused the Massive Internet Meltdown? Discover ... - PUPUWEB](https://www.youtube.com/watch?v=1R1Du-QNjCk)
-  > [DESCRIPTION FALLBACK] Nov 19, 2025 · Career Guidance + Resume Reviews The "whole internet" did not go down but many websites became inaccessible due to a major technical outage at Cloudflare. Aug 16,...
+- [The &#39;Digital Divide&#39; and COVID-19&#39;s Impact on Internet Access | Mashable](https://www.youtube.com/watch?v=xkbZPAJF88k)
+  > [DESCRIPTION FALLBACK] Mashable's Rachel Kraus walks through the many ways the digital divide has intensified during the COVID-19 pandemic — and ......
+
+- [What is The Digital Divide? Mozilla Explains](https://www.youtube.com/watch?v=Y2hEiMOgc1g)
+  > [DESCRIPTION FALLBACK] What is the digital divide, and can we bridge it? Nearly half of the world is still offline, meaning half of the world is still unable to ......
+
+- [Could you live without the internet? | The Digital Divide](https://www.youtube.com/watch?v=KHPrpl1p8kU)
+  > [DESCRIPTION FALLBACK] Could you live without the internet? Doctors' appointments, travel directions, job applications, benefits forms, school scheduling ......
 
 ## Sources (RSS)
 - [How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)](https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html)
