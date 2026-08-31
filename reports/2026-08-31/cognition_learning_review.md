@@ -4,18 +4,25 @@
 **Severity:** HIGH
 
 ## Problem
-Students are increasingly relying on AI tools for reading and learning tasks, which risks cognitive offloading and erosion of critical thinking skills.
+Excessive reliance on AI-driven instructional tools in middle school classrooms is diminishing students' critical thinking and deep comprehension skills.
 
 ## Root Cause
-Educational systems lack clear guidelines and teacher training for responsible AI integration, prioritizing short‑term performance gains over long‑term cognitive development.
+Education systems prioritize scalable, data‑driven solutions and commercial AI products without establishing safeguards or pedagogical frameworks that preserve human cognition.
 
 ## Proposed Actions
-- **Create and mandate a national curriculum framework for AI‑augmented learning that explicitly includes critical‑thinking checkpoints and limits on AI‑generated content usage.** — By 2025, 80% of K‑12 schools adopt the framework and report a 15% increase in validated critical‑thinking assessment scores.
-- **Launch a mandatory professional‑development program for teachers on how to scaffold AI tools while preserving independent cognition.** — At least 90% of teachers complete the program within one academic year; post‑training surveys show a 30% reduction in perceived student over‑reliance on AI.
+- **Adopt a mandatory AI‑literacy curriculum that teaches students how to evaluate, critique, and augment AI outputs rather than accept them passively.** — At least 70% of participating schools report a statistically significant improvement (p < 0.05) in standardized critical‑thinking assessments within two academic years.
+- **Require AI vendors to provide transparent, explainable interfaces and usage dashboards that log student reliance on AI suggestions.** — All publicly funded K‑12 AI tools achieve 90% compliance with explainability standards within one year of regulation.
+- **Create an independent oversight board to audit AI deployments in schools and recommend adjustments based on cognitive impact studies.** — Annual public report showing a ≤10% increase in AI‑offloading metrics across audited districts.
 
 ## Sources (YouTube)
-- [How to Use AI to Learn Anything Fast - YouTube](https://www.youtube.com/watch?v=AORGsRJ6HpM)
-  > [DESCRIPTION FALLBACK] Want to learn a new skill, but it takes too much time? You are not alone! Learning things like coding, design, or a new language can be very hard. But with AI, you can learn muc...
+- [This Is How Kids Should Be Learning with AI | Priya Lakhani | TED](https://www.youtube.com/watch?v=YBH8rQv4aTQ)
+  > [DESCRIPTION FALLBACK] As AI races into classrooms, we risk confusing quick and easy answers with true learning, says AI education entrepreneur Priya ......
+
+- [How China Is Using Artificial Intelligence in Classrooms | WSJ](https://www.youtube.com/watch?v=JMLsHI8aV0g)
+  > [DESCRIPTION FALLBACK] A growing number of classrooms in China are equipped with artificial-intelligence cameras and brain-wave trackers. While many ......
+
+- [What is the Future of Education? Freakonomics’ Steve Levitt &amp; Google Chief Technologist Ben Gomes](https://www.youtube.com/watch?v=U-7THjkQdbg)
+  > [DESCRIPTION FALLBACK] What will the future of education look like in a world increasingly shaped by AI? Join Steve Levitt, Freakonomics co-author and ......
 
 ## Sources (RSS)
 - [AI Can Help One of K-12’s Biggest Challenges: Middle School Reading](https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading)
