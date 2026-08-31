@@ -4,14 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Widespread use of AI tools in K-12 education is causing excessive cognitive offloading, eroding students' critical thinking and deep comprehension skills.
+The threat of student cognitive offloading to AI tools, which risks eroding critical thinking skills, combined with unequal access to literacy-bridging technology in underfunded educational systems.
 
 ## Root Cause
-Rapid deployment of AI tutoring and reading assistants without established pedagogical safeguards and teacher training, driven by pressure to improve test scores and efficiency.
+The rapid deployment of commercial AI technologies in education without updated pedagogical frameworks designed to preserve active student cognition, coupled with systemic socioeconomic policies that perpetuate generational poverty.
 
 ## Proposed Actions
-- **Create and mandate an AI‑Literacy curriculum that teaches students how to use AI as a collaborative tool while explicitly training metacognitive strategies to prevent over‑reliance.** — By the end of the first academic year, 80% of participating schools report a ≥10% increase in standardized critical‑thinking assessment scores compared to baseline.
-- **Implement district‑wide guidelines requiring AI tools to include transparent “cognitive load” indicators and to be approved only after independent pedagogical review.** — All new AI edtech contracts in the district contain cognitive‑load metrics within 12 months; compliance audits show 95% adherence.
+- **Formulate and distribute federal edtech procurement guidelines that require AI tools to actively promote critical thinking and prevent passive cognitive offloading.** — Adoption of updated AI evaluation criteria by at least 60% of public school districts.
+- **Deploy targeted AI-driven individualized reading programs in underfunded middle schools to bridge the literacy gap and mitigate generational educational inequalities.** — Measurable increase in reading proficiency scores by 15% in pilot school districts within 18 months.
+
+## Sources (YouTube)
+- [Why is it so hard to escape poverty? - Ann-Helén Bay](https://www.youtube.com/watch?v=D9N7QaIOkG8)
+  > [DESCRIPTION FALLBACK] Explore the paradox of welfare programs, and learn how they inadvertently reinforce generational poverty, and what we can do to ......
+
+- [Is inequality inevitable?](https://www.youtube.com/watch?v=rEnf_CFoyv0)
+  > [DESCRIPTION FALLBACK] Explore how economic inequality can be measured and how it is impacted by different governmental policy choices. -- Income ......
+
+- [Harvard Professor: Tech Billionaires Are Lying To Us About AI! (Here Is The Truth) - Steven Pinker](https://www.youtube.com/watch?v=eWC47agaKpk)
+  > [DESCRIPTION FALLBACK] Professor Steven Pinker, one of the world's most influential cognitive psychologists and public intellectuals, joins the podcast for a ......
 
 ## Sources (RSS)
 - [AI Can Help One of K-12’s Biggest Challenges: Middle School Reading](https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading)
