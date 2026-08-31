@@ -1,29 +1,33 @@
 # ECONOMY WORK REVIEW
 **Date:** 2026-08-31
 
-**Severity:** MEDIUM
+**Severity:** HIGH
 
 ## Problem
-Financial favoritism within families leads to unequal access to capital, creating long‑term resentment and contributing to broader wealth inequality.
+Geopolitical conflicts are causing volatile oil prices and inflation, destabilizing economies and reducing access to essential goods.
 
 ## Root Cause
-Cultural norms and lack of transparent family financial planning allow parents to allocate resources subjectively, reinforced by weak legal guidance on fair inheritance and gifting.
+Competition for control of fossil fuel resources combined with fragmented trade policies and lack of coordinated global governance on energy markets.
 
 ## Proposed Actions
-- **Launch a publicly funded financial‑literacy program that includes modules on fair intra‑family resource allocation and the social costs of favoritism.** — At least 60 % of participants report using a transparent budgeting or trust mechanism within 12 months; decrease in reported family‑related financial disputes by 20 % in national surveys.
-- **Introduce legislation requiring disclosure of intra‑family loans and gifts above a threshold, coupled with progressive inheritance tax brackets to discourage opaque favoritism.** — Compliance rate ≥ 90 % within 2 years; measurable reduction in wealth concentration among top‑10 % of families by 5 % over 5 years.
+- **Create a multilateral oil‑price stabilization fund and a rapid diplomatic mediation platform for trade and energy disputes.** — Oil price volatility index (e.g., standard deviation of Brent price) reduced by 30% within 2 years; number of active diplomatic mediations ≥ 5 per year.
+- **Accelerate public and private investment in renewable energy infrastructure targeting a 25% increase in renewable share of electricity generation globally.** — Renewable electricity share reaches 25% of global generation within 5 years.
+- **Implement international caps on price increases for essential medicines (e.g., cancer drugs) to limit inflationary pressure on health expenditures.** — Average annual price growth for listed essential medicines ≤ 5% within 3 years.
 
 ## Sources (YouTube)
-- [How the Modern Middle East's Economy Actually Works ... - YouTubeImpact of Middle East conflict on global economy | Economic ...15 World Economy YouTubers You Must Follow in 2026Economy Middle East NewsMiddle East Economy Watch - May 2026 - PwCUnderstanding world economics | TED PlaylistVideo: Alternative Futures for the Middle East - Asia Society](https://www.youtube.com/watch?v=FTnsOj_cv4c)
-  > [DESCRIPTION FALLBACK] Apr 20, 2026 · From $4 trillion sovereign wealth funds quietly buying up global assets, to the kafala labor system powering Gulf skylines, to Iran's shadow oil fleet, to Dubai t...
+- [MIT Study Reveals Why Africa Is Still Poor](https://www.youtube.com/watch?v=1k8TXQWVsoI)
+  > [DESCRIPTION FALLBACK] Africa is the poorest continent in the world. There are, as always, a lot of factors to consider as to why that is the case, but recently ......
 
-- [Impact of Middle East conflict on global economy | Economic ...15 World Economy YouTubers You Must Follow in 2026Economy Middle East NewsMiddle East Economy Watch - May 2026 - PwCUnderstanding world economics | TED PlaylistVideo: Alternative Futures for the Middle East - Asia Society](https://www.youtube.com/watch?v=SAm6l357cyQ)
-  > [DESCRIPTION FALLBACK] Mar 10, 2026 · The impact of Middle East conflict on global economy is driving volatility in energy markets, supply chains, and financial markets as oil and gas prices, fertiliz...
+- [This is causing a complete &#39;reshuffling’ of the global economy, expert warns](https://www.youtube.com/watch?v=Dy5XfZV-j3E)
+  > [DESCRIPTION FALLBACK] CIV co-founder and CEO Patrick Maloney provides analysis of President Donald Trump's tariff agenda and its impact on the ......
+
+- [US Resumes Strikes On Iran, Warsh Fans Rate Hike Bets | The Asia Trade 8/31/2026](https://www.youtube.com/watch?v=lj0BiBmC1II)
+  > [DESCRIPTION FALLBACK] "Bloomberg: The Asia Trade" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg ......
 
 ## Sources (RSS)
 - ['My parents won't lend me £10k but helped my brother': When families play financial favourites](https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss)
+- [How the US-Canada trade war is being felt on both sides of the border](https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss)
 - [Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil](https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss)
-- [Fed has 'work to do' if price rises don't ease for Americans, Warsh says](https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss)
 
 
 ---
