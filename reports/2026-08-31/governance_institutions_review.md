@@ -1,33 +1,31 @@
 # GOVERNANCE INSTITUTIONS REVIEW
 **Date:** 2026-08-31
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Mass civilian killings in the Kenscoff massacre (at least 47 deaths) due to gang violence in Haiti
+The Kenscoff Massacre exposes worsening brutality in Haiti's gang crisis, leading to calls for international support.
 
 ## Root Cause
-State collapse and weak governance in Haiti that cannot enforce security, combined with poverty and lack of effective international intervention
+Lack of effective governance and intervention by the Haitian government and international community
 
 ## Proposed Actions
-- **Authorize a rapid-deployment UN peacekeeping mission with a robust mandate to protect civilians in high‑risk communes like Kenscoff** — Decrease civilian casualty count in gang‑related incidents by 30% within 12 months
-- **Launch a joint Haitian‑International security assistance program to train, equip, and retain a professional police force** — Train 5,000 Haitian police officers and equip 200 patrol units within 24 months
-- **Fund community‑based development and conflict‑resolution projects in vulnerable neighborhoods to address underlying poverty and gang recruitment** — Establish 50 community safe‑zones with livelihood programs, reaching 20,000 residents within 36 months
+- **Increase transparency in UN Security Council meetings regarding Haiti's situation.** — Reduce number of civilian casualties by 20% within one year
 
 ## Sources (YouTube)
-- [Geopolitics 2026: Key Risks for Leaders | Alec Russell ...Global Geopolitical Outlook 2026 - YouTubeGeopolitical Risks Outlook for 2026 | World ... - YouTubeGEOPOLITICS 2026: Who Wins the Global Conflict? [Full AI ...Global Geopolitics 2026 in 2 Minutes | Conflicts, Economy ...All Geopolitics Is Local | World Economic Forum Annual ...UN Chief on 2026 priorities | United Nations - YouTube](https://www.youtube.com/watch?v=Yb9poZelKcQ)
-  > [DESCRIPTION FALLBACK] Jan 30, 2026 · Geopolitical risks in 2026 are increasingly shaping how business and public leaders make decisions—from risk management and strategy to regulation, security, and ...
+- [The Biggest Global Risks for 2026 | TED Explains the World with Ian Bremmer](https://www.youtube.com/watch?v=dqVfnC_muaI)
+  > [DESCRIPTION FALLBACK] 2026 is a tipping point year, says Ian Bremmer, founder of Eurasia Group. Highlighting the top risks that await the world, he breaks ......
 
-- [Global Geopolitical Outlook 2026 - YouTubeGeopolitical Risks Outlook for 2026 | World ... - YouTubeGEOPOLITICS 2026: Who Wins the Global Conflict? [Full AI ...Global Geopolitics 2026 in 2 Minutes | Conflicts, Economy ...All Geopolitics Is Local | World Economic Forum Annual ...UN Chief on 2026 priorities | United Nations - YouTube](https://www.youtube.com/watch?v=Gkw2vbJCFkQ)
-  > [DESCRIPTION FALLBACK] Oct 25, 2025 · Emerging geopolitics expert and co-author of Danger Zone, Professor Hal Brands, takes audiences on a global tour of today’s geopolitical hotspots.At the inte... A...
+- [The biggest geopolitical risks of 2026 revealed | Top Risks 2026 | GZERO Live](https://www.youtube.com/watch?v=AM0f5C2fkww)
+  > [DESCRIPTION FALLBACK] With the global order under increasing strain, 2026 is shaping up to be a tipping point for geopolitics. From political upheaval in ......
 
-- [Geopolitical Risks Outlook for 2026 | World ... - YouTubeGEOPOLITICS 2026: Who Wins the Global Conflict? [Full AI ...Global Geopolitics 2026 in 2 Minutes | Conflicts, Economy ...All Geopolitics Is Local | World Economic Forum Annual ...UN Chief on 2026 priorities | United Nations - YouTube](https://www.youtube.com/watch?v=dHA1o6HNuMo)
-  > [DESCRIPTION FALLBACK] As geopolitical tensions intensify, security considerations are reshaping economic policy, production and fiscal priorities worldwide. This session explores ... Mar 14, 2026 · W...
+- [The Top 10 Geopolitical Developments for 2026](https://www.youtube.com/watch?v=KqZqusPFf78)
+  > [DESCRIPTION FALLBACK] Geopolitics #GeostrategicOutlook 2026 Geostrategic Outlook: Key Developments Shaping Global Business Welcome to our latest ......
 
 ## Sources (RSS)
+- [General Assembly, 108th & 109th Meetings (AM & PM) 31 August 2026](https://press.un.org/en/blog/ga12775)
 - [Kenscoff Massacre Exposes Worsening Brutality of Haiti’s Gang Crisis, Security Council Hears, as Speakers Urge Rapid International Support](https://press.un.org/en/2026/sc16444.doc.htm)
 - [Deeply Saddened by Passing of His Majesty King Harald V, Secretary-General Applauds Norwegian Monarch’s Commitment to Children’s Welfare, Environmental Issues](https://press.un.org/en/2026/sgsm23255.doc.htm)
-- [Daily Press Briefing by the Office of the Spokesperson for the Secretary-General](https://press.un.org/en/2026/db260828.doc.htm)
 
 
 ---
