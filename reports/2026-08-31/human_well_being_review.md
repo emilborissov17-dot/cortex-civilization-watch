@@ -4,25 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Salmonella outbreak in the UK causing hundreds of illnesses linked to imported eggs
+Salmonella outbreak in the UK linked to imported eggs causing hundreds of illnesses
 
 ## Root Cause
-Weak regulatory oversight and traceability of imported egg supply chains, leading to insufficient testing and containment
+Insufficient safety controls and traceability for imported eggs, allowing contaminated products to enter the domestic food supply
 
 ## Proposed Actions
-- **Implement mandatory rapid testing and certification for all imported egg batches before market entry** — Reduce salmonella cases linked to imported eggs by at least 80% within 12 months
-- **Establish a centralized digital traceback system for egg products to enable real‑time recall** — Achieve 95% traceability of egg batches within 6 months of implementation
-- **Launch a public awareness campaign on safe egg handling and consumption practices** — Increase public knowledge scores on egg safety by 30% in national surveys within 12 months
+- **Implement mandatory rapid testing and certification for all imported egg batches, and establish a real‑time traceability system that can block distribution of non‑compliant shipments** — Reduce confirmed salmonella cases from imported eggs to fewer than 50 within six months
+- **Increase penalties for suppliers that fail to meet EU/UK food safety standards and provide financial support for domestic egg producers to meet demand** — Achieve 100% compliance among top 10 egg importers within one year
 
 ## Sources (YouTube)
-- [Go Against The Age of Pathological Conformity](https://www.youtube.com/watch?v=CpZrnhSkOis)
-  > [DESCRIPTION FALLBACK] Frank Miller is regarded as one of the most influential and awarded creators. He began his career in comics in the late 1970s, first gaining notoriety as the artist, and later w...
+- [Global Wealth Inequality  -  What you never knew you never knew (See description for 2017 updates)](https://www.youtube.com/watch?v=uWSxzjyMNpU)
+  > [DESCRIPTION FALLBACK] NOTE: Firstly, we know about and apologise for the incorrect map in this version of the video, there is an update version in the ......
 
-- [The Mantra to Stay Sober #alcohol #12stepprogram](https://www.youtube.com/watch?v=oHD6WaZq_9U)
-  > [DESCRIPTION FALLBACK] Tim Ferriss is one of Fast Company’s “Most Innovative Business People” and an early-stage tech investor/advisor in Uber, Facebook, Twitter, Shopify, Duolingo, Alibaba, and 50+ o...
+- [Understanding and solving poverty and inequality (free online course)](https://www.youtube.com/watch?v=Y8Bbz_Y7Rp8)
+  > [DESCRIPTION FALLBACK] Find out more: york.ac.uk/study/moocs Social policy is concerned with promoting the welfare of citizens. Traditionally, the subject ......
 
-- [The Book I Keep Coming Back to Again and Again](https://www.youtube.com/watch?v=OHj8f3D3Kh8)
-  > [DESCRIPTION FALLBACK] Tim Ferriss is one of Fast Company’s “Most Innovative Business People” and an early-stage tech investor/advisor in Uber, Facebook, Twitter, Shopify, Duolingo, Alibaba, and 50+ o...
+- [The End of Poverty by Jeffrey Sachs In-Depth ANALYSIS 📚🌟💡](https://www.youtube.com/watch?v=k0_KgGYL3ww)
+  > [DESCRIPTION FALLBACK] Affiliate Purchase Link https://amzn.to/47k7gAj Experience a unique two-voice AI conversation powered by Google's NotebookLM ......
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
