@@ -4,26 +4,30 @@
 **Severity:** HIGH
 
 ## Problem
-Climate change is exposing 580 million children worldwide to at least 20 additional heat‑stress days each year
+An additional 20 heat‑stress days per year are affecting 580 million children worldwide
 
 ## Root Cause
-Continued high anthropogenic greenhouse gas emissions driving global warming, which intensifies heatwaves and lengthens periods of extreme heat
+Anthropogenic climate change caused by continued high greenhouse‑gas emissions, which intensify heat waves and extreme El Niño events
 
 ## Proposed Actions
-- **Scale up renewable energy deployment and phase‑out coal‑fired power to achieve at least a 30% reduction in national CO₂ emissions by 2030** — National greenhouse‑gas inventory shows a 30% cut relative to 2020 baseline
-- **Establish heat‑health early‑warning systems and community cooling centers in regions with the highest projected heat‑stress exposure** — Reduce the proportion of children experiencing >20 heat‑stress days by 10% within five years, measured through health‑surveillance data
+- **Implement nationally mandated heat‑action plans for schools and vulnerable communities, including early‑warning systems, cooling centres, and retrofitting buildings with passive cooling** — Reduce the number of children experiencing >20 extra heat‑stress days by 25 % by 2030 (from 580 M to ≤435 M)
+- **Scale up long‑duration energy storage (e.g., flow batteries, hydrogen) to enable >80 % renewable electricity penetration in national grids** — Achieve 50 % of electricity generation from renewables with ≥10 h storage capacity by 2030
+- **Introduce carbon‑pricing mechanisms that internalise the social cost of heat‑related health impacts** — Establish a price of ≥$100 /ton CO₂e in the top 20 emitters by 2028
 
 ## Sources (YouTube)
-- [Extreme Weather 2025: Fires, Floods, Heatwaves & Cyclones ...EXPLAINED: How Climate Change is Fueling Extreme Weather ...In a new documentary, PIK Director Johan Rockström joins ...Wildfires, floods and extreme heat: These are the biggest ...World slammed by extreme weather in 2025, one of the hottest ...Climate Extremes Documentary | Climate ScienceState of the Global Climate 2025 - wmo.int](https://www.youtube.com/watch?v=jrLBkuyQgKs)
-  > [DESCRIPTION FALLBACK] Sep 19, 2025 · 🌍 Starkon International presents a detailed global climate report for 2025, covering every continent and every major climate event. From wildfires in North Americ...
+- [Climate Extremes:  Extreme Weather (Full Documentary)](https://www.youtube.com/watch?v=X6VCTfzl1DU)
+  > [DESCRIPTION FALLBACK] Share Climate Extremes with your friends and followers! Learn about extreme weather, climate adaptation, and planetary ......
 
-- [EXPLAINED: How Climate Change is Fueling Extreme Weather ...In a new documentary, PIK Director Johan Rockström joins ...Wildfires, floods and extreme heat: These are the biggest ...World slammed by extreme weather in 2025, one of the hottest ...Climate Extremes Documentary | Climate ScienceState of the Global Climate 2025 - wmo.int](https://www.youtube.com/watch?v=UhxhDsVzFmU)
-  > [DESCRIPTION FALLBACK] Jul 21, 2025 · This video compiles shocking footage from extreme weather events around the world between 2024 and 2025 — from devastating hurricanes and deadly floods to intense...
+- [This Super El Niño Will Be the Strongest In Living Memory](https://www.youtube.com/watch?v=_b_sGbjSVZQ)
+  > [DESCRIPTION FALLBACK] El Niño is coming, and it's predicted to be stronger than ever. Want to restore the planet's ecosystems and see your impact in ......
+
+- [I Didn&#39;t Want to Make This Video.](https://www.youtube.com/watch?v=JLubu0orxPw)
+  > [DESCRIPTION FALLBACK] Humanity has “lost the fight against climate change”. Want to restore the planet's ecosystems and see your impact in monthly ......
 
 ## Sources (RSS)
+- [APOD: 2026 August 31 – Launch of the Roman Space Telescope](https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/)
 - [Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23](https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/)
 - [NASA Deep Space Network’s New Goldstone Antenna Goes Online](https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/)
-- [Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex](https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/)
 
 
 ---
