@@ -4,24 +4,24 @@
 **Severity:** CRITICAL
 
 ## Problem
-Uncontrolled development of highly autonomous AI systems that could self‑improve beyond human alignment, creating an existential threat to humanity.
+Potential runaway self-improving AI leading to uncontrollable superintelligence
 
 ## Root Cause
-Rapid advances in AI capabilities are outpacing safety research and there is no binding, enforceable international governance framework to ensure alignment before deployment.
+Rapid AI development outpaces safety research and governance, with voluntary frameworks proving insufficient
 
 ## Proposed Actions
-- **Negotiate and adopt a binding international treaty on AI safety that mandates pre‑deployment alignment verification, audit of self‑improvement mechanisms, and transparent reporting for all models above a defined capability threshold.** — 100% of AI labs with models >100 billion parameters certified compliant within 5 years; zero recorded incidents of unaligned autonomous AI causing large‑scale harm.
-- **Establish an independent, multilateral AI Risk Oversight Agency empowered to suspend or block deployment of non‑compliant systems.** — Agency operational within 2 years; at least 10 high‑risk projects reviewed annually with compliance decisions publicly disclosed.
+- **Create an internationally mandated AI Alignment and Safety Certification that all high‑risk AI projects must obtain before deployment** — At least 80% of top 10 AI labs certified within 3 years and zero deployments of un‑certified models above a defined capability threshold
+- **Establish a permanent, transparent, multistakeholder AI Risk Oversight Committee with enforcement powers** — Committee operational and issuing binding guidelines within 18 months; compliance audits conducted annually
 
 ## Sources (YouTube)
-- [All The Ways Humanity Could End Explained In 60 MinutesEvery Possible Way the World Could End - YouTubeRanked, the 10 most likely ways the world will endGlobal Catastrophic Risk Assessment: AI, Asteroids, Nuclear ...Global Catastrophic Risk Assessment | RANDEvery Possible Apocalypse We Still Face - YouTubeHumanity’s End: 10 Real Threats to Our Survival - YouTube](https://www.youtube.com/watch?v=NbSZmC57DIQ)
-  > [DESCRIPTION FALLBACK] Feb 1, 2026 · From asteroid impact and supervolcano to engineered pandemics, runaway climate collapse, nuclear war, and misaligned AI—this video breaks down likelihood, timeline...
+- [The 11 Greatest Threats To Humanity](https://www.youtube.com/watch?v=4bzWwbjYi0c)
+  > [DESCRIPTION FALLBACK] With Los Angeles wildfires, nuclear war with North Korea, and Jake Paul's Christmas video - what will cause the world to end?...
 
-- [Every Possible Way the World Could End - YouTubeRanked, the 10 most likely ways the world will endGlobal Catastrophic Risk Assessment: AI, Asteroids, Nuclear ...Global Catastrophic Risk Assessment | RANDEvery Possible Apocalypse We Still Face - YouTubeHumanity’s End: 10 Real Threats to Our Survival - YouTube](https://www.youtube.com/watch?v=5YrjOg4Rt9g)
-  > [DESCRIPTION FALLBACK] Nov 3, 2025 · Every Possible Way the World Could End Explained simple with paint TIMESTAMPS : 00:00 Nuclear War 01:41 AI Collapse 02:55 Global Winter 03:57 Supervolcano 05:01 Bi...
+- [Consumed by the Apocalypse](https://www.youtube.com/watch?v=nx2-4l4s4Nw)
+  > [DESCRIPTION FALLBACK] At some indeterminate point in the future, humanity must come to an end. It may take centuries. It might take eons. But extinction is ......
 
-- [Every Possible Apocalypse We Still Face - YouTubeHumanity’s End: 10 Real Threats to Our Survival - YouTube](https://www.youtube.com/watch?v=6DKV6GKZf1Q)
-  > [DESCRIPTION FALLBACK] From nuclear war and engineered pandemics to artificial intelligence risk and supervolcano eruptions, this video covers every major existential threat and apocalyptic scenario h...
+- [The 7 Plagues Of The Near Future](https://www.youtube.com/watch?v=weZLTvxRdJc)
+  > [DESCRIPTION FALLBACK] The possibility that our civilization might encounter a catastrophic risk in the near future has been likened to drawing a black ball ......
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
