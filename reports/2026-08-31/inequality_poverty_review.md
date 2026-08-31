@@ -4,18 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Gaza's reconstruction requires $71 billion, seven times previous rebuilds, and is projected to fail without effective Palestinian leadership, deepening poverty and inequality.
+More Palestinians killed by Israeli military and settlers across occupied West Bank in last 3 years since Gaza hostilities than previous 17 combined
 
 ## Root Cause
-Prolonged armed conflict and blockade have destroyed infrastructure, while the absence of cohesive local governance and coordinated international funding mechanisms prevents efficient rebuilding.
+Lack of effective leadership, political instability, and ongoing conflicts resulting in persistent violence and human rights abuses against Palestinian civilians
 
 ## Proposed Actions
-- **Create a joint Gaza Reconstruction Governance Council to plan, monitor, and allocate reconstruction funds.** — Achieve 80% of predefined reconstruction milestones within budget and timeline, and reduce the poverty rate in Gaza by 30% within five years.
-- **Implement a donor transparency platform that publicly tracks fund disbursement, project outcomes, and community feedback.** — All major donors report quarterly on fund usage; increase in donor confidence measured by a 20% rise in pledged contributions over three years.
+- **Promote accountability for violations of international law by Israeli military and settlers, including through UN mechanisms.** — Reduction in the number of Palestinian deaths reported annually by Oxfam.
+- **Support Palestinian-led initiatives for peace and development, such as education and economic empowerment programs.** — Increase in Palestinian GDP growth rate compared to previous years.
 
 ## Sources (YouTube)
-- [Poverty & Inequality: The Economic Divide Explained - YouTubeStanford Center on Poverty and InequalityVideo Archive - Stanford Center on Poverty and InequalityThe World InequalityReport 2022 presents the most up-to-date ...Disparity Film – Real AidThe 7 Best Documentaries About Poverty - DocumentaryTube](https://www.youtube.com/watch?v=2a9Jr3B95No)
-  > [DESCRIPTION FALLBACK] Mar 2, 2025 · How does inequality shape economies? In this video, Geoff Riley, Co-Founder of Tutor2u, breaks down the key economic concepts behind poverty and inequality—two of ...
+- [Poverty | SMU Research](https://www.youtube.com/watch?v=O6c_-pvf-uA)
+  > [DESCRIPTION FALLBACK] Is (the lack of) money the reason for poverty? Or is it one of the underlying symptoms? How else can we think about poverty, other ......
+
+- [Why is it so hard to escape poverty? - Ann-Helén Bay](https://www.youtube.com/watch?v=D9N7QaIOkG8)
+  > [DESCRIPTION FALLBACK] Explore the paradox of welfare programs, and learn how they inadvertently reinforce generational poverty, and what we can do to ......
+
+- [MIT Study Reveals Why Africa Is Still Poor](https://www.youtube.com/watch?v=1k8TXQWVsoI)
+  > [DESCRIPTION FALLBACK] Africa is the poorest continent in the world. There are, as always, a lot of factors to consider as to why that is the case, but recently ......
 
 ## Sources (RSS)
 - [Gaza’s $71bn reconstruction will cost seven times all previous rebuilds combined, and will fail without Palestinian leadership – Oxfam warns](https://www.oxfam.org/en/press-releases/gazas-71bn-reconstruction-will-cost-seven-times-all-previous-rebuilds-combined-and)
