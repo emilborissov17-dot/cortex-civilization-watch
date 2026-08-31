@@ -4,22 +4,23 @@
 **Severity:** HIGH
 
 ## Problem
-Human physical presence and development (roads, cities, infrastructure) are reshaping wildlife movement and distribution, contributing to rapid biodiversity loss.
+Human physical presence in natural areas is altering wildlife movement patterns as strongly as roads, cities, and other infrastructure.
 
 ## Root Cause
-Uncoordinated land‑use expansion and lack of global wildlife health governance allow habitat fragmentation and disturbance to outpace conservation measures.
+Unregulated or insufficiently managed human access and activities in wild habitats, driven by expanding recreation, tourism, and settlement without adequate conservation policies.
 
 ## Proposed Actions
-- **Establish a Global Wildlife Health Authority to coordinate monitoring, data sharing, and rapid response to wildlife health threats across borders.** — By 2030, 90% of countries report standardized wildlife health metrics to the Authority and integrate them into national biodiversity strategies.
-- **Implement and expand ecological corridors that connect existing protected areas, limiting the isolating effect of roads and urban sprawl.** — Increase connected habitat coverage from current ~15% to at least 30% of terrestrial ecoregions by 2040.
-- **Introduce mandatory environmental impact assessments (EIAs) that quantify wildlife movement disruption before approving new infrastructure projects.** — Reduce the number of infrastructure projects approved without mitigation measures by 80% within 5 years.
+- **Establish scientifically‑determined visitor capacity limits and mandatory buffer zones in key biodiversity hotspots, enforced by park authorities and monitored by a Global Wildlife Health Authority.** — Reduce the deviation of tracked animal movement patterns from baseline (pre‑human‑presence) by at least 30% within 5 years in designated sites.
 
 ## Sources (YouTube)
-- [Biodiversity Loss Explained | Causes, Consequences ... - YouTubeBiodiversity Loss Explained: The 5 BIGGEST Threats (HIPPO-C)Science Trek | Habitat: Habitat Loss | PBSExtinction: The Facts | Biodiversity Loss | Episode 1 | PBSHabitat Loss & Destruction | World Animal ProtectionBiodiversity is collapsing worldwide. Here's why. | Watch - MSNBiodiversity Loss: Causes, Impacts, and Conservation Efforts](https://www.youtube.com/watch?v=zx96g_bvw0w)
-  > [DESCRIPTION FALLBACK] Mar 6, 2026 · We explain: • What biodiversity means and why it is important • The different levels of biodiversity: genetic, species, and ecosystem diversity • The main causes o...
+- [The destruction of the Amazon, explained](https://www.youtube.com/watch?v=SAZAKPUQMw0)
+  > [DESCRIPTION FALLBACK] The 2019 fires were just the tip of the iceberg. This is Part 1 of Vox Atlas: The Amazon, a three-part series about the world's largest ......
 
-- [Biodiversity Loss Explained: The 5 BIGGEST Threats (HIPPO-C)Science Trek | Habitat: Habitat Loss | PBSExtinction: The Facts | Biodiversity Loss | Episode 1 | PBSHabitat Loss & Destruction | World Animal ProtectionBiodiversity is collapsing worldwide. Here's why. | Watch - MSNBiodiversity Loss: Causes, Impacts, and Conservation Efforts](https://www.youtube.com/watch?v=GHpTsL19HpU)
-  > [DESCRIPTION FALLBACK] Oct 29, 2025 · This video is the ultimate guide to the "Factors Affecting Biodiversity," designed for 8th-grade science students and anyone curious about the health of our plane...
+- [Untangled: Biodiversity loss - why should you care?](https://www.youtube.com/watch?v=KM0EZP5ijbA)
+  > [DESCRIPTION FALLBACK] Everything on our planet - including us - is interconnected and interdependent, like a delicate set of bricks or Jenga tower....
+
+- [Why David Attenborough is worried about biodiversity loss](https://www.youtube.com/watch?v=q8GTI5xRFGw)
+  > [DESCRIPTION FALLBACK] David Attenborough is worried. Why? Because we're destroying animal and plant life across the planet. The leading cause of this ......
 
 ## Sources (RSS)
 - [Global](https://iucn.org/our-work/region/global)
