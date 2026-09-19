@@ -4,25 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Rapid decline of wasp populations in Britain during summer, leading to reduced pollination services
+Significant decline of pollinator insects (e.g., wasps) and mismatched plant flowering traits reducing effective pollination for crops
 
 ## Root Cause
-Unusual combination of temperature swings, heatwaves, and food shortages caused by climate change reduces wasp survival and reproductive success
+Climate change–induced temperature swings, heatwaves, and reduced food availability for insects, combined with rapid plant evolutionary responses that fail to attract the dwindling pollinator populations
 
 ## Proposed Actions
-- **Establish wasp-friendly conservation corridors with nesting sites and native flowering plants that bloom throughout the summer** — Increase wasp abundance by 25% in pilot regions within 3 years, measured by standardized transect surveys
-- **Implement a national monitoring program linking weather data to wasp population dynamics to issue early‑warning alerts for extreme heat events** — Produce quarterly risk reports and trigger habitat‑management interventions within 2 weeks of a heatwave warning
-- **Reduce pesticide applications in key agricultural zones during the wasp active season** — Cut pesticide usage by 15% in target zones within 5 years, verified through pesticide sales and residue monitoring
+- **Create and fund national pollinator habitat corridors in intensive farming regions, including native wildflower strips and nesting sites** — Increase regional pollinator abundance indices by at least 25% within 5 years and improve crop yield stability for pollinator‑dependent crops by 10% over the same period
+- **Accelerate breeding programs for crop varieties with phenologies synchronized to projected pollinator activity windows under warming scenarios** — Release at least three climate‑resilient, pollinator‑compatible crop cultivars within 7 years and achieve ≥80% adoption in target regions
 
 ## Sources (YouTube)
-- [The Future of Food: Can Community Farms Solve Global Hunger?](https://www.youtube.com/watch?v=8awsHPEyP7A)
-  > [DESCRIPTION FALLBACK] This video explores the pressing issue of global food insecurity and investigates whether Community Supported Agriculture (CSA) ......
-
 - [A world going hungry? How conflict and climate change disrupt global food supply | Business Beyond](https://www.youtube.com/watch?v=5YcvKvxWaCE)
   > [DESCRIPTION FALLBACK] The battle against hunger is quite literally, an existential one. But there was a time when winning that battle seemed within reach ......
 
-- [What’s the Best Way to Feed an Entire Continent?︱Ibrahim Maigari Ahmadu](https://www.youtube.com/watch?v=JXBsd7u2L9k)
-  > [DESCRIPTION FALLBACK] Africa holds 16-17% of the world's arable land, yet hunger remains a persistent challenge across the continent. What's preventing ......
+- [The Future of Food: Can Community Farms Solve Global Hunger?](https://www.youtube.com/watch?v=8awsHPEyP7A)
+  > [DESCRIPTION FALLBACK] This video explores the pressing issue of global food insecurity and investigates whether Community Supported Agriculture (CSA) ......
+
+- [Food security - A growing dilemma | DW Documentary](https://www.youtube.com/watch?v=wu7PjKawjwI)
+  > [DESCRIPTION FALLBACK] Many countries, particularly in the West, have long taken reliable food supplies for granted. But climate change, conflict and ......
 
 ## Sources (RSS)
 - [NASA-backed scientists turn plastic waste into edible cookies](https://www.sciencedaily.com/releases/2026/09/260912220033.htm)
