@@ -4,25 +4,23 @@
 **Severity:** HIGH
 
 ## Problem
-Re‑arrest of human rights lawyers Imaan Mazari‑Hazir and Hadi Ali Chattha in Pakistan hours after the Supreme Court granted them bail
+Re-arrest of human rights lawyers in Pakistan is a violation of their right to bail and freedom.
 
 ## Root Cause
-Politicised law‑enforcement and weak enforcement of judicial decisions, reflecting insufficient independence of the judiciary and executive interference in human‑rights work
+Lack of effective enforcement mechanisms for court decisions, corruption within the judicial system.
 
 ## Proposed Actions
-- **Launch a coordinated UN Human Rights Council resolution calling for immediate release of the two lawyers and for Pakistan to respect Supreme Court rulings** — Formal UN resolution adopted and public statement by the Pakistani government confirming release within 90 days
-- **Impose targeted travel bans and asset freezes on senior police officials directly responsible for the re‑arrest** — Sanctions enacted by at least two major jurisdictions (e.g., EU, US) within 6 months
-- **Support capacity‑building programmes for Pakistan’s judicial oversight institutions to strengthen independence and enforce bail decisions** — Establishment of a joint Pakistan‑UN judicial oversight task‑force with quarterly reports on bail compliance over 2 years
+- **Request UN Security Council intervention if government fails to release Imaan Mazari-Hazir and Hadi Ali Chattha.** — Number of countries participating in the UN Security Council meeting for this issue
 
 ## Sources (YouTube)
-- [Introducing Democracy Watch - YouTube](https://www.youtube.com/watch?v=qlcGEj31JKE)
-  > [DESCRIPTION FALLBACK] Introducing Democracy Watch, Human Rights First's new advocacy tool that tracks, maps, and exposes trends in legislation that threaten our democratic institu... Published: Febru...
+- [2025-Oct-02, JUST Meeting No. 5, 45th Parliament, 1st Session](https://www.youtube.com/watch?v=lWDUzY8D0hQ)
+  > [DESCRIPTION FALLBACK] 45th Parliament, 1st Session - Meeting No. 5 JUST - Standing Committee on Justice and Human Rights. Held 2025-Oct-02 from ......
 
-- [Corporate Accountability for Human Rights Abuses - YouTube](https://www.youtube.com/watch?v=dhNBOnrTcgE)
-  > [DESCRIPTION FALLBACK] (English subtitles available during French interventions) ☝️For too many victims of corporate abuses around the world, accountability remains a struggle. Tod... Published: June ...
+- [Defending Dignity: Safeguarding Human Rights in a Changing World | #SkollWF 2025](https://www.youtube.com/watch?v=IH1L0byLpZs)
+  > [DESCRIPTION FALLBACK] History has shown that even in the darkest moments, courageous individuals can ignite movements that reshape our world....
 
-- [Democracy and Human Rights (Lesson 1) - YouTube](https://www.youtube.com/watch?v=W5yWv1XHtF8)
-  > [DESCRIPTION FALLBACK] Democracy and Human Rights:Evaluate your position on discrimination and human rights violations.Participating in campaigns, events, projects and discussions ... Published: Augus...
+- [What are the universal human rights? - Benedetta Berti](https://www.youtube.com/watch?v=nDgIVseTkuE)
+  > [DESCRIPTION FALLBACK] View full lesson: http://ed.ted.com/lessons/what-are-the-universal-human-rights-benedetta-berti The basic idea of human rights is ......
 
 ## Sources (RSS)
 - [Global: Amid mounting threats, the UN’s next Secretary-General must be a staunch defender of international law](https://www.amnesty.org/en/latest/news/2026/09/reform-new-leadership-un-more-effective-representative/)
