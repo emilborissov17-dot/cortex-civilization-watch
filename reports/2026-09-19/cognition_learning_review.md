@@ -4,33 +4,25 @@
 **Severity:** HIGH
 
 ## Problem
-Budget cuts have forced a reset of free lunch programs, leaving many students without reliable access to meals during school days.
+Budget cuts are disrupting free lunch programs, leading to increased student hunger and negatively affecting learning outcomes.
 
 ## Root Cause
-Reduced public funding for education and nutrition assistance due to policy decisions that deprioritize school-based food security.
+Reliance on government funding for school nutrition without diversified financing; recent fiscal reductions force schools to reset or suspend free lunch eligibility.
 
 ## Proposed Actions
-- **Reallocate or protect funding to re‑establish universal free lunch (Community Eligibility Provision) in affected districts.** — Increase the percentage of students receiving free meals to pre‑cut levels (e.g., >90% of eligible students) within one academic year.
-- **Create a public‑private partnership pilot that supplies supplemental meals through local NGOs and businesses while legislation is pursued.** — Provide emergency meals to at least 80% of students experiencing food insecurity during the pilot period.
-- **Advocate for a federal policy amendment that safeguards CEP funding from future discretionary budget cuts.** — Passage of legislation or inclusion in the next budget cycle that guarantees minimum CEP funding levels.
+- **Launch a bipartisan legislative initiative to protect and increase funding for the National School Lunch Program.** — Maintain 95%+ of eligible students receiving free/reduced-price meals within the next academic year.
+- **Create public‑private partnership pilots where local businesses and food banks supply supplemental meals on days when school funding is insufficient.** — Reduce the rate of student-reported hunger incidents by 30% in pilot schools within one year.
+- **Implement a transparent reporting dashboard for school nutrition budgets and student meal participation.** — Publish quarterly data for all districts; achieve 80% compliance within two years.
 
 ## Sources (YouTube)
-- [Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU](https://www.youtube.com/watch?v=w4rG5GY9IlA)
-  > Transcriber: Brenda Meza
-Reviewer: Emilia Soso At the turn of the century, when I
-started to learn software engineering, one of my professors
-told us that in the future, every job will be a programmin...
-
 - [This Is How Kids Should Be Learning with AI | Priya Lakhani | TED](https://www.youtube.com/watch?v=YBH8rQv4aTQ)
-  > Twenty years ago,
-I founded a social enterprise. I wanted to change the world. And we were funding millions
-of meals to the underprivileged. We were providing tens of thousands
-of vaccines across part...
+  > [DESCRIPTION FALLBACK] As AI races into classrooms, we risk confusing quick and easy answers with true learning, says AI education entrepreneur Priya ......
+
+- [How AI Could Save (Not Destroy) Education | Sal Khan | TED](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+  > [DESCRIPTION FALLBACK] Sal Khan, the founder and CEO of Khan Academy, thinks artificial intelligence could spark the greatest positive transformation ......
 
 - [How China Is Using Artificial Intelligence in Classrooms | WSJ](https://www.youtube.com/watch?v=JMLsHI8aV0g)
-  > (speaking in foreign language) - [Presenter] Teachers at
-this primary school in China-- (speaking in foreign language) know exactly when someone
-isn't paying attention. (speaking in foreign language) ...
+  > [DESCRIPTION FALLBACK] A growing number of classrooms in China are equipped with artificial-intelligence cameras and brain-wave trackers. While many ......
 
 ## Sources (RSS)
 - [Schools Scramble as Budget Cuts Force Reset of Free Lunch Programs](https://edsurge.com/news/schools-scramble-as-budget-cuts-force-reset-of-free-lunch-programs)
