@@ -1,30 +1,24 @@
 # ECONOMY WORK REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
-## Problem
-Massive flight cancellations caused by a single millisecond software defect in airline operations
+## Proposed Action
+Mandate that gambling operators using AI for targeted incentives must also deploy AI‑based harm‑reduction tools (e.g., early‑warning alerts, self‑exclusion prompts) and undergo independent audits.
 
-## Root Cause
-Insufficient testing, certification, and redundancy for safety‑critical airline software, combined with lack of regulatory enforcement of robust software engineering standards
+**Measurable Goal:** Reduction of at‑risk gambler losses by 20% within 12 months, measured via operator‑reported data and independent audits.
 
-## Proposed Actions
-- **Mandate a safety‑critical software certification program for all airline operational systems, including mandatory fault‑injection testing and redundant fail‑over architectures** — Reduce flight cancellations due to software defects by at least 80% compared to the 2023 baseline within 24 months
-- **Establish an industry‑wide incident reporting and rapid‑response coordination hub for software‑related disruptions** — All reported software‑related incidents receive a formal response within 48 hours and corrective patches deployed within 7 days
+**Timeframe:** medium-term
 
 ## Sources (YouTube)
-- [How To Get Filthy Rich During a Recession in 2026](https://www.youtube.com/watch?v=sZUfTwjIakg)
-  > So, the stock market will crash. It's happened time and time again. This is the scary truth. However, it doesn't have to be a bad thing. As long as you're properly prepared, you can benefit from the c...
+- [GDP Fully Explained: Per Capita, PPP, Nominal](https://www.youtube.com/watch?v=7GZrpVlLXRA)
+  > [DESCRIPTION FALLBACK] Ever heard of GDP but not quite sure what it really means? Is it just about big economies like the U.S. and China, or is there more ......
 
-- [If Spain is the world’s best economy, why are they so unhappy?](https://www.youtube.com/watch?v=kkNaFOKMLJk)
-  > Spain is back! That is according to the Economist,
-who crowned it the rich world's best economy in 2024
-thanks to its rapid economic growth, low inflation, plummeting unemployment
-and amazing stock ma...
+- [Everything You Need to Know About China’s Ruthless Economy](https://www.youtube.com/watch?v=GK4cVoqVQsk)
+  > [DESCRIPTION FALLBACK] With everything going on between China and the U.S. right now—trade wars, tariffs, and shifting global power—we figured it was ......
 
-- [Economics Professor Answers Great Depression Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=EkZAabVTx-4)
-  > Hi, I'm Chris Clark. I'm an economics professor at Washington State University and I'm here to answer your questions from the internet. This is Great Depression Support. [music] This Caterpillar 330 a...
+- [What is GDP? | CNBC Explains](https://www.youtube.com/watch?v=iLom1WlqwS0)
+  > [DESCRIPTION FALLBACK] It's the king of economic statistics. Gross domestic product is an important tool to measure the health and strength of a country's ......
 
 ## Sources (RSS)
 - ['We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran](https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss)
