@@ -4,30 +4,30 @@
 **Severity:** HIGH
 
 ## Problem
-Improper collection and disposal of used batteries leading to fire hazards and potential toxic contamination
+Current packaging designs have outpaced recycling system capabilities, leading to large amounts of recyclable material ending up in landfills or incinerators.
 
 ## Root Cause
-Lack of comprehensive collection infrastructure and extended producer responsibility policies for battery waste, combined with low public awareness of safe disposal methods
+Rapid shift to multi‑layer, mixed‑material, and lightweight packaging without corresponding updates to collection, sorting, and processing infrastructure, combined with lack of strong producer responsibility policies.
 
 ## Proposed Actions
-- **Enact legislation requiring municipalities to provide free, clearly marked battery drop‑off stations and impose strict penalties for improper disposal** — Reduce reported battery‑related fire incidents in waste facilities by 80% within 2 years and increase collected battery weight by 50% within 1 year
-- **Introduce extended producer responsibility (EPR) for battery manufacturers, obligating them to fund collection, transport, and recycling of end‑of‑life batteries** — Achieve 90% of sold batteries entering a certified recycling stream within 5 years
-- **Launch a coordinated public education campaign on safe battery disposal and the availability of drop‑off locations** — Reach 70% of households in targeted regions with campaign messaging within 1 year, measured by survey awareness scores
+- **Adopt a national “recyclable‑by‑design” standard that requires all packaged goods to be made from materials compatible with existing recycling streams or to be easily separable.** — Reduce the proportion of packaging waste classified as non‑recyclable from current levels to below 30% of total packaging waste within 5 years.
+- **Create a subsidy and grant program (similar to Massachusetts' $2.8 M waste‑reduction grants) to fund R&D for low‑cost recycling technologies for mixed‑material plastics.** — Increase the recycling throughput capacity for mixed‑material plastics by 25% within 3 years.
+- **Implement mandatory reporting for manufacturers on the recyclability rate of their packaging, tied to tax incentives for high‑recyclability scores.** — Achieve 80% of top‑selling product lines meeting the recyclable‑by‑design criteria within 4 years.
 
 ## Sources (YouTube)
+- [How to solve the world&#39;s plastic problem | BBC Ideas](https://www.youtube.com/watch?v=W1wmSJsxk3w)
+  > [DESCRIPTION FALLBACK] Plastic is one of the most incredible materials in the modern world - but the way we use it damages the environment. What's the ......
+
 - [(PLASTIK) – A wake up call to end plastic pollution](https://www.youtube.com/watch?v=voPkttQKe70)
   > [DESCRIPTION FALLBACK] This World Environment Day 2022, view the plastic pollution crisis through the eyes and imagination of a child in South-East Asia....
 
-- [Reuse and Recycle Plastic | Use Eco-friendly Alternatives such as Biodegradable cloth &amp; Paper Bags](https://www.youtube.com/watch?v=NZ-j1FpV_Ns)
-  > [DESCRIPTION FALLBACK] With far reaching repercussions, this invention of man has turned out to be a global disaster, strangling the wildlife as well as the ......
-
-- [Untangled: Plastic Pollution](https://www.youtube.com/watch?v=oJNPAPA_fOM)
-  > [DESCRIPTION FALLBACK] You can find it on the highest peaks and in the deepest seas. In your home. In your food. And, yes, even in your body. Plastic....
+- [How is Taiwan beating everyone at plastics recycling?](https://www.youtube.com/watch?v=-YnYwWiSiuE)
+  > [DESCRIPTION FALLBACK] Taiwan used to be flooded with trash – but the country is now one of the top plastics recyclers in the world. How did they do it?...
 
 ## Sources (RSS)
-- [Philly City Councilmember proposes ‘zero-waste’ bill to divert 60% of city trash from landfills, incinerators](https://www.waste360.com/waste-collection-transfer/philly-city-councilmember-proposes-zero-waste-bill-to-divert-60-of-city-trash-from-landfills-incinerators)
-- [Reading Terminal Market’s efforts to prevent food waste get the attention of the EPA](https://www.waste360.com/food-waste/reading-terminal-market-s-efforts-to-prevent-food-waste-get-the-attention-of-the-epa)
+- [Space Debris Would Keep Growing Without New Launches](https://www.waste360.com/industry-insights/space-debris-would-keep-growing-without-new-launches)
 - [Outagamie County Recycling &amp; Solid Waste Center pulls over 2,000 pounds of batteries due to fire risk](https://www.waste360.com/e-waste/outagamie-county-recycling-solid-waste-center-pulls-over-2-000-pounds-of-batteries-due-to-fire-risk)
+- [Philly City Councilmember proposes ‘zero-waste’ bill to divert 60% of city trash from landfills, incinerators](https://www.waste360.com/waste-collection-transfer/philly-city-councilmember-proposes-zero-waste-bill-to-divert-60-of-city-trash-from-landfills-incinerators)
 
 
 ---
