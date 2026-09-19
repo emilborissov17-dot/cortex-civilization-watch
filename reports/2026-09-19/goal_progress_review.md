@@ -1,21 +1,26 @@
 # GOAL PROGRESS REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Accelerating depletion of global freshwater reserves leading to widespread water scarcity
+One in three institutions built to advance gender equality stripped of power in just two years
 
 ## Root Cause
-Climate change combined with unsustainable water extraction and weak international coordination causing abnormal river flows, groundwater decline, and glacier melt
+Deliberate political retreat from gender equality efforts by some countries and organizations
 
 ## Proposed Actions
-- **Create a binding UN-led global water governance framework with national targets for sustainable withdrawal and ecosystem protection** — Achieve a 15% reduction in per‑capita freshwater use in the top 10 high‑consumption countries within 5 years
-- **Fund and scale water recycling, rainwater harvesting, and desalination projects in the most water‑stressed regions** — Increase the share of recycled or alternative water in municipal supply to at least 30% in target regions within 10 years
+- **Conduct in-depth reporting on countries that have stripped institutions of power from gender equality efforts, highlighting their policies and practices** — Number of countries investigated for withdrawal of support from gender equality initiatives
 
 ## Sources (YouTube)
-- [From poverty to inequality: The UN's 'abysmal' failure to hit ...](https://www.youtube.com/watch?v=cAoa8EY6WiM)
-  > [DESCRIPTION FALLBACK] Sep 18, 2023 · This year’s United Nations General Assembly gets underway in New York on Monday, with world leaders meeting in a bid to salvage ambitious sustainable development ...
+- [The United Nations Sustainable Development Goals - YouTube](https://www.youtube.com/watch?v=92IAMsrCloQ)
+  > [DESCRIPTION FALLBACK] At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership....
+
+- [UN's 17 Sustainable Development Goals Explained | 2030 Agenda ... - YouTube](https://www.youtube.com/watch?v=4XVYucv2tuA)
+  > [DESCRIPTION FALLBACK] These goals form the core of the UN 2030 Agenda for Sustainable Development, adopted by 193 countries in 2015, with the mission to create a better, fairer, and more sustainable ...
+
+- [SDG Report 2025 Overview - YouTube](https://www.youtube.com/watch?v=MFUyf5Z6hD8)
+  > [DESCRIPTION FALLBACK] 14 July 2025: The Sustainable Development Goals Report 2025 marks the tenth annual stocktaking of global progress toward the 2030 Agenda for Sustainable Development. With the 20...
 
 ## Sources (RSS)
 - [Press Release | One in three institutions built to advance gender equality stripped of power in just two years, new UN report reveals](https://www.un.org/sustainabledevelopment/blog/2026/09/press-release-one-in-three-institutions-built-to-advance-gender-equality-stripped-of-power-in-just-two-years-new-un-report-reveals/)
