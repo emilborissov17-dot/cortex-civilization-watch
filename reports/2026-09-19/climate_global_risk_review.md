@@ -4,36 +4,30 @@
 **Severity:** HIGH
 
 ## Problem
-Record demand for ambulances in England during the June 2026 heatwave indicates acute strain on emergency health services due to extreme heat events
+Record demand for ambulances in England during the June 2026 heatwave
 
 ## Root Cause
-Increasing frequency and intensity of heatwaves caused by anthropogenic climate change, combined with insufficient heat‑wave preparedness and limited cooling infrastructure in urban areas
+Increasing frequency and intensity of extreme heat events driven by climate change combined with limited heat‑health adaptation measures in the emergency services system
 
 ## Proposed Actions
-- **Develop and roll out a nationwide heat‑wave emergency response plan that includes mandatory cooling centers, expanded ambulance staffing during forecasted heat events, and real‑time public heat alerts** — Reduce heat‑related ambulance call volume by 30% compared to the June 2026 baseline by 2028
-- **Invest in urban greening and reflective roofing in high‑risk regions to lower ambient temperatures** — Achieve a 1°C reduction in average daytime temperature in targeted city districts by 2030
+- **Deploy a national heat‑health early‑warning system linked to ambulance dispatch centres to pre‑position resources and issue public heat‑risk alerts** — Reduce peak ambulance call volume during heatwave days by at least 20% compared to the June 2026 baseline
+- **Increase ambulance fleet capacity and on‑call staffing during forecasted heat events, prioritising high‑risk regions** — Achieve a 10% increase in available ambulance crews during heatwave periods within 2 years
+- **Invest in urban cooling infrastructure (cooling centers, green roofs, tree planting) and promote heat‑resilient housing standards** — Lower average ambient temperature in high‑risk neighbourhoods by 1 °C during peak summer months, measured by municipal sensor networks
 
 ## Sources (YouTube)
-- [I Didn&#39;t Want to Make This Video.](https://www.youtube.com/watch?v=JLubu0orxPw)
-  > ﻿This is the most important video 
-you are ever going to watch, and it’s why I’m here on 
-screen talking to you today. Because humanity has “lost the 
-fight against climate change”. These were the wor...
-
-- [Climate Extremes:  Extreme Weather (Full Documentary)](https://www.youtube.com/watch?v=X6VCTfzl1DU)
-  > The range of weather extremes that we're experiencing
-today is already noticeably different. Detectable, scientifically different
-than it was in the 20th century. And of course, the problem with that ...
-
 - [What Earth in 2050 could look like - Shannon Odell](https://www.youtube.com/watch?v=2njn71TqkjA)
-  > While we’re already feeling
-the devastating effects of human-caused climate change, governments continue to fall short
-on making and executing emissions pledges that would help thwart further warming....
+  > [DESCRIPTION FALLBACK] What could our future world look like if we continue to do nothing about climate change? Take a look at the possibilities. -- While ......
+
+- [What 3 Degrees of Global Warming Looks Like](https://www.youtube.com/watch?v=7kKd8MpEkVk)
+  > [DESCRIPTION FALLBACK] Thank you Odoo for sponsoring this video: https://www.odoo.com/r/jeV ABOUT THIS VIDEO: List of sources, music, 3D model ......
+
+- [How much progress have we made on climate change?](https://www.youtube.com/watch?v=h1jOqyjcO4g)
+  > [DESCRIPTION FALLBACK] Progress is happening all over the world. I couldn't fit the entire world into my studio though, so built a model. See how I did that ......
 
 ## Sources (RSS)
+- [APOD: 2026 September 19 – A Zodiacal Night](https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/)
 - [NASA Invites Media to Albania Artemis Accords Signing Ceremony](https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/)
 - [NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’](https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/)
-- [NASA Awards SpaceX Three Crew Flights to Space Station](https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/)
 
 
 ---
