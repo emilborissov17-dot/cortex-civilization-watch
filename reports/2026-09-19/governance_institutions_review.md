@@ -1,18 +1,17 @@
 # GOVERNANCE INSTITUTIONS REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-UN peacekeeping missions are unable to effectively protect civilians and support humanitarian aid in active conflict zones like Yemen, resulting in continued displacement and suffering.
+UN peacekeeping missions operating in areas where peace remains elusive, leading to increased threats and potential failure of blue helmets (police-like United Nations personnel)
 
 ## Root Cause
-Political constraints and insufficient resources limit the UN's ability to scale robust mandates, secure host‑country cooperation, and fund operations, while the Security Council’s consensus‑driven decision‑making slows decisive action.
+The increasing threats faced by UN peacekeeping missions due to the persistent lack of peace in many conflict zones
 
 ## Proposed Actions
-- **Adopt a fast‑track resolution at the Security Council that expands peacekeeping mandates to include proactive civilian protection and authorizes an emergency funding pool triggered by verified spikes in displacement.** — Increase the number of protected displaced households from 11,000 to at least 50,000 within 12 months and reduce civilian casualty rates by 30% in the targeted zones.
-- **Establish a joint UN‑host‑government liaison office in each high‑risk mission to negotiate access, share intelligence, and coordinate rapid‑response kits with local authorities.** — Achieve 90% on‑time delivery of rapid‑response kits within 48 hours of request in 80% of incidents reported.
-- **Create an independent accountability mechanism that audits peacekeeping performance quarterly and publicly reports gaps to member states.** — Publish quarterly reports with at least three actionable recommendations per mission and see a 25% improvement in compliance scores within two years.
+- **Encourage more transparent reporting and accountability of UN peacekeeping missions' performance in conflict zones** — Reduction in reported threats faced by blue helmets within a year
+- **Promote partnerships with host countries to improve the effectiveness and sustainability of UN operations, as suggested by Guterres' remarks** — Increase in positive collaborations between UN missions and local governments over two years
 
 ## Sources (YouTube)
 - [The Biggest Global Risks for 2026 | TED Explains the World with Ian Bremmer](https://www.youtube.com/watch?v=dqVfnC_muaI)
