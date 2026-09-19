@@ -1,29 +1,24 @@
 # INEQUALITY POVERTY REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
-## Problem
-More Palestinians killed by Israeli military and settlers in occupied West Bank than previous 17 years combined.
+## Proposed Action
+Establish a Palestinian-led reconstruction authority with transparent budgeting and oversight, ensuring at least 60% of funds are administered by Palestinian institutions.
 
-## Root Cause
-Lack of effective Palestinian leadership and political will to address ongoing conflicts and human rights abuses.
+**Measurable Goal:** Percentage of reconstruction budget managed by Palestinian entities; target >60% within 12 months.
 
-## Proposed Actions
-- **Support for Palestinian-led initiatives to address human rights abuses and advocate for peace.** — Increase by 20% the number of Palestinian-led projects receiving international support within one year.
-- **Encourage Israeli government to implement policies that reduce military presence in occupied territories and improve living conditions for Palestinians.** — Reduce by 10% the number of Palestinian casualties from Israeli military actions within one year.
+**Timeframe:** short-term
 
 ## Sources (YouTube)
-- [Wealth Inequality in America Has Never Been Worse. The Middle Class Has Disappeared](https://www.youtube.com/watch?v=EdqxBNgnmxU)
-  > most people have no clue about how severe wealth inequality has become in America and how much worse it's getting there's a YouTube video by user paulit Zane where he references a study done by a Harv...
+- [Understanding and solving poverty and inequality (free online course)](https://www.youtube.com/watch?v=Y8Bbz_Y7Rp8)
+  > [DESCRIPTION FALLBACK] Find out more: york.ac.uk/study/moocs Social policy is concerned with promoting the welfare of citizens. Traditionally, the subject ......
 
-- [K-shaped economy: Why the wealthy are thriving as most Americans fall behind](https://www.youtube.com/watch?v=xgQlAZ3uTYY)
-  > E FINISHED THIS DAY ON A MIXED NOTE. BUT IF YOU HAVE BEEN WATCHING LATELY, YOU MAY HAVE NOTICED THE MARKETS HAVE CONTINUED TO BE STRONG, DESPITE CONTINUING CONCERNS AROUND THE SHUTDOWN, TARIFFS, AND I...
+- [Why is it so hard to escape poverty? - Ann-Helén Bay](https://www.youtube.com/watch?v=D9N7QaIOkG8)
+  > [DESCRIPTION FALLBACK] Explore the paradox of welfare programs, and learn how they inadvertently reinforce generational poverty, and what we can do to ......
 
-- [Why More Americans Are Being Pushed Into Poverty | CNBC Marathon](https://www.youtube.com/watch?v=uYY_ytPi83E)
-  > 63% of workers say they wouldn't be able to cover a
-$500 emergency expense. Most people don't have $1,000 in the bank. Most people cannot handle a tire blowout, or they're
-going to put it on credit. A...
+- [How these 2 economists are using randomized trials to solve global poverty](https://www.youtube.com/watch?v=xlX3VtuIfQ0)
+  > [DESCRIPTION FALLBACK] More than 700 million people across the globe live on extremely low wages. This year, a trio of economists won the Nobel Prize ......
 
 ## Sources (RSS)
 - [Gaza’s $71bn reconstruction will cost seven times all previous rebuilds combined, and will fail without Palestinian leadership – Oxfam warns](https://www.oxfam.org/en/press-releases/gazas-71bn-reconstruction-will-cost-seven-times-all-previous-rebuilds-combined-and)
