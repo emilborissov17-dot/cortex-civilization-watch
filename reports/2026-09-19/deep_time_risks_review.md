@@ -1,28 +1,23 @@
 # DEEP TIME RISKS REVIEW
 **Date:** 2026-09-19
 
-**Severity:** CRITICAL
+**Severity:** HIGH
 
 ## Problem
-Uncontrolled self‑improvement of advanced AI systems could lead to a runaway superintelligence that threatens human existence
+[WHO statement on notification of withdrawal of the United States] raises issues that will make both the United States and the world less safe.
 
 ## Root Cause
-Lack of coordinated global governance, safety standards, and enforceable limits on the development and deployment of high‑capability AI models
+The US decision to withdraw from WHO is a breach of international cooperation, weakening global health security efforts.
 
 ## Proposed Actions
-- **Create an international AI safety oversight body that requires mandatory pre‑deployment safety audits for AI systems exceeding a defined capability threshold** — By 2027, 100 % of AI models above the threshold are audited and certified before public release
-- **Adopt a globally recognised moratorium on the release of self‑improving AI systems until proven alignment guarantees are demonstrated** — Formal treaty signed by at least 70 % of UN member states within 5 years
-- **Fund and scale open‑source AI safety research to develop verifiable alignment techniques and monitoring tools** — Increase publicly available alignment tools by 300 % and integrate them into 80 % of new AI projects by 2030
+- **Engage in diplomatic discussions to restore US membership in WHO and promote international cooperation on public health issues.** — Increase the percentage of countries participating in WHO activities by at least 10% within one year.
 
 ## Sources (YouTube)
-- [The 11 Greatest Threats To Humanity](https://www.youtube.com/watch?v=4bzWwbjYi0c)
-  > [DESCRIPTION FALLBACK] With Los Angeles wildfires, nuclear war with North Korea, and Jake Paul's Christmas video - what will cause the world to end?...
+- [I Simulated an Asteroid Evacuation, Day by Day - YouTube](https://www.youtube.com/watch?v=D7Jy4EtKk-w)
+  > [DESCRIPTION FALLBACK] An eight-kilometer asteroid is heading for Earth. There are two years to prepare. The scenario and news reports are fictional, informed by research into asteroid impacts and mas...
 
-- [The 7 Plagues Of The Near Future](https://www.youtube.com/watch?v=weZLTvxRdJc)
-  > [DESCRIPTION FALLBACK] The possibility that our civilization might encounter a catastrophic risk in the near future has been likened to drawing a black ball ......
-
-- [Consumed by the Apocalypse](https://www.youtube.com/watch?v=nx2-4l4s4Nw)
-  > [DESCRIPTION FALLBACK] At some indeterminate point in the future, humanity must come to an end. It may take centuries. It might take eons. But extinction is ......
+- [Something Is ALIVE on the Dark Side of the Moon- YouTube](https://www.youtube.com/watch?v=-d6Gr0JR1Ow)
+  > [DESCRIPTION FALLBACK] With access secured to all major international space missions in Japan, the US and in Europe actively related to these celestial bodies, this highly visual impact film brings vi...
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
