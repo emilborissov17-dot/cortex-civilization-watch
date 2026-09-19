@@ -1,25 +1,27 @@
 # PLANETARY POTENTIAL REVIEW
 **Date:** 2026-09-19
 
-**Severity:** CRITICAL
+**Severity:** MEDIUM
 
 ## Problem
-Seven of the nine planetary boundaries are currently transgressed, indicating systemic overshoot of Earth's safe operating limits.
+Geoengineering activities and their potential impacts on Earth's climate system are not well regulated or understood.
 
 ## Root Cause
-Massive anthropogenic greenhouse gas emissions, unsustainable land‑use practices, and lack of coordinated global governance to enforce planetary limits.
+Lack of comprehensive regulation and clear understanding of the long-term effects of geoengineering interventions.
 
 ## Proposed Actions
-- **Adopt a worldwide, legally binding carbon price of at least $150 per ton CO₂e, with revenue earmarked for climate mitigation and adaptation projects.** — Global CO₂ emissions reduced by 30% relative to 2020 levels within 10 years.
-- **Scale precision irrigation and regenerative agriculture on 50% of irrigated cropland worldwide, leveraging the climate benefit identified (363 years of emissions offset).** — Net greenhouse‑gas reduction of 1.2 Gt CO₂e per year from agricultural sector within 5 years.
-- **Establish an independent Planetary Boundaries Monitoring Authority with enforcement powers to trigger sanctions when transgressions exceed defined thresholds.** — Annual public report on all nine boundaries and activation of corrective measures for any boundary crossing within 2 years.
+- **Develop a comprehensive regulatory framework for geoengineering activities with clear guidelines and oversight mechanisms.** — Implement regulations that ensure at least one major country adopts the proposed framework within two years
+- **Enhance public awareness and education on the risks and benefits of geoengineering through targeted communication campaigns.** — Increase public understanding of geoengineering by at least 20% among a representative sample of the population within one year
 
 ## Sources (YouTube)
-- [Planetary boundaries – a science update by professor Johan ...How Can We Build Prosperity within Planetary Boundaries ...How Can We Build Prosperity within Planetary Boundaries?Planetary Boundaries - Stockholm Resilience CentrePlanetary Boundaries: Earth's 9 Safe Operating Limits - GlobaïaGeoengineering Watch Global Alert News, March 28, 2026, #555What are Planetary Boundaries? The 2026 Framework explained](https://www.youtube.com/watch?v=dhWXmq1XQa4)
-  > [DESCRIPTION FALLBACK] Mar 27, 2026 · Professor Johan Rockström, co-founder of the Stockholm Resilience Centre, gives a scientific update on the Planetary boundaries framework. Jan 21, 2026 · How can ...
+- [Planetary boundaries – a science update by professor Johan Rockström (2026) - YouTube](https://www.youtube.com/watch?v=dhWXmq1XQa4)
+  > [DESCRIPTION FALLBACK] Professor Johan Rockström, co-founder of the Stockholm Resilience Centre, gives a scientific update on the Planetary boundaries framework. Published: March 27, 2026...
 
-- [How Can We Build Prosperity within Planetary Boundaries ...How Can We Build Prosperity within Planetary Boundaries?Planetary Boundaries - Stockholm Resilience CentrePlanetary Boundaries: Earth's 9 Safe Operating Limits - GlobaïaGeoengineering Watch Global Alert News, March 28, 2026, #555What are Planetary Boundaries? The 2026 Framework explained](https://www.youtube.com/watch?v=vH7URttlbko)
-  > [DESCRIPTION FALLBACK] Jan 21, 2026 · How can we sustain, and even augment, growth while also remaining within the planet’s boundaries? Jan 20, 2026 · How can we sustain, and even augment, growth whil...
+- [Potsdam Institute for Climate Impact Research PIK - YouTube](https://www.youtube.com/watch?v=Rphpxvl_9T8)
+  > [DESCRIPTION FALLBACK] How stable is our planet? PIK Director Johan Rockström explains the “Planetary Boundaries” framework. These boundaries refer to the stability of the Earth, a... Published: May 4...
+
+- [Geoengineering Watch Global Alert News, May 30, 2026, # 564 ( Dane Wigington ) - YouTube](https://www.youtube.com/watch?v=0-tS59Mw0Es)
+  > [DESCRIPTION FALLBACK] https://www.GeoengineeringWatch.orgTo support Geoengineering Watch: http://www.geoengineeringwatch.org/support/Contact us: Dane Wigington, P.O. Box 9, Bella ... Published: May 3...
 
 ## Sources (RSS)
 - [Anak Krakatau blasts ash nearly 10 miles high](https://www.sciencedaily.com/releases/2026/09/260917003718.htm)
