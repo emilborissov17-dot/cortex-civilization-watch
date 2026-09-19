@@ -4,27 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-United States withdrawal from the World Health Organization reduces global health coordination and funding, threatening progress on health equity and disease control.
+United States withdrawal from the World Health Organization reduces global health coordination and funding
 
 ## Root Cause
-Political decision by the US government to exit WHO, driven by short‑term domestic political pressures and mistrust of multilateral institutions.
+Political decision by the US government to leave WHO, leading to loss of a major financial contributor and weakening of multilateral health governance
 
 ## Proposed Actions
-- **Launch a high‑level diplomatic campaign by a coalition of WHO member states and civil society to persuade the US Congress and administration to reverse the withdrawal.** — US formally announces intention to remain a member or re‑join WHO within 12 months.
-- **Establish a diversified global health financing mechanism (e.g., a WHO trust fund) that secures contributions from a broad set of donors to offset any US funding gap.** — Raise at least $1 billion in new commitments from non‑US donors within 2 years.
-- **Create a joint US‑WHO task force on pandemic preparedness that operates independently of formal membership, ensuring continued data sharing and coordinated response.** — Operational task force with quarterly joint reports within 3 years.
+- **Mobilize a coalition of high‑income and middle‑income countries to pledge supplemental funding that covers at least 75 % of the budget shortfall created by the US exit** — Achieve a net funding level of ≥ 95 % of WHO's pre‑withdrawal budget within 12 months
+- **Launch a targeted advocacy campaign in the US Congress and public media to reverse the withdrawal decision** — Secure a legislative resolution or executive action reinstating US membership within 24 months
 
 ## Sources (YouTube)
 - [Understanding and solving poverty and inequality (free online course)](https://www.youtube.com/watch?v=Y8Bbz_Y7Rp8)
-  > [Music] two of the biggest problems facing society are poverty and inequality how do we make society fairer and more equal how do we stop parents struggling to put food on their table for their childr...
+  > [DESCRIPTION FALLBACK] Find out more: york.ac.uk/study/moocs Social policy is concerned with promoting the welfare of citizens. Traditionally, the subject ......
 
 - [Global Wealth Inequality  -  What you never knew you never knew (See description for 2017 updates)](https://www.youtube.com/watch?v=uWSxzjyMNpU)
-  >       People are talking a lot about
-inequality these days... about the fact that the richest 1% have so much more than everybody
-else. But most of the focus seems to be on the United States and it st...
+  > [DESCRIPTION FALLBACK] NOTE: Firstly, we know about and apologise for the incorrect map in this version of the video, there is an update version in the ......
 
 - [The End of Poverty by Jeffrey Sachs In-Depth ANALYSIS 📚🌟💡](https://www.youtube.com/watch?v=k0_KgGYL3ww)
-  > A groundbreaking plan to eradicate extreme poverty worldwide within our generation....
+  > [DESCRIPTION FALLBACK] Affiliate Purchase Link https://amzn.to/47k7gAj Experience a unique two-voice AI conversation powered by Google's NotebookLM ......
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
