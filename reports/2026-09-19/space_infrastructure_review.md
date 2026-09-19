@@ -1,27 +1,28 @@
 # SPACE INFRASTRUCTURE REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Rapid increase in satellite launches, especially small constellations, without robust orbital debris mitigation, threatening long‑term sustainability of space infrastructure.
+Анализ на SPACE_INFRASTRUCTURE_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Commercial and national actors prioritize rapid deployment for economic or strategic advantage, while global regulatory frameworks and enforceable debris‑removal standards lag behind the pace of launch activity.
-
-## Proposed Actions
-- **Adopt and enforce a mandatory end‑of‑life deorbiting requirement for all new satellites launched after 2027, with independent verification through a shared orbital‑debris tracking database.** — By 2030, 95% of newly launched satellites have documented deorbit or passivation plans that are verified by the tracking database; number of debris objects >10 cm in low Earth orbit reduced by 20% relative to 2025 baseline.
-- **Create financial incentives (e.g., launch fee discounts, tax credits) for operators that use active deorbiting technologies or reusable launch vehicles.** — Within 3 years, at least 30% of new launch contracts include active deorbiting hardware or reuse clauses.
+LLM parsing грешка: Не може да се parse JSON от LLM отговор: {
+  "problem": "Rapid proliferation of small optical imagin
 
 ## Sources (YouTube)
-- [Why SpaceX and NASA Rockets Are So Different](https://www.youtube.com/watch?v=AlrowLw4dKE)
-  > [DESCRIPTION FALLBACK] In this video, we delve into the fascinating world of rocket design philosophy, specifically looking at the pros and cons of two ......
+- [NASA’s SpaceX Crew-12 Pre-Departure News Conference (Sept. 16, 2026)](https://www.youtube.com/watch?v=aujP8wuMTMI)
+  > [DESCRIPTION FALLBACK] Tune in as the four members of NASA's SpaceX Crew-12 — NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmona...
 
-- [Nancy Grace Roman Space Telescope Launch](https://www.youtube.com/watch?v=9wq3VHsL_bE)
-  > [DESCRIPTION FALLBACK] Tune in to watch our newest orbiting observatory launch to space. Our Roman Space Telescope is scheduled to lift off at 7:26 a.m. ......
+- [Progress 96 Cargo Ship Launch](https://www.youtube.com/watch?v=cCpf0BOjlLE)
+  > [DESCRIPTION FALLBACK] A spacecraft carrying food, fuel, and supplies is launching to the International Space Station. Watch along with us.
 
-- [Mission Spotlight: Sentinel-6B Launch by SpaceX, NASA, NOAA, ESA, EUMETSAT](https://www.youtube.com/watch?v=autrCI6sThY)
-  > [DESCRIPTION FALLBACK] Witness the thrilling launch of Sentinel-6B, a crucial satellite dedicated to monitoring global sea surface height. This mission, a ......
+The unpiloted Progress 96 resupply spacecraft is scheduled ...
+
+- [NASA Moon Base: The First Six Months](https://www.youtube.com/watch?v=IwZVXmQdX1E)
+  > [DESCRIPTION FALLBACK] No aim is too high. No journey is too far. No challenge is too tough. 
+
+Since NASA announced plans for a Moon Base in March 2026, work has been moving quickly to turn an ambitio...
 
 ## Sources (RSS)
 - [Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs](https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/)
