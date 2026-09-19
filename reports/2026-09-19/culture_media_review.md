@@ -4,14 +4,15 @@
 **Severity:** HIGH
 
 ## Problem
-Rapid spread of false news and misinformation through social media platforms, influencing public opinion and cultural narratives
+Rapid spread of false news and misinformation through social media platforms, undermining informed public discourse and democratic processes
 
 ## Root Cause
-Profit‑driven algorithms of big tech platforms prioritize engagement over accuracy, combined with weak regulatory frameworks and low public media‑literacy
+Platform business models prioritize engagement over truth, using recommendation algorithms that amplify sensational or polarizing content, combined with weak regulatory oversight and limited media literacy among users
 
 ## Proposed Actions
-- **Mandate algorithmic transparency audits and require platforms to demote verified false content while labeling it clearly** — Reduction of re‑shared false posts by 30% within 12 months measured via independent fact‑checking APIs
-- **Launch a coordinated, multilingual media‑literacy curriculum in schools and community centers focused on identifying circular reporting and deepfakes** — At least 70% of participants score ≥80% on post‑training misinformation detection tests within 18 months
+- **Mandate independent algorithmic audits and public transparency reports for major social media platforms, with required de‑amplification of repeatedly flagged false content** — Reduction of identified false news items reaching >10,000 users by 30% within 12 months
+- **Launch a coordinated, publicly funded media literacy curriculum integrated into secondary education and community programs** — Increase in average media literacy assessment scores by 20% across target populations within 3 years
+- **Create an independent, multi‑stakeholder fact‑checking consortium that partners with platforms to flag and label misinformation in real time** — Achieve a 50% decrease in the virality (share count) of flagged false stories within 18 months
 
 ## Sources (YouTube)
 - [How false news can spread - Noah Tavlin](https://www.youtube.com/watch?v=cSKGa_7XJkg)
