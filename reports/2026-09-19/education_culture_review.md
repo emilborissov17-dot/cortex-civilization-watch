@@ -1,17 +1,16 @@
 # EDUCATION CULTURE REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Budget cuts have forced a reset of free lunch eligibility, causing many students to lose access to nutritious meals at school.
+The number of countries with high literacy rates is declining.
 
 ## Root Cause
-Reduced public education funding due to policy decisions that prioritize short‑term fiscal savings over child nutrition and equitable education support.
+Decreasing investment in education and literacy programs, leading to a lack of resources for improving reading and writing skills.
 
 ## Proposed Actions
-- **Pass legislation to restore and expand universal free lunch funding for K‑12 schools.** — Increase the percentage of students receiving free meals from the current post‑cut level back to pre‑cut baseline within one school year.
-- **Create a public‑private partnership program that mobilizes local NGOs and food banks to provide supplemental meals during funding gaps.** — Cover at least 90% of students who fall through the eligibility gap within six months of implementation.
+- **Increase funding for literacy programs in countries with declining literacy rates** — Increase the number of students enrolled in literacy programs by 10% within a year.
 
 ## Sources (YouTube)
 - [Keynote 2, Creativity, Global Citizenship, and Health for All | CES 2025, UNESCO Paris](https://www.youtube.com/watch?v=Czng7PNYHVg)
