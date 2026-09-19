@@ -4,14 +4,15 @@
 **Severity:** HIGH
 
 ## Problem
-Continuous deforestation and habitat loss in the Amazon are causing rapid biodiversity decline, especially of insect populations.
+Rapid deforestation and habitat loss in tropical regions (especially the Amazon) are causing immediate biodiversity loss and undermining effective conservation efforts.
 
 ## Root Cause
-Economic pressure for agricultural expansion and logging combined with weak enforcement of forest protection policies.
+Economic incentives for agriculture, logging, and mining combined with weak governance and a research paradigm ('parachute science') that excludes local expertise, leading to insufficient protection and monitoring of ecosystems.
 
 ## Proposed Actions
-- **Impose and enforce a legally binding moratorium on new forest clearance in the Amazon, coupled with a payment‑for‑ecosystem‑services program for local communities.** — Reduce annual forest loss to less than 0.5% of the Amazon basin (≈ 150,000 ha) within 5 years, measured by satellite remote‑sensing data (e.g., Global Forest Watch).
-- **Create a Global Wildlife Health Authority to coordinate disease surveillance, biodiversity monitoring, and rapid response across countries.** — Establish operational coordination centers in at least 5 high‑risk biodiversity hotspots within 3 years and publish quarterly health‑status reports for key indicator species.
+- **Create and empower a Global Wildlife Health Authority to coordinate satellite monitoring, rapid response to illegal clearing, and standardized biodiversity reporting.** — Achieve a 30% reduction in annual deforestation rate in the Amazon within five years, verified by satellite data.
+- **Fund and scale locally‑led research programs to replace 'parachute science', ensuring capacity building for Indigenous and regional scientists.** — Increase the proportion of biodiversity studies led by local researchers from <10% to >50% within three years.
+- **Mandate zero‑deforestation commitments in commodity supply chains (e.g., soy, beef, timber) with third‑party verification.** — All major exporters to certify zero‑deforestation compliance, resulting in at least 25% of high‑risk agricultural land being under verified sustainable management within five years.
 
 ## Sources (YouTube)
 - [How Deforestation and Habitat Loss reduce Biodiversity: Edge Effects and Extinction Debts explained](https://www.youtube.com/watch?v=utUttHCCHXk)
