@@ -1,32 +1,22 @@
 # SOCIAL RELATIONS REVIEW
 **Date:** 2026-09-19
 
-**Severity:** LOW
+**Severity:** HIGH
 
 ## Problem
-The decline in the number of close friends people have, particularly among younger generations.
+A rapidly growing loneliness epidemic, with increasing social isolation despite higher digital connectivity
 
 ## Root Cause
-Changes in social norms and digital communication habits leading to less face-to-face interactions.
+Technology design that prioritizes screen time and algorithmic engagement, combined with political polarization and distrust of media, reduces opportunities for genuine face‑to‑face interaction
 
 ## Proposed Actions
-- **Conduct workshops on the importance of in-person social interactions and mental health benefits.** — Increase by 10% the number of people who believe in the importance of maintaining close friendships through in-person interactions.
+- **Mandate that major social media platforms implement daily usage caps and promote periodic offline prompts** — Average daily active time per user reduced by 15% within 12 months; Loneliness Index (UCLA scale) improves by 5 points in national survey
+- **Launch government‑funded community hub programs that organize regular in‑person social activities in urban and rural areas** — Participation of at least 10% of local population in hub events within 2 years; self‑reported loneliness scores drop by 3 points in participating neighborhoods
+- **Integrate compulsory media‑literacy and digital‑well‑being curricula in K‑12 education** — Curriculum adoption in 80% of schools within 3 years; post‑program surveys show 20% increase in critical media consumption skills
 
 ## Sources (YouTube)
-- [The Health Effects of Loneliness](https://www.youtube.com/watch?v=YoqnIs5uc8E)
-  > [music] >> Reed Pence: Humans are innately social
-creatures. Few of us can truly go it alone. Our survival depends on having relationships
-with others, so our species has evolved a way to make sure we...
-
-- [Loneliness kills: How to fight depression with social support | Johann Hari | Big Think](https://www.youtube.com/watch?v=Hp-L844-5k8)
-  > There’s a really heartbreaking study that
-asked Americans, “How many close friends do you have that you can call on in a crisis?” And when they started doing it decades ago
-the most common answer was ...
-
-- [Male inequality, explained by an expert | Richard Reeves](https://www.youtube.com/watch?v=DBG1Wgg32Ok)
-  > - A number of people warned
-me against writing a book about boys and men because
-it's such a fraught subject, particularly in politics right now, and because so many people were afraid that merely dra...
+- [Is Technology Killing Empathy? A Deep Dive into the Loneliness Epidemic](https://www.youtube.com/watch?v=anj0iyliWQo)
+  > [DESCRIPTION FALLBACK] "We are more 'connected' than ever, yet a global crisis of loneliness is silently taking hold. In this special full-hour feature on ......
 
 ## Sources (RSS)
 - [Weekly: 9.19.26](https://www.pewresearch.org/newsletter/weekly-roundup/weekly-9-19-26/)
