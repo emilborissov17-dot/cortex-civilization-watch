@@ -1,24 +1,24 @@
 # GENERAL SELF REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-AI technologies are being applied to design or accelerate bioweapons, creating a concrete existential threat
+The potential for AI-enabled bioweapons and concerns about AI consciousness raising ethical issues.
 
 ## Root Cause
-Rapid AI capability growth outpaces regulatory frameworks and safety standards in biotech, combined with insufficient oversight of AI tool deployment in life‑science research
+Lack of clear guidelines and regulations on the development and use of advanced AI technologies, especially those with potentially dangerous applications such as bioweapons and consciousness research.
 
 ## Proposed Actions
-- **Establish an international treaty that requires mandatory risk assessments and licensing for any AI system used in biological research or synthesis** — Number of signatory nations reaches at least 50 within 5 years and compliance audits report <1% unlicensed AI‑biotech projects
-- **Create a dedicated AI‑biotech safety oversight board that reviews and certifies AI models before they are released for public use in protein‑design or gene‑editing applications** — All publicly released models with biotech capabilities receive certification; audit logs show 100% coverage
+- **Develop and implement clear guidelines for the use of advanced AI technologies, especially in bioweapons research.** — Reduction in reports of AI-enabled bioweapon threats by 50% within one year
+- **Increase public awareness and education on the ethical considerations of AI development, including consciousness research.** — At least 80% increase in public understanding of AI ethics issues over a two-year period
 
 ## Sources (YouTube)
-- [Can AI Become Conscious? Consciousness | AGI | Humanity ...AGI: From No Self to True Self, Artificial Consciousness is ...Are We Building Sentient Machines? Anil Seth on Consciousness ...consciousagi.ai - Synthetic IntelligenceWATCH: A Neuroscientist and a Philosopher Debate AI ConsciousnessArtificial consciousness - WikipediaAGI/Singularity: 10,000 Predictions Analyzed](https://www.youtube.com/watch?v=T8s0Q4xD8kc)
+- [Can AI Become Conscious? Consciousness | AGI | Humanity ...Joscha Bach: AGI, Consciousness, and the Evolution of ...consciousagi.ai - Synthetic IntelligenceAre We Building Sentient Machines? Anil Seth on Consciousness ...Artificial consciousness - WikipediaWATCH: A Neuroscientist and a Philosopher Debate AI ConsciousnessAI and the Future of Consciousness Science - Exploring ...](https://www.youtube.com/watch?v=T8s0Q4xD8kc)
   > [DESCRIPTION FALLBACK] As Artificial Intelligence becomes more powerful, one question is beginning to dominate the conversation: *Can machines ever become conscious?* Some scientists believe conscious...
 
-- [AGI: From No Self to True Self, Artificial Consciousness is ...Are We Building Sentient Machines? Anil Seth on Consciousness ...consciousagi.ai - Synthetic IntelligenceWATCH: A Neuroscientist and a Philosopher Debate AI ConsciousnessArtificial consciousness - WikipediaAGI/Singularity: 10,000 Predictions Analyzed](https://www.youtube.com/watch?v=MmZ3-Tq5_fE)
-  > [DESCRIPTION FALLBACK] Jul 31, 2025 · Gain insights into ethical dilemmas, robotics, and human-AI collaboration as we shape the future together. Sep 9, 2025 · In this episode of Creative Intelligence,...
+- [Joscha Bach: AGI, Consciousness, and the Evolution of ...consciousagi.ai - Synthetic IntelligenceAre We Building Sentient Machines? Anil Seth on Consciousness ...Artificial consciousness - WikipediaWATCH: A Neuroscientist and a Philosopher Debate AI ConsciousnessAI and the Future of Consciousness Science - Exploring ...](https://www.youtube.com/watch?v=VVc0hiA9O7c)
+  > [DESCRIPTION FALLBACK] In this episode, cognitive scientist and AI researcher Joscha Bach joins us for a thought-provoking conversation on artificial intelligence, machine consciousness, large languag...
 
 ## Sources (RSS)
 - [The Download: AI’s extinction risk and bioweapons threat](https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/)
