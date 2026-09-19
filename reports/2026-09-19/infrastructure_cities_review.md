@@ -1,23 +1,21 @@
 # INFRASTRUCTURE CITIES REVIEW
 **Date:** 2026-09-19
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Insufficient trained workforce for emerging air‑taxi services hindering the deployment of low‑emission urban aerial mobility
+The lack of comprehensive and sustainable infrastructure development in cities, particularly regarding housing regulations and smart city initiatives.
 
 ## Root Cause
-Lack of coordinated education and certification programs combined with regulatory gaps that have not kept pace with rapid technological development in e‑VTOL (electric vertical take‑off and landing) aircraft
+Inconsistent and fragmented policies that allow for manufactured housing but restrict other forms of urban expansion, leading to potential social and environmental issues
 
 ## Proposed Actions
-- **Create a nationally accredited e‑VTOL pilot training curriculum partnered with community colleges and industry manufacturers, funded through federal grants and public‑private partnerships** — Certify at least 500 qualified air‑taxi pilots within three years and launch 10 commercial air‑taxi routes in major metro areas
-- **Amend existing aviation regulations to recognize e‑VTOL specific operating certificates and streamline airspace integration for urban air mobility** — Adopt a unified regulatory framework in at least five states within two years, reducing permitting time by 40%
+- **Promote transparent and inclusive urban planning processes that consider social, environmental, and economic factors** — Increase public participation in smart city planning initiatives by 20% within a year
+- **Encourage collaboration between local governments, industry leaders, and community organizations to develop comprehensive urban development plans** — Implement at least one fully integrated urban development plan in a major city by the end of 2026
 
 ## Sources (YouTube)
 - [Smart Cities: How LiDAR Technology Enables Real‑Time Urban Intelligence](https://www.youtube.com/watch?v=obwDCtxa73Y)
-  >  Welcome to Code the Future. Today on the show,
-we're sitting down with Asad Lassani, VP of Smart Infrastructure at Ouster, a company that
-is redefining how the world uses LiDAR by bringing digital se...
+  > [DESCRIPTION FALLBACK] Asad Lesani, VP of Smart Infrastructure at Ouster, breaks down how lidar enhances existing smart city systems with real-time ......
 
 - [Portugal Smart Cities Summit 2026 | WrapUp](https://www.youtube.com/watch?v=5lTgFwb3PfQ)
   > [DESCRIPTION FALLBACK] The Portugal Smart Cities Summit 2026 brought together policymakers, researchers, companies, and citizens to reflect on the ......
