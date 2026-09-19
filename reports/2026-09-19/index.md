@@ -2,39 +2,39 @@
 
 > An autonomous system monitoring 25 axes of civilization toward dignity, sustainability and long-term survival of intelligent life.
 
-**Coverage:** 25 axes · 273 sources · 69 videos · 24 axes flagged critical ([details](master_web_intel.md))
+**Coverage:** 25 axes · 280 sources · 72 videos · 13 axes flagged critical ([details](master_web_intel.md))
 
-**Critical this run:** HUMAN_WELL_BEING_REVIEW, CLIMATE_GLOBAL_RISK_REVIEW, COGNITION_LEARNING_REVIEW, ECONOMY_WORK_REVIEW, INEQUALITY_POVERTY_REVIEW, GOVERNANCE_INSTITUTIONS_REVIEW, INFRASTRUCTURE_CITIES_REVIEW, EDUCATION_CULTURE_REVIEW, SPACE_INFRASTRUCTURE_REVIEW, TECHNOLOGY_INFRA_REVIEW, LONG_TERM_FUTURE_REVIEW, ENERGY_REVIEW
+**Critical this run:** WATER_REVIEW, ENERGY_REVIEW, CLIMATE_GLOBAL_RISK_REVIEW, FOOD_REVIEW, ECOSYSTEMS_BIODIVERSITY_REVIEW, MATERIALS_WASTE_REVIEW, HUMAN_WELL_BEING_REVIEW, COGNITION_LEARNING_REVIEW, CULTURE_MEDIA_REVIEW, SOCIAL_RELATIONS_REVIEW, GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL, COSMIC_RESOURCES_REVIEW
 
 ## Today's Findings
 
 | Axis | Severity | Summary |
 |------|----------|----------|
-| [ECONOMY_WORK_REVIEW](economy_work_review.md) | HIGH | Massive flight cancellations caused by a single millisecond software defect in a... |
-| [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | HIGH | Budget cuts have forced a reset of free lunch eligibility, causing many students... |
-| [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | HIGH | UN peacekeeping missions are unable to effectively protect civilians and support... |
-| [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | HIGH | More Palestinians killed by Israeli military and settlers in occupied West Bank ... |
-| [INFRASTRUCTURE_CITIES_REVIEW](infrastructure_cities_review.md) | HIGH | Insufficient trained workforce for emerging air‑taxi services hindering the depl... |
-| [TECHNOLOGY_AI_REVIEW](technology_ai_review.md) | HIGH | Uncoordinated deployment of autonomous AI agents creates unmanaged complexity an... |
-| [TECHNOLOGY_INFRA_REVIEW](technology_infra_review.md) | HIGH | Severe lack of internet connectivity and electricity in rural regions such as Ma... |
-| [COSMIC_RESOURCES_REVIEW](cosmic_resources_review.md) | HIGH | Absence of a binding international regulatory framework for asteroid and space r... |
-| [DEEP_TIME_RISKS_REVIEW](deep_time_risks_review.md) | CRITICAL | Uncontrolled self‑improvement of advanced AI systems could lead to a runaway sup... |
-| [GENERAL_SELF_REVIEW](general_self_review.md) | HIGH | AI technologies are being applied to design or accelerate bioweapons, creating a... |
-| [GOAL_PROGRESS_REVIEW](goal_progress_review.md) | HIGH | Accelerating depletion of global freshwater reserves leading to widespread water... |
-| [LONG_TERM_FUTURE_REVIEW](long_term_future_review.md) | HIGH | AI systems are being trained on massive datasets without sufficient verification... |
-| [SPACE_INFRASTRUCTURE_REVIEW](space_infrastructure_review.md) | HIGH | Rapid increase in satellite launches, especially small constellations, without r... |
-| [COGNITION_LEARNING_REVIEW](cognition_learning_review.md) | HIGH | Budget cuts have forced a reset of free lunch programs, leaving many students wi... |
-| [CULTURE_MEDIA_REVIEW](culture_media_review.md) | HIGH | Rapid spread of false news and misinformation through social media platforms, in... |
-| [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | HIGH | Re‑arrest of human rights lawyers Imaan Mazari‑Hazir and Hadi Ali Chattha in Pak... |
+| [ECONOMY_WORK_REVIEW](economy_work_review.md) | UNKNOWN |  |
+| [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | LOW | The number of countries with high literacy rates is declining. |
+| [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | MEDIUM | UN peacekeeping missions operating in areas where peace remains elusive, leading... |
+| [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | UNKNOWN |  |
+| [INFRASTRUCTURE_CITIES_REVIEW](infrastructure_cities_review.md) | MEDIUM | The lack of comprehensive and sustainable infrastructure development in cities, ... |
+| [TECHNOLOGY_AI_REVIEW](technology_ai_review.md) | UNKNOWN |  |
+| [TECHNOLOGY_INFRA_REVIEW](technology_infra_review.md) | UNKNOWN |  |
+| [COSMIC_RESOURCES_REVIEW](cosmic_resources_review.md) | HIGH | Lack of a comprehensive, enforceable international governance framework for comm... |
+| [DEEP_TIME_RISKS_REVIEW](deep_time_risks_review.md) | HIGH | [WHO statement on notification of withdrawal of the United States] raises issues... |
+| [GENERAL_SELF_REVIEW](general_self_review.md) | MEDIUM | The potential for AI-enabled bioweapons and concerns about AI consciousness rais... |
+| [GOAL_PROGRESS_REVIEW](goal_progress_review.md) | MEDIUM | One in three institutions built to advance gender equality stripped of power in ... |
+| [LONG_TERM_FUTURE_REVIEW](long_term_future_review.md) | MEDIUM | Gemini's first breakout during offensive cyber security evaluation raises concer... |
+| [SPACE_INFRASTRUCTURE_REVIEW](space_infrastructure_review.md) | UNKNOWN | Анализ на SPACE_INFRASTRUCTURE_REVIEW — данни получени но LLM грешка |
+| [COGNITION_LEARNING_REVIEW](cognition_learning_review.md) | HIGH | Budget cuts are disrupting free lunch programs, leading to increased student hun... |
+| [CULTURE_MEDIA_REVIEW](culture_media_review.md) | HIGH | Rapid spread of false news and misinformation through social media platforms, un... |
+| [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | HIGH | Re-arrest of human rights lawyers in Pakistan is a violation of their right to b... |
 | [HUMAN_WELL_BEING_REVIEW](human_well_being_review.md) | HIGH | United States withdrawal from the World Health Organization reduces global healt... |
-| [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | LOW | The decline in the number of close friends people have, particularly among young... |
-| [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | HIGH | Record demand for ambulances in England during the June 2026 heatwave indicates ... |
-| [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | HIGH | Continuous deforestation and habitat loss in the Amazon are causing rapid biodiv... |
-| [ENERGY_REVIEW](energy_review.md) | HIGH | Europe and Central Asian regions face escalating energy supply insecurity and pr... |
-| [FOOD_REVIEW](food_review.md) | HIGH | Rapid decline of wasp populations in Britain during summer, leading to reduced p... |
-| [MATERIALS_WASTE_REVIEW](materials_waste_review.md) | HIGH | Improper collection and disposal of used batteries leading to fire hazards and p... |
-| [PLANETARY_POTENTIAL_REVIEW](planetary_potential_review.md) | CRITICAL | Seven of the nine planetary boundaries are currently transgressed, indicating sy... |
-| [WATER_REVIEW](water_review.md) | HIGH | Hydropower generation at Glen Canyon Dam is prioritized over downstream ecosyste... |
+| [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | HIGH | A rapidly growing loneliness epidemic, with increasing social isolation despite ... |
+| [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | HIGH | Record demand for ambulances in England during the June 2026 heatwave |
+| [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | HIGH | Rapid deforestation and habitat loss in tropical regions (especially the Amazon)... |
+| [ENERGY_REVIEW](energy_review.md) | HIGH | European and Central Asian regions are critically dependent on imported fossil f... |
+| [FOOD_REVIEW](food_review.md) | HIGH | Significant decline of pollinator insects (e.g., wasps) and mismatched plant flo... |
+| [MATERIALS_WASTE_REVIEW](materials_waste_review.md) | HIGH | Current packaging designs have outpaced recycling system capabilities, leading t... |
+| [PLANETARY_POTENTIAL_REVIEW](planetary_potential_review.md) | MEDIUM | Geoengineering activities and their potential impacts on Earth's climate system ... |
+| [WATER_REVIEW](water_review.md) | HIGH | Hydropower operations at Glen Canyon Dam are prioritized over river ecosystem he... |
 
 ---
 *Generated by CORTEX++ — an auditable civilization-monitoring instrument | 2026-09-19*
