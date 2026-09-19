@@ -4,24 +4,18 @@
 **Severity:** HIGH
 
 ## Problem
-Absence of a binding international regulatory framework for asteroid and space resource extraction
+Lack of a comprehensive, enforceable international governance framework for commercial satellite deployment and asteroid/resource mining
 
 ## Root Cause
-Fragmented national initiatives and failed legislation (e.g., the 2015 U.S. Space Resource Exploration and Utilization Act that never became law) combined with rapid commercial interest, leaving governance gaps
+Rapid commercial expansion outpaces slow national legislative processes, while geopolitical competition prevents consensus on shared rules
 
 ## Proposed Actions
-- ** convene a UN-led Global Space Resources Convention to create a binding treaty on extraction, ownership, and benefit-sharing of extraterrestrial resources** — adoption of a legally binding treaty by at least 70% of UN member states within 5 years
-- **expand ESRIC's mandate to include equity oversight, technology transfer, and open‑access data platforms for space resource projects** — establish at least 10 joint research projects with developing‑nation partners and publish annual open‑access resource‑utilization datasets
+- **Create and adopt an International Space Resources and Orbital Debris Treaty that sets clear licensing, environmental, and conflict‑resolution rules** — Treaty signed by at least 30 spacefaring nations and major commercial operators within 5 years; annual reporting shows <5% increase in projected orbital debris density
+- **Establish an independent oversight agency under the UN to certify satellite constellations and mining projects against the treaty standards** — Agency operational with a publicly accessible compliance database covering 80% of active constellations within 7 years
 
 ## Sources (YouTube)
-- [Mining Asteroids - How We Extract Resources in Space | Free Documentary Space - YouTube](https://www.youtube.com/watch?v=D3eVaW4ytZA)
-  > [DESCRIPTION FALLBACK] Mining Asteroids - How We Extract Resources in Space | Free Documentary SpaceMining Asteroids - How We Extract Resources in Space | New Horizons | Free Docum... Published: Janua...
-
-- [Asteroids: The New Space El Dorado | Free Documentary Space - YouTube](https://www.youtube.com/watch?v=GTvNEf3Sh-Y)
-  > [DESCRIPTION FALLBACK] Asteroids: The New Space El Dorado | Free Documentary SpaceAsteroid Mining: The Hunt for Cosmic Resources | Free Documentary SpaceAs Earth’s demand for rare ... Published: Augus...
-
-- [This Asteroid Could Make Anyone A Trillionaire - YouTube](https://www.youtube.com/watch?v=v1lTuSp1ExU)
-  > [DESCRIPTION FALLBACK] Asteroid Mining Documentary: Why are NASA, SpaceX, and countries around the world racing to claim resources from outer space, and how much money is actually ... Published: June ...
+- [Ukraine’s Strategic Stronghold in Zaporizhia About to FALL - YouTube](https://www.youtube.com/watch?v=KHVeP-qa9Y0)
+  > [DESCRIPTION FALLBACK] Try NMN (Anti-aging & NAD+): (BIGGEST DEAL OF THE YEAR BUY ONE GET ONE FREE + FREE NMN FOR 48HRS ONLY!): https://blackforestsupplements.com/LEGENDS O......
 
 ## Sources (RSS)
 - [Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs](https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/)
