@@ -1,22 +1,23 @@
 # ECOSYSTEMS BIODIVERSITY REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Habitat loss caused by infrastructure projects (e.g., proposed hydropower in Komarnica Canyon) and ongoing deforestation
+Анализ на ECOSYSTEMS_BIODIVERSITY_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Economic development priorities and weak environmental governance allow large‑scale land conversion without rigorous biodiversity assessment
-
-## Proposed Actions
-- **Mandate independent, science‑based Environmental Impact Assessments (EIAs) for all new infrastructure and land‑use projects, with a specific biodiversity safeguard clause** — 100% of new projects over 10 MW or >50 ha to have completed EIAs before approval; reduction of habitat loss rate by 30% within 5 years
-- **Establish protected status for identified high‑biodiversity areas such as Komarnica Canyon and remaining primary forest blocks in the affected region** — At least 5,000 ha designated as protected areas within 3 years; no new legal concessions granted in those zones
-- **Create and fund a Global Wildlife Health Authority to coordinate monitoring, data sharing, and rapid response to emerging biodiversity threats** — Operational authority with 20 member states and a global species‑risk database launched within 5 years
+LLM parsing грешка: All LLM backends failed (Groq/OpenRouter/NVIDIA-Kimi/Gemini + local). Last error: OpenRouter rate li
 
 ## Sources (YouTube)
-- [Vanishing Forests: The Devastating Reality of Deforestation in North...](https://www.youtube.com/watch?v=DpLoWNEnkDo)
-  > [DESCRIPTION FALLBACK] From the loss of critical habitats for wildlife to the destruction of important ecosystems, the implications of deforestation are far-reaching and long-lasting. Through powerful...
+- [The Causes of Deforestation, Biodiversity Loss, and Species Extinction, Emphasizing the Impact of - YouTube](https://www.youtube.com/watch?v=QOKYEhkb1WQ)
+  > um just specifically on the subject of deforestation um we're told that forests and trees provide oxygen so how are we how exactly are we causing deforestation biodiversity loss and species Extinction...
+
+- [How Deforestation and Habitat Loss reduce Biodiversity: Edge Effects and Extinction Debts explained - YouTube](https://www.youtube.com/watch?v=utUttHCCHXk)
+  > every minute an area the size of a soccer or football field depending on where you watch this from is clear-cut in the Amazon basin which because of feedbacks of the forest on its own climate may be o...
+
+- [THE LOSS OF BIODIVERSITY & THE MODERN EXTINCTION - YouTube](https://www.youtube.com/watch?v=idWPwUhNlJw)
+  > Okay, welcome everyone. So, we've already had a request and the request is not to be depressing. Uh, so that's a tough request tonight. Um, but I I thought that I could kind of uh begin with this stat...
 
 ## Sources (RSS)
 - [Global](https://iucn.org/our-work/region/global)
