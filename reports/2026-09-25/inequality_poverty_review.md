@@ -1,24 +1,24 @@
 # INEQUALITY POVERTY REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Gaza reconstruction is underfunded and lacks effective local leadership, risking failure of the $71 bn rebuilding effort and prolonging extreme poverty.
+Poverty is rising and inequality widening in Asia and the region; corruption is highlighted as a hidden barrier.
 
 ## Root Cause
-Political fragmentation and weak governance structures prevent coordinated allocation of aid and efficient implementation of reconstruction projects.
+Corruption: it remains undetected and unaddressed, leading to persistent poverty and inequality.
 
 ## Proposed Actions
-- **Create an independent Gaza Reconstruction Authority (GRA) that includes representatives from Palestinian authorities, local NGOs, and international donors, and manage pledged funds through a transparent escrow system.** — Release 30 % of the $71 bn pledged funds into the escrow account within 12 months and rebuild 10 000 housing units in the first year.
-- **Implement a publicly accessible progress dashboard that tracks reconstruction milestones, fund disbursement, and poverty indicators.** — Dashboard updates published monthly with at least 90 % of data verified by third‑party auditors.
+- **Increase transparency and accountability mechanisms to detect and punish corruption.** — Reduced number of reported corruption cases vs baseline.
+- **Implement gender equality policies and support for women workers in the seafood processing sector.** — Increased participation of women in decision-making processes; reduced exploitation rates.
 
 ## Sources (YouTube)
-- [Extreme Poverty Latinoamerican Countries 1982 - 2025 - YouTubeWhy is Latin America so poor? - YouTubeDisparity Film – Real AidThe quest to end poverty | TED PlaylistThe changing faces of poverty in Latin America and the ...The 7 Best Documentaries About Poverty - DocumentaryTubeA tale of two realities: The uneven fight against poverty and ...](https://www.youtube.com/watch?v=_9pCgdQrigA)
-  > [DESCRIPTION FALLBACK] Sep 6, 2025 · Welcom to Wolf Data, from 1982 to 2025, extreme poverty in Latin America has shown dramatic shifts, shaped by economic crises, recovery phases, and global shocks. ...
+- [Why Are Southeast Asian Countries Economically Poor? - YouTubeWhy Is Southeast Asia Still Poor - YouTubeSoutheast Asia: Migrant fishers & seafood processing workers ...Poverty is rising and inequality widening in Asia and the ...Poverty in SouthEast Asia - ArcGIS StoryMapsPoverty and income inequality: Society at a Glance: Asia ...Confronting the Plastic and Waste Crises in Southeast Asia ...](https://www.youtube.com/watch?v=HYSVr6QmQ6g)
+  > [DESCRIPTION FALLBACK] Nov 15, 2024 · Why Are Southeast Asian Countries Economically Poor? Explore the key reasons behind poverty in Southeast Asia, from colonial history to political challenges, uneq...
 
-- [Why is Latin America so poor? - YouTubeDisparity Film – Real AidThe quest to end poverty | TED PlaylistThe changing faces of poverty in Latin America and the ...The 7 Best Documentaries About Poverty - DocumentaryTubeA tale of two realities: The uneven fight against poverty and ...](https://www.youtube.com/watch?v=nzNaXX7iL9E)
-  > [DESCRIPTION FALLBACK] Apr 10, 2026 · You can start your claim in just a click without having to leave your couch: https://www.forthepeople.com/KenLaCorte "For centuries, Latin America has struggled w...
+- [Why Is Southeast Asia Still Poor - YouTubeSoutheast Asia: Migrant fishers & seafood processing workers ...Poverty is rising and inequality widening in Asia and the ...Poverty in SouthEast Asia - ArcGIS StoryMapsPoverty and income inequality: Society at a Glance: Asia ...Confronting the Plastic and Waste Crises in Southeast Asia ...](https://www.youtube.com/watch?v=EV8l0uvpnDI)
+  > [DESCRIPTION FALLBACK] Oct 26, 2025 · In this video, we break down the *5 real reasons* Southeast Asia lags behind East Asia in development—**and why corruption is the #1 hidden barrier** most people ...
 
 ## Sources (RSS)
 - [Yemen Cannot Wait](https://www.oxfam.org/en/press-releases/yemen-cannot-wait)
