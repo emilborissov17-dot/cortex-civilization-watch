@@ -1,22 +1,23 @@
 # FOOD REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Resurgence of the New World screwworm parasite in the United States, threatening livestock, wildlife, pets, and potentially humans
+645 vs previous years: down by 14 million vs 2024; down by 43 million vs 2022; so it is lower than both before, which is good news.
 
 ## Root Cause
-Loss of continuous eradication measures combined with climate-driven northward range expansion and insufficient long‑term monitoring
-
-## Proposed Actions
-- **Re‑implement a Sterile Insect Technique (SIT) release program targeting screwworm flies in affected and bordering regions** — Achieve an 80% reduction in reported screwworm infestations within 24 months of program start
-- **Expand and fund the UC San Diego tracking system for early detection and rapid response across state borders** — Detect 95% of new infestations within 48 hours of occurrence
-- **Develop and deploy a livestock vaccine or prophylactic treatment against screwworm larvae** — Vaccinate 70% of high‑risk cattle herds in the next 5 years, with a measurable drop in mortality rates
+Global hunger reduction driven by factors such as conflict, climate shocks, and economic uncertainty; the decrease is not due to any specific cause but rather a trend.
 
 ## Sources (YouTube)
-- [State of Food Security and Nutrition in The World 2025Global Food Security Crisis 2025: Solutions to End HungerThe State of Food Security and Nutrition in the WorldThe State of Food Security and Nutrition in the World 2025The State of Food Security and Nutrition in the World 2025The State of Food Security and Nutrition in the World 20252025 Digital Dialogues - The World Food Prize - Improving the ...](https://www.youtube.com/watch?v=jZwPIMk-HoM)
-  > [DESCRIPTION FALLBACK] Jul 28, 2025 · For the first time since 2019, the latest joint UN agency hunger report shows progress. The State of Food Security and Nutrition in the World 2025 reports that be...
+- [State of Food Security and Nutrition in The World 2025 - YouTube](https://www.youtube.com/watch?v=jZwPIMk-HoM)
+  > For the first time since 2019, the latest joint UN agency hunger report shows progress. The state of food security and nutrition in the world of 2025 reports that between 638 and 720 million people fa...
+
+- [The State of Food and Agriculture 2025 - YouTube](https://www.youtube.com/watch?v=MOJGEn_HC8I)
+  > As the Food and Agriculture Organization of the United Nations marks 80 [music] years since its creation, we reflect on 8 decades of agricultural development driving [music] transformative change and ...
+
+- [State of Food Security and Nutrition in The World 2026 - YouTube](https://www.youtube.com/watch?v=1-ESnaTpKVU)
+  > In a world marked by conflict, climate shocks, and [music] economic uncertainty, it is easy to believe hunger can only get worse. But in 2025, [music] world hunger fell for the third consecutive year....
 
 ## Sources (RSS)
 - [Scientists discover a hidden “ID card” in cat urine](https://www.sciencedaily.com/releases/2026/09/260919031033.htm)
