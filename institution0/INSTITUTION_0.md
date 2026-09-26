@@ -18,6 +18,11 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 
 **Seal.** Merkle root `3d0ac18840bd1f8703737e15f7bd1eb260b50656695728605832cc95d54181c2` over the exact bytes of `experiments/institution/forward/F-001.json` (sha256 `4efc4c3d7fcfb4d188bbe3f5e1db48b72167ee351bfd814d6538a60acab70a60`, 6971 bytes) + previous root `9687c512f6b3b6e1a7c4eab4ab6d6f48ddc89b22f34569bd8a2c13e37a5b7d0f` + writer {"pid": 75904, "process": "register_forward_row.py", "commit": "091edbb67a8d2224740e2deb1733470d962a003d"}.
 
+**Revisions** (append-only, beside the row; the row's bytes are unchanged).
+
+- R1 (2026-09-25, unclassified, in force; sha256 `cf9b6e6a0611265c`): addressee = {"parties": ["Government of the Democratic Republic of the Congo", "AFC/M23"], "mediator": "State of Qatar (Doha process)", "delivery": "NOT DELIVERED — channel to be chosen by Emil; a resolution is delivered together with its result"}
+- R2 (2026-09-26, restatement, in force; sha256 `5750139d4dcd26ac`): p_not_kept restated with Laplace (k+1)/(n+2) = (10+1)/(13+2) = 0.7333 over 2025-08 .. 2026-08; original 0.7692 (10/13, 2025-08 .. 2026-08 (13 calendar months)) kept
+
 ## F-002 — SUCCESSOR — Jeddah Declaration of Commitment to Protect the Civilians of Sudan (2023-05-11)
 
 *RSF, signatory at Jeddah, is the leading component of SFA as UCDP codes it; the link is confirmed by Emil, not by UCDP*
@@ -34,6 +39,10 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 **Baseline (as_of ucdp:26.0.8).** Pre-commitment 2022-05-11 .. 2023-05-10: mean 0.0 fatalities/month (0 because dyad 18621 did not exist before 2025-02 - not because there was no fighting.). Post-commitment 2023-06 .. 2026-08 (39 calendar months): 19 of 39 months at or above the threshold -> p_not_kept = 0.4872. The 20 zero months 2023-06..2025-01 are before the SFA string existed; see successor_reference.
 
 **Seal.** Merkle root `26c0e80d80a870e516bfe6cb4aad165bab2d7006b8dbfb3e3c08e45e30e8d7a1` over the exact bytes of `experiments/institution/forward/F-002.json` (sha256 `77d2902e54935e01ffe2d3f85379e7f04ffad5bd7351194a8b086cc69cdf99e8`, 6682 bytes) + previous root `f39d68c7d9ac7750b736b1666b1f66e36fb9972a11b2a5107d9a5804c24850b3` + writer {"pid": 105844, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
+
+**Revisions** (append-only, beside the row; the row's bytes are unchanged).
+
+- R1 (2026-09-26, restatement, in force; sha256 `13b4856c3f0101e9`): p_not_kept restated with Laplace (k+1)/(n+2) = (19+1)/(19+2) = 0.9524 over 2025-02 .. 2026-08, successor only, from 2025-02 (SFA coded from then); original 0.4872 (19/39, 2023-06 .. 2026-08 (39 calendar months)) kept
 
 ## F-003 — PROXY — Washington Accord — Peace Agreement between the DRC and the Republic of Rwanda (2025-06-27)
 
@@ -52,7 +61,11 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 
 **Seal.** Merkle root `42ebb2ff0b5b70f97ffef68794fc79fa568b4a1d839cf618b26481238c80b937` over the exact bytes of `experiments/institution/forward/F-003.json` (sha256 `6eb1d8114764025098294657388a40b99f93f6522974fd805a47b5651d3882e9`, 5132 bytes) + previous root `26c0e80d80a870e516bfe6cb4aad165bab2d7006b8dbfb3e3c08e45e30e8d7a1` + writer {"pid": 105684, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
 
-## F-004 — Gaza ceasefire and hostage-release agreement accepted by the parties (2025-01-19)
+**Revisions** (append-only, beside the row; the row's bytes are unchanged).
+
+- R1 (2026-09-26, restatement, in force; sha256 `f50901d0e7c912e7`): p_not_kept restated with Laplace (k+1)/(n+2) = (10+1)/(14+2) = 0.6875 over 2025-07 .. 2026-08; original 0.7143 (10/14, 2025-07 .. 2026-08 (14 calendar months)) kept
+
+## F-004 — SENTINEL — Gaza ceasefire and hostage-release agreement accepted by the parties (2025-01-19)
 
 Registered 2026-09-26 by Emil, chat 2026-09-26 ('да'). Liveness: pending Emil's SIGN.
 Lane I-1: pre-registered; OPEN; no measurement yet.
@@ -66,6 +79,18 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 **Baseline (as_of ucdp:26.0.8).** Pre-commitment 2024-01-19 .. 2025-01-18: mean 1588.42 fatalities/month (Every month of the window is far above the threshold.). Post-commitment 2025-02 .. 2026-08 (19 calendar months): 19 of 19 months at or above the threshold -> p_not_kept = 1.0.
 
 **Seal.** Merkle root `f8ba811282449c4fb3c46bdaaf7da4c8077d15b0a49a0b9afcfeca3913b43957` over the exact bytes of `experiments/institution/forward/F-004.json` (sha256 `ad1fa611d5668f369351e07174258aaf1254b162e8f17568f58a0bd37e04c756`, 4877 bytes) + previous root `42ebb2ff0b5b70f97ffef68794fc79fa568b4a1d839cf618b26481238c80b937` + writer {"pid": 103592, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
+
+**Revisions** (append-only, beside the row; the row's bytes are unchanged).
+
+- R1 (2026-09-26, restatement, in force; sha256 `7936fc140f9aa9df`): p_not_kept restated with Laplace (k+1)/(n+2) = (19+1)/(19+2) = 0.9524 over 2025-02 .. 2026-08; original 1.0 (19/19, 2025-02 .. 2026-08 (19 calendar months)) kept
+- R2 (2026-09-26, restatement, in force; sha256 `1a1bac2142f70aef`): label = SENTINEL
+
+## Hit rate
+
+A hit: the baseline's call - NOT KEPT if its p_not_kept (Laplace where restated) is at least 0.5, else KEPT - equals the newest KEPT / NOT KEPT resolution.
+
+- all rows: no resolved row yet (0/0)
+- without SENTINEL rows: no resolved row yet (0/0)
 
 ## Retrospective rows (method validation, as_of ucdp:26.0.8)
 
