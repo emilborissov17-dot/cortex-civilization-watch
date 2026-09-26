@@ -1,29 +1,26 @@
 # SOCIAL RELATIONS REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** MEDIUM
 
 ## Problem
-Government-imposed restrictions on White House press access that barred major media outlets (CNN, Politico, MS NOW) from covering the executive branch.
+Special agents' blood and urine test results stolen in FBI hack; critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.
 
 ## Root Cause
-Executive decision by the Trump administration to limit media based on perceived hostility, combined with weak institutional safeguards for press freedom.
+The hack exposed sensitive personal information, including medical records, which can be used to manipulate voter registration processes.
 
 ## Proposed Actions
-- **Pass a bipartisan federal law establishing an independent, transparent press credentialing board with clear, objective criteria and judicial review for denials.** — 100% of accredited national news outlets retain uninterrupted White House access for at least one year after enactment.
-- **Create a public dashboard that logs all press credential requests, approvals, and denials in real time.** — Dashboard operational within 6 months; >90% of credential actions documented within 24 hours.
+- **Enhance cybersecurity measures for FBI databases; improve data quality assurance procedures;** — Reduce the number of exposed sensitive personal information by 50% within one year.
+- **Monitor and investigate any suspicious activities related to voter registration processes; inform citizens about potential risks and how to protect their information.** — Detect and prevent at least one incident where US citizens were wrongly removed from electoral rolls within the next six months;
 
 ## Sources (YouTube)
-- [The Cohesion Policy Paradox: Closing the Gap Between ...Mapping Social Cohesion 2025 report webinar mp4 - YouTubeNew project to reimagine social cohesion in light of tensionsWorld Social Report 2025: A New Policy Consensus to ...The Glue and the Gap: How News Shapes Social Cohesion and TrustWhat the government’s plan for social cohesion gets wrong ...Social cohesion: A snapshot - More In Common](https://www.youtube.com/watch?v=EcmKEuRSAxs)
-  > [DESCRIPTION FALLBACK] Jul 21, 2026 · The EU’s Cohesion Policy may undergo profound changes in the years ahead. But how has it shaped the countries on the EU’s eastern flank? Oct 22, 2025 · Watch the ...
-
-- [Mapping Social Cohesion 2025 report webinar mp4 - YouTubeNew project to reimagine social cohesion in light of tensionsWorld Social Report 2025: A New Policy Consensus to ...The Glue and the Gap: How News Shapes Social Cohesion and TrustWhat the government’s plan for social cohesion gets wrong ...Social cohesion: A snapshot - More In Common](https://www.youtube.com/watch?v=E41Lce2jKIQ)
-  > [DESCRIPTION FALLBACK] Oct 22, 2025 · Watch the full recording of our session exploring the latest findings from the Mapping Social Cohesion Report 2025 and the conversations that followed at the Aust...
+- [Inequality Mathematical Induction Proof: 2^n greater than... - YouTube](https://www.youtube.com/watch?v=0VIIRBLH1WI)
+  > [DESCRIPTION FALLBACK] In this video I give a proof by induction to show that 2^n is greater than n^2. Proofs with inequalities and induction take a lot of effort to learn and are ......
 
 ## Sources (RSS)
+- [Weekly: 9.26.26](https://www.pewresearch.org/newsletter/weekly-roundup/weekly-9-26-26/)
 - [Judge orders White House to restore access for CNN, MS NOW, Politico](https://www.pewresearch.org/newsletter/the-briefing/the-briefing-2026-09-24/)
 - [Americans’ views of China have warmed in recent years](https://www.pewresearch.org/short-reads/2026/09/23/americans-views-of-china-have-warmed-in-recent-years/)
-- [Religion weekly update, Sept. 23, 2026](https://www.pewresearch.org/newsletter/religion-weekly/religion-weekly-update-sept-23-2026/)
 
 
 ---
