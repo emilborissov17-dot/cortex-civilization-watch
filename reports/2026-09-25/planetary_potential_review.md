@@ -1,27 +1,30 @@
 # PLANETARY POTENTIAL REVIEW
 **Date:** 2026-09-25
 
-**Severity:** CRITICAL
+**Severity:** HIGH
 
 ## Problem
-Observed weakening of the Atlantic Meridional Overturning Circulation (AMOC) across a wide stretch of ocean for nearly two decades
+Atlantic Meridional Overturning Circulation (AMOC) is weakening across a wide stretch of the Atlantic Ocean, posing global climate instability.
 
 ## Root Cause
-Anthropogenic climate change increasing ocean surface warming and freshwater input from melting ice and increased precipitation, which reduces seawater density and disrupts the thermohaline circulation
+Warming of surface waters and increased freshwater input from melting ice and increased precipitation, driven by anthropogenic greenhouse‑gas emissions, reduce water density and impede the sinking component of the AMOC.
 
 ## Proposed Actions
-- **Implement and enforce legally binding net‑zero emissions targets for all major economies by 2050, with interim milestones every 5 years** — Annual global CO2 emissions reduced to ≤30 GtCO2 by 2030 and ≤0 GtCO2 net by 2050; corresponding slowdown in global mean surface temperature rise to <1.5 °C
-- **Scale up verified negative emissions technologies (afforestation, direct air capture, soil carbon sequestration) to remove at least 10 GtCO2 per year by 2035** — Verified removal of 10 GtCO2/year reported in international registries
-- **Establish a dedicated AMOC monitoring network (satellite altimetry, Argo floats, deep‑sea observatories) with real‑time data sharing for climate models** — Continuous high‑resolution AMOC strength dataset available to researchers and policymakers by 2027
+- **Accelerate decarbonisation to achieve net‑zero CO₂ emissions by 2050, with an interim target of ≤25 GtCO₂ per year by 2030.** — Annual global CO₂ emissions reported in the UNFCCC inventory meet the 2030 target and show a downward trajectory toward net‑zero by 2050.
+- **Deploy a coordinated AMOC monitoring network of autonomous floats, moorings, and satellite altimetry covering >90 % of the Atlantic basin.** — Continuous, high‑resolution salinity and temperature datasets available for real‑time analysis by 2027.
+- **Integrate AMOC health indicators into national climate‑risk assessments and adaptation planning.** — All G20 nations publish AMOC‑risk sections in their NDCs and climate‑adaptation strategies by 2026.
 
 ## Sources (YouTube)
-- [Into The Wild, With Dane Wigington, New Series ( Geoengineering...)](https://www.youtube.com/watch?v=lxt-98227Bk)
-  > [DESCRIPTION FALLBACK] This documentary film will provide answers and proof of the ongoing climate engineering / weather warfare operations. This is a 4+ minute trailer on the upcoming film. •...
+- [Planetary Boundaries: Navigating Our Limits - YouTubeEarth’s Tipping Point: Johan Rockström on the Science of ...Planetary Boundaries: Navigating Our LimitsPlanetary Boundaries - Stockholm Resilience CentreGeoengineering Watch - RumbleWatch Breaking Boundaries: The Science Of Our Planet ...‘Planetary boundaries’ necessary for flourishing of life have ...](https://www.youtube.com/watch?v=tG-hh-gSKFQ)
+  > [DESCRIPTION FALLBACK] Jul 13, 2025 · Rockström delves into the relationship between planetary boundaries and climate tipping points, emphasizing that the boundaries are scientifically set to avoid tr...
+
+- [Earth’s Tipping Point: Johan Rockström on the Science of ...Planetary Boundaries: Navigating Our LimitsPlanetary Boundaries - Stockholm Resilience CentreGeoengineering Watch - RumbleWatch Breaking Boundaries: The Science Of Our Planet ...‘Planetary boundaries’ necessary for flourishing of life have ...](https://www.youtube.com/watch?v=J9rjiv53s5g)
+  > [DESCRIPTION FALLBACK] May 25, 2026 · Today, that stability is under increasing pressure. The planetary boundaries framework helps explain why—identifying the critical thresholds that maintain the bal...
 
 ## Sources (RSS)
+- [Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)
 - [Scientists find two tiny new snails with shells that close like doors](https://www.sciencedaily.com/releases/2026/09/260923035936.htm)
 - [The “big one” might not come alone: Two major West Coast faults may strike back to back](https://www.sciencedaily.com/releases/2026/09/260922222730.htm)
-- [Scientists say a critical Atlantic Ocean current is weakening and the effects could be global](https://www.sciencedaily.com/releases/2026/09/260922222558.htm)
 
 
 ---
