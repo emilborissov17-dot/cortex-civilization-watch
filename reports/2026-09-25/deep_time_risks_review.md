@@ -1,24 +1,22 @@
 # DEEP TIME RISKS REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** CRITICAL
 
 ## Problem
-Small near‑Earth asteroids are detected only hours before possible impact, leaving insufficient warning time for mitigation.
+A ~61 million ton asteroid is on a trajectory toward Earth, creating an imminent impact risk
 
 ## Root Cause
-Limited sky‑survey coverage and funding for detecting sub‑100 cm NEOs, and lack of a coordinated global planetary‑defence mandate.
+Insufficient early‑detection and planetary‑defense infrastructure, combined with a lack of coordinated international response mechanisms for near‑Earth objects
 
 ## Proposed Actions
-- **Expand and integrate ground‑based telescopes with a dedicated space‑based infrared survey (e.g., launch a next‑generation NEO Surveyor) to achieve at least 7‑day warning for >80 cm objects.** — Detect 90 % of 0.5–1 m NEOs with a minimum of 7‑day lead time by 2035.
-- **Establish an international planetary‑defence coordination center that obliges all detection assets to share data in real time and develops rapid response strategies.** — Operational coordination center with 24/7 data exchange among at least 15 nations by 2028.
+- **Deploy a space‑based infrared survey telescope (e.g., a follow‑on to NEOWISE) within 12 months to refine the asteroid's orbit and size** — Achieve orbital uncertainty reduction to <100 km by Q4 2027
+- **Establish a UN‑mandated Planetary Defense Task Force to design, test, and, if needed, launch a kinetic‑impactor or nuclear‑deflection mission within 24 months** — Mission concept approved and prototype tested by mid‑2028; launch readiness achieved by early 2029
+- **Negotiate an international treaty that obliges signatory nations to contribute resources and share data for any confirmed impact‑threat object** — Treaty signed by at least 30 major space‑faring nations by 2029
 
 ## Sources (YouTube)
-- [Asteroid Impact on Earth | NASA USA Space View - YouTubeWhat happens when an asteroid hits Earth? #space # ... - YouTubeCity Killer Watch – Asteroid Impact Countdown & NewsNext Asteroid Close Approaches – NASA JPL Watch | NASA Jet ...Eyes on Asteroids - NASA/JPLAsteroid Alerts — asteroid flybys, fireballs & sky eventsEyes on Asteroids - NASA Jet Propulsion Laboratory (JPL)](https://www.youtube.com/watch?v=GgbNfl1_WIU)
-  > [DESCRIPTION FALLBACK] Sep 11, 2025 · From the fiery entry to the massive smoke cloud, this cinematic simulation shows how catastrophic an impact could look. Sep 15, 2026 · A telescope at Mount Lemmon...
-
-- [What happens when an asteroid hits Earth? #space # ... - YouTube](https://www.youtube.com/watch?v=Su0Fzecyn9k)
-  > [DESCRIPTION FALLBACK] Sep 15, 2026 · A telescope at Mount Lemmon in Arizona spotted asteroid 2026 RW1 about six hours before impact. It was tiny - around 80 centimetres across....
+- [It's INEVITABLE: when to expect a threat from space? - YouTube](https://www.youtube.com/watch?v=5b5stZq98Ls)
+  > [DESCRIPTION FALLBACK] The Earth is not immune to impacts from space. Incidentally, an asteroid weighing approximately 61 million tons is currently heading toward Earth. Solar flares not only cause ma...
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
