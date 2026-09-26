@@ -4,21 +4,22 @@
 **Severity:** HIGH
 
 ## Problem
-Significant decline in the number of male teachers in K-12 education, leading to gender imbalance in the teaching workforce.
+Widespread education inequality in Southeast Asia, where children from disadvantaged socioeconomic, linguistic, and geographic backgrounds have significantly lower access to quality K-12 education.
 
 ## Root Cause
-Deep‑seated societal gender stereotypes and unchecked assumptions about teacher motivations, combined with recruitment practices that unintentionally favor female candidates.
+Systemic under‑investment in rural and low‑income schools, insufficient teacher training, and lack of scalable, culturally‑adapted learning resources, compounded by policy gaps that fail to address demographic biases.
 
 ## Proposed Actions
-- **Launch a gender‑neutral teacher recruitment campaign that highlights the value of male role models, includes mentorship programs for male teachers, and sets targets for gender balance in hiring.** — Increase the proportion of male teachers from the current level to at least 15% of the total teaching staff within three years.
-- **Mandate annual reporting on teacher gender composition and bias training for hiring panels to identify and eliminate hidden assumptions.** — All schools publish gender‑composition data each academic year; bias‑training completion rate reaches 100% of hiring committees.
+- **Deploy open‑source, AI‑driven adaptive learning platforms (e.g., Learning Commons) in underserved schools, with localized curricula and multilingual support.** — Increase the proportion of disadvantaged students meeting national competency benchmarks by 15% within three years.
+- **Implement mandatory AI‑literacy and inclusive pedagogy training for teachers in low‑performing districts.** — Certify 80% of teachers in target districts within two years and achieve a 20% improvement in classroom engagement scores.
+- **Establish a regional education equity fund financed by a modest levy on technology companies operating in the region.** — Generate $200 million annually to upgrade infrastructure (internet, power) in 500 rural schools within five years.
 
 ## Sources (YouTube)
-- [2025 UNESCO Confucius Prize for Literacy highlights global ...National Adult Literacy Agency in Ireland awarded the 2025 ...UNESCO Literacy Prizes 2025 spotlight literacy in the digital eraLiteracy - UNESCOGlobal celebration of International Literacy Day 2025 ...Global celebration of International Literacy Day 2025UNESCO’s Global Education Monitoring Report 2025](https://www.youtube.com/watch?v=-SG9a5M-KCI)
-  > [DESCRIPTION FALLBACK] Sep 28, 2025 · For more:https://www.cgtn.com/videoIn Qufu, the birthplace of Confucius in east China's Shandong Province, the 20th UNESCO Confucius Prize for Literacy was ... Se...
+- [Why Southeast Asia’s Education System Needs an Overhaul The ...](https://www.youtube.com/watch?v=Yh84bySIisY)
+  > [DESCRIPTION FALLBACK] Nov 13, 2024 · In this video, we dive deep into the complex issues of education inequality and education quality across Southeast Asia....
 
-- [National Adult Literacy Agency in Ireland awarded the 2025 ...UNESCO Literacy Prizes 2025 spotlight literacy in the digital eraLiteracy - UNESCOGlobal celebration of International Literacy Day 2025 ...Global celebration of International Literacy Day 2025UNESCO’s Global Education Monitoring Report 2025](https://www.youtube.com/watch?v=-OOoFZVzNtc)
-  > [DESCRIPTION FALLBACK] Sep 9, 2025 · National Adult Literacy Agency in Ireland awarded the 2025 UNESCO Confucius Prize for Literacy Sep 8, 2025 · The 2025 Prizes were awarded during a global celebrati...
+- [Why do East Asia’s education systems lead the world? - YouTubeEducation | UNICEF Asia PacificLow-quality teachers, rural dropouts, learning divides: Can ...Transforming Education in Asia and the Pacific - UNESCORegional Meeting on Education for Sustainable Peace in ...Improving the quality of basic education in ASEAN–Emerging ...](https://www.youtube.com/watch?v=tg-8ZulfZH8)
+  > [DESCRIPTION FALLBACK] PISA, the OECD’s global test for 15-year-olds in mathematics, reading and science, shows that many of the strongest performers are located in East Asia. In Southeast Asia, child...
 
 ## Sources (RSS)
 - [Why AI Made Me a Better Principal](https://edsurge.com/news/why-ai-made-me-a-better-principal)
