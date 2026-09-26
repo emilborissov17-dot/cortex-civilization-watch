@@ -4,16 +4,19 @@
 **Severity:** HIGH
 
 ## Problem
-Critical launch missions (e.g., SpaceX Starship orbital flight) are delayed pending Federal Aviation Administration (FAA) final approval, creating scheduling uncertainty for key space infrastructure development.
+Increasing number of classified military space launches (e.g., USSF-385 on a Falcon 9) reduces transparency and raises the risk of space weaponization.
 
 ## Root Cause
-Regulatory bottlenecks at the FAA, including limited staffing and a lack of streamlined review processes for high‑frequency, high‑complexity launch operations.
+National security priorities drive the use of commercial launch assets for classified missions, coupled with limited civilian oversight and weak international norms on militarization of space.
 
 ## Proposed Actions
-- **Allocate additional resources to the FAA to create a dedicated rapid‑review team for reusable heavy‑lift launch systems and implement a parallel, risk‑based review pathway.** — Reduce average FAA final‑approval time for Starship-class launches from current ~30 days to ≤21 days, measured quarterly.
-- **Establish a joint industry‑agency working group to pre‑validate safety data and streamline documentation requirements before formal submission.** — Achieve at least 80% of required safety documentation pre‑approved before formal review, tracked per launch campaign.
+- **Mandate public disclosure of mission objectives and payload categories for all orbital launches, even if classified, through a de‑conflict process with the DoD.** — All U.S. orbital launches have a publicly available summary within 30 days of launch; compliance rate reaches 100% within 2 years.
+- **Create an international civilian oversight board under the United Nations Office for Outer Space Affairs (UNOOSA) to review and certify that launch activities comply with peaceful‑use treaties.** — Board convenes quarterly and issues compliance reports for 90% of launches by 2028.
 
 ## Sources (YouTube)
+- [Space Station Operations Update (Sept. 28, 2026)](https://www.youtube.com/watch?v=j9epFget1W8)
+  > [DESCRIPTION FALLBACK] Leaders from NASA and Boeing hold a news conference at NASA's Kennedy Space Center to provide updates on Starliner development and plans for crew flights to and from the Interna...
+
 - [Progress 96 Cargo Ship Docking](https://www.youtube.com/watch?v=v03RjDNwG1o)
   > [DESCRIPTION FALLBACK] Watch live as the unpiloted Progress 96 resupply spacecraft docks autonomously to the International Space Station. Docking is set to happen around 9:46 a.m. EDT (1346 UTC).
 
@@ -21,11 +24,6 @@ Pro...
 
 - [NASA’s SpaceX Crew-12 Pre-Departure News Conference (Sept. 16, 2026)](https://www.youtube.com/watch?v=aujP8wuMTMI)
   > [DESCRIPTION FALLBACK] Tune in as the four members of NASA's SpaceX Crew-12 — NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmona...
-
-- [Progress 96 Cargo Ship Launch](https://www.youtube.com/watch?v=cCpf0BOjlLE)
-  > [DESCRIPTION FALLBACK] A spacecraft carrying food, fuel, and supplies is launching to the International Space Station. Watch along with us.
-
-The unpiloted Progress 96 resupply spacecraft is scheduled ...
 
 ## Sources (RSS)
 - [True or false on space industry trends with Pacôme Révillon](https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/)
