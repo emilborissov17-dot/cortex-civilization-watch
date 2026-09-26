@@ -1,7 +1,7 @@
 # Institution 0 — forward rows
 
 > Counts, not causes. Attribution is UCDP's, not ours.
-> Each fatality counted here is a person whose life ended in violence that a signed commitment promised would stop; we count the events because dignity itself cannot be scored, and the count is not the goal — the absence of the events is.
+> A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## F-001 — Doha Declaration of Principles — Government of the DRC and the AFC/M23 (2025-07-19)
 
@@ -22,6 +22,7 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 
 - R1 (2026-09-25, unclassified, in force; sha256 `cf9b6e6a0611265c`): addressee = {"parties": ["Government of the Democratic Republic of the Congo", "AFC/M23"], "mediator": "State of Qatar (Doha process)", "delivery": "NOT DELIVERED — channel to be chosen by Emil; a resolution is delivered together with its result"}
 - R2 (2026-09-26, restatement, in force; sha256 `5750139d4dcd26ac`): p_not_kept restated with Laplace (k+1)/(n+2) = (10+1)/(13+2) = 0.7333 over 2025-08 .. 2026-08; original 0.7692 (10/13, 2025-08 .. 2026-08 (13 calendar months)) kept
+- R3 (2026-09-26, signed_wording, in force, signed by Emil; sha256 `c34125583a783f1d`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## F-002 — SUCCESSOR — Jeddah Declaration of Commitment to Protect the Civilians of Sudan (2023-05-11)
 
@@ -43,6 +44,8 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 **Revisions** (append-only, beside the row; the row's bytes are unchanged).
 
 - R1 (2026-09-26, restatement, in force; sha256 `13b4856c3f0101e9`): p_not_kept restated with Laplace (k+1)/(n+2) = (19+1)/(19+2) = 0.9524 over 2025-02 .. 2026-08, successor only, from 2025-02 (SFA coded from then); original 0.4872 (19/39, 2023-06 .. 2026-08 (39 calendar months)) kept
+- R2 (2026-09-26, semantics, PENDING Emil's signature - not in force; sha256 `83a6f5136ab8e52c`): assumption = {"risk": "SFA = successor of RSF (Emil, not UCDP)", "outcome_if_broken": "ASSUMPTION_BROKEN", "broken_if": "UCDP codes state-based events in the window with side_a 'Government of Sudan' to a dyad other than the registered one whose side_b names RSF or SFA", "registered_dyad_new_id": 18621, "side_a": "Government of Sudan", "side_b_patterns": ["RSF", "SFA"], "country": "Sudan", "country_gwno": 625}
+- R3 (2026-09-26, signed_wording, PENDING Emil's signature - not in force; sha256 `7456f0e236ee71f4`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## F-003 — PROXY — Washington Accord — Peace Agreement between the DRC and the Republic of Rwanda (2025-06-27)
 
@@ -64,6 +67,7 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 **Revisions** (append-only, beside the row; the row's bytes are unchanged).
 
 - R1 (2026-09-26, restatement, in force; sha256 `f50901d0e7c912e7`): p_not_kept restated with Laplace (k+1)/(n+2) = (10+1)/(14+2) = 0.6875 over 2025-07 .. 2026-08; original 0.7143 (10/14, 2025-07 .. 2026-08 (14 calendar months)) kept
+- R2 (2026-09-26, signed_wording, PENDING Emil's signature - not in force; sha256 `f3b241549b3f19a3`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## F-004 — SENTINEL — Gaza ceasefire and hostage-release agreement accepted by the parties (2025-01-19)
 
@@ -84,6 +88,7 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 
 - R1 (2026-09-26, restatement, in force; sha256 `7936fc140f9aa9df`): p_not_kept restated with Laplace (k+1)/(n+2) = (19+1)/(19+2) = 0.9524 over 2025-02 .. 2026-08; original 1.0 (19/19, 2025-02 .. 2026-08 (19 calendar months)) kept
 - R2 (2026-09-26, restatement, in force; sha256 `1a1bac2142f70aef`): label = SENTINEL
+- R3 (2026-09-26, signed_wording, PENDING Emil's signature - not in force; sha256 `39dd42682fffc408`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## Hit rate
 
