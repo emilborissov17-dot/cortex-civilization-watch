@@ -1,29 +1,25 @@
 # ECONOMY WORK REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** UNKNOWN
 
 ## Problem
-Sharp increase in reported assaults on Britain's rail services, affecting passenger and worker safety
+Анализ на ECONOMY_WORK_REVIEW — данни получени но LLM грешка
 
 ## Root Cause
-Insufficient security resources, rising societal stress, and weak enforcement of anti‑violence policies on public transport
-
-## Proposed Actions
-- **Increase dedicated security staff on trains and stations by 30% and deploy AI‑driven video analytics to identify and deter violent behavior** — Reduce reported assault incidents by 20% within 12 months
-- **Launch a nationwide public awareness campaign on the legal consequences of rail violence and promote bystander intervention** — Achieve a 15% increase in public reporting of incidents and a 10% drop in repeat offenders within 18 months
+LLM parsing грешка: Не може да се parse JSON от LLM отговор: {"root_cause": "Inflation; unemployment; currency collapse;
 
 ## Sources (YouTube)
-- [How Climate Shocks Could Break the Economy | Edmond Rhys ...The Global Economic Impact of Climate Change - YouTubeClimate change–related labour productivity and income lossLabor Impacts of Climate Change – MIT Climate ...Impact of climate change on global economy: A comprehensive ...3 ways the climate crisis is impacting jobs and workersEconomic Consequences of Climate Change: Productivity Decline ...](https://www.youtube.com/watch?v=7onAN_t68t0)
-  > [DESCRIPTION FALLBACK] Dec 8, 2025 · He explores the massive gap between what science tells us about the climate crisis and how the economy measures its impact, advocating for economists to borrow too...
+- [Global Economic Crash Explained: What’s Really HappeningGlobal Economic Collapse 2025 | Inflation, Job Crisis, IMF ...Global Economy Watch - Projections - PwCRecession 2026: What to Watch and How to PrepareGlobal Economic Outlook - The Conference BoardThe economy in 2025 - CNBCRecession Watch 2025 | UCLA Anderson School of Management](https://www.youtube.com/watch?v=BvaigDt1BHw)
+  > [DESCRIPTION FALLBACK] The world is facing major economic shifts in 2025 – from rising inflation to a possible global recession. In this video, we break down the latest global econ... Jul 11, 2025 · W...
 
-- [The Global Economic Impact of Climate Change - YouTubeClimate change–related labour productivity and income lossLabor Impacts of Climate Change – MIT Climate ...Impact of climate change on global economy: A comprehensive ...3 ways the climate crisis is impacting jobs and workersEconomic Consequences of Climate Change: Productivity Decline ...](https://www.youtube.com/watch?v=GHACDpba6Nk)
-  > [DESCRIPTION FALLBACK] Apr 3, 2021 · Adequate domestic policies and a strong global financial safety net, with the IMF at its center, are key to containing the economic fallout and preserving global f...
+- [Global Economic Collapse 2025 | Inflation, Job Crisis, IMF ...](https://www.youtube.com/watch?v=EyNqs_eb7gg)
+  > [DESCRIPTION FALLBACK] Jul 11, 2025 · We will break down the real reasons behind inflation, unemployment, currency collapse, food shortages, IMF conditions, and more — all in very simple English so ev...
 
 ## Sources (RSS)
-- ['We're all broke': Would you chase a friend for £5?](https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss)
-- [Reported assaults on Britain's rail services rise by more than a third](https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss)
-- [Why Australia chose the world's biggest political stage to reveal OpenAI hack](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss)
+- [Sir David Beckham nets £38.5m after World Cup ad deals](https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss)
+- [Man City found guilty of breaking financial rules](https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss)
+- [US backs Elon Musk's bid to overturn €120m EU fine against X](https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss)
 
 
 ---
