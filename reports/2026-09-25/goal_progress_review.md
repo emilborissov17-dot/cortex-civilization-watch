@@ -4,24 +4,24 @@
 **Severity:** HIGH
 
 ## Problem
-Many countries have not established legally binding, clear timelines for phasing out fossil fuel use.
+Coastal communities worldwide face imminent displacement due to accelerating sea‑level rise.
 
 ## Root Cause
-Political and economic inertia driven by dependence on fossil fuel revenues and lack of coordinated international enforcement mechanisms.
+Continued high greenhouse‑gas emissions driving climate change and sea‑level rise, combined with insufficient coordinated adaptation financing and planning for vulnerable coastlines.
 
 ## Proposed Actions
-- **Require each country to submit a nationally determined contribution (NDC) that includes legally binding milestones for 2030 and 2050 emissions reductions, with penalties for non‑compliance.** — All 195 UN member states have approved and published binding milestones within 12 months; annual emissions data shows a cumulative 5% reduction in global CO₂ emissions year‑over‑year.
-- **Create an international climate finance fund that rewards early compliance and penalizes delays through adjusted interest rates on sovereign bonds.** — Mobilize at least $100 billion in climate‑aligned investments within 3 years, linked to verified timeline adherence.
-- **Launch a global public‑awareness campaign, coordinated by the UN, to highlight the urgency of fossil‑fuel phase‑out timelines and empower civil society oversight.** — Achieve a 30% increase in public support for strict transition policies in global surveys within 2 years.
+- **Adopt and implement nationally determined contributions (NDCs) that achieve net‑zero CO₂ emissions by 2050.** — Reduce aggregate national CO₂ emissions by 45 % relative to 2010 levels by 2030.
+- **Establish a Global Coastal Resilience Fund financed by wealthier nations and private capital.** — Mobilise US$50 billion in adaptation financing for vulnerable coastal nations by 2027.
+- **Mandate integrated coastal zone management plans that include migration pathways and infrastructure relocation.** — All UN member states with >1 % of population in low‑lying areas to submit approved adaptation plans by 2025.
 
 ## Sources (YouTube)
-- [Sustainable Development Goals (SDGs) Analysis l Practice ...The Sustainable Development Goals - YouTubeSDG Video Library | SDSN Northern Europe - unsdsn-ne.orgSDG Academy Library | UN SDG:LearnSDG Academy - Free Education for Sustainable DevelopmentSDG Videos - SDG (en)THE 17 GOALS - Sustainable Development](https://www.youtube.com/watch?v=2NERbiYePDg)
-  > [DESCRIPTION FALLBACK] May 3, 2026 · In this video I present practical project analysing the achievements of Sustainable Development Goals (SDGs) in a selected country. This series contains videos int...
+- [SGDs Progress and Challenges - 2026 SDG Moment - YouTube](https://www.youtube.com/watch?v=YRX0DBfkLa8)
+  > [DESCRIPTION FALLBACK] This video explores the progress achieved since the adoption of the Sustainable Development Goals (SDGs) in 2015, highlighting key successes, emerging trends, and areas where ad...
 
 ## Sources (RSS)
+- [LIVE: Six years on from COVID-19, is the world ready for the next pandemic?](https://news.un.org/feed/view/en/story/2026/09/1168437)
+- [‘Rising seas are sinking futures’](https://news.un.org/feed/view/en/story/2026/09/1168430)
 - [Guterres calls on countries to set clear timelines for transition away from fossil fuels](https://news.un.org/feed/view/en/story/2026/09/1168418)
-- [Right to development: A blueprint for unmet promises](https://news.un.org/feed/view/en/story/2026/09/1168405)
-- [DR Congo Ebola outbreak toll exceeds 3,700 deaths](https://news.un.org/feed/view/en/story/2026/09/1168407)
 
 
 ---
