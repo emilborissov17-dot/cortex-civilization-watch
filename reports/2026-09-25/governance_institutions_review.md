@@ -4,27 +4,27 @@
 **Severity:** HIGH
 
 ## Problem
-UNRWA's operational capacity is seriously imperilled due to funding shortfalls and political interference
+Resurgence of armed conflict in Ethiopia as the Tigray People's Liberation Front joins six other groups to attempt to overthrow Prime Minister Abiy Ahmed, leading to widespread violence and humanitarian crisis.
 
 ## Root Cause
-Reliance on voluntary contributions from donor states that are increasingly conditioned by geopolitical disputes, combined with a lack of a stable, assessed funding mechanism for the agency
+Long‑standing political exclusion, weak power‑sharing institutions, and failure of previous ceasefire agreements created a vacuum that armed groups exploit; lack of effective, impartial mediation by regional and international bodies sustains the conflict.
 
 ## Proposed Actions
-- **Adopt a mandatory assessed contribution model for UNRWA that secures a baseline budget covering 100% of core operations** — Achieve at least 95% of UNRWA's 2025 operational budget through assessed contributions within 12 months
-- **Create an independent oversight board for UNRWA funding that includes civil‑society representatives and technical experts** — Board established and quarterly transparency reports published within 6 months
-- **Launch a diversified fundraising campaign targeting private foundations, diaspora communities, and impact investors to cover the remaining budget gap** — Raise at least 10% of the annual budget from diversified sources within 18 months
+- **Launch an urgent UN‑AU joint mediation mission to negotiate a nationwide ceasefire and a political transition framework.** — Signed ceasefire agreement within 90 days and at least 75% reduction in reported armed clashes per week.
+- **Establish protected humanitarian corridors monitored by neutral NGOs (e.g., WFP) to deliver food and medical aid to flood‑affected and conflict‑affected populations.** — Delivery of aid to 80% of identified vulnerable communities within 60 days.
+- **Create a constitutional reform commission inclusive of all major ethnic and political groups to design a power‑sharing model.** — Draft reform proposal presented to Ethiopian Parliament within 12 months.
 
 ## Sources (YouTube)
-- [Crisis? What Crisis? Rethinking Global Governance ... - YouTubeGlobal Governance & International Organizations Explained ...As major powers act unilaterally, experts say UN faces crisis ...Global Governance Innovation Report 2026: Advancing the Pact ...Crisis-driven governance reforms: An analytical framework of ...International Institutions and Global Governance ProgramConflicts to Watch in 2026 - Council on Foreign Relations](https://www.youtube.com/watch?v=w3liwW07-Cg)
-  > [DESCRIPTION FALLBACK] Dec 17, 2025 · In this inaugural lecture, Professor Tom Pegram explores how the language of crisis shapes global politics and the ways we imagine responses to urgent challenges....
+- [Douglas MacGregor: “Trump Isn’t in Control ... - YouTubeThe global system has failed. What do we need to do next ...Geopolitical Economy Report - YouTube Music10 Geopolitics YouTubers You Must Follow in 2026Homepage - Zeihan on GeopoliticsGeopolitical Monitor | Geopolitics News & Risk AnalysisGeopolitics | Latest news and analysis from The Economist](https://www.youtube.com/watch?v=qY74DYikFT4)
+  > [DESCRIPTION FALLBACK] Sep 18, 2026 · Col. Douglas MacGregor delivers a explosive breakdown of the current state of U.S. foreign policy — claiming President Trump is losing control of key decisions as...
 
-- [Global Governance & International Organizations Explained ...As major powers act unilaterally, experts say UN faces crisis ...Global Governance Innovation Report 2026: Advancing the Pact ...Crisis-driven governance reforms: An analytical framework of ...International Institutions and Global Governance ProgramConflicts to Watch in 2026 - Council on Foreign Relations](https://www.youtube.com/watch?v=ZTpbMTFk-sE)
-  > [DESCRIPTION FALLBACK] Nov 1, 2025 · In today’s lecture, we explore how the world works beyond borders — through Global Governance and International Organizations like the United Nations, World Health...
+- [The global system has failed. What do we need to do next ...Geopolitical Economy Report - YouTube Music10 Geopolitics YouTubers You Must Follow in 2026Homepage - Zeihan on GeopoliticsGeopolitical Monitor | Geopolitics News & Risk AnalysisGeopolitics | Latest news and analysis from The Economist](https://www.youtube.com/watch?v=Qy2LhaJoJ6s)
+  > [DESCRIPTION FALLBACK] Apr 20, 2026 · Not in terms of deaths, but in terms of systemic economic breakdown. This is not a short-term shock. It is a structural rupture. The warnings are already being is...
 
 ## Sources (RSS)
-- [At Ministerial Meeting, Secretary-General Warns UN Palestine Refugee Agency’s Capacity to Act ‘Seriously Imperilled’](https://press.un.org/en/2026/sgsm23302.doc.htm)
-- [Rising Sea Levels Measured in Millimetres, Consequences in Millions, Stresses Secretary-General at High-Level Meeting, Calling for Urgent Action](https://press.un.org/en/2026/sgsm23301.doc.htm)
-- [Secretary-General Appoints Toily Kurbanov of Russian Federation Deputy Special Representative, UN Mission in South Sudan](https://press.un.org/en/2026/sga2440.doc.htm)
+- [2026/db260925.doc.htm](https://press.un.org/en/2026/db260925)
+- [Addressing High-Level Meeting, Secretary-General Stresses Need for Global Approach to Pandemic Threats, Based on Equity, Solidarity, Multilateral Action](https://press.un.org/en/2026/sgsm23306.doc.htm)
+- [With Conflicts Raging, Ceasefires Breaking, G77 and China Must Continue Quest for Justice, Secretary-General Says at Ministerial Meeting](https://press.un.org/en/2026/sgsm23305.doc.htm)
 
 
 ---
