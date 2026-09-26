@@ -4,26 +4,26 @@
 **Severity:** HIGH
 
 ## Problem
-Inadequate funding for climate loss-and-damage, exemplified by Nepal's $20 million claim covering only 0.7% of total flood damage costs
+Antarctic sea ice extent reached its third-lowest winter peak, indicating accelerated polar warming
 
 ## Root Cause
-International climate finance mechanisms are underfunded and lack binding commitments, leading to a gap between climate impacts and available compensation resources
+Continued high global greenhouse gas emissions driving atmospheric and oceanic warming, amplified by feedbacks such as reduced albedo
 
 ## Proposed Actions
-- **Establish a legally binding contribution schedule for high-emission countries to the UN Loss and Damage Fund, targeting at least 0.5% of their annual GDP** — Annual fund inflows increase to cover ≥30% of verified loss-and-damage assessments in vulnerable nations within 5 years
-- **Create a transparent, data-driven allocation model that ties disbursements to independently verified damage estimates** — Reduction of the funding gap to ≤10% of assessed damages for the top 10 most affected countries by 2030
+- **Adopt a minimum global carbon price of $100 per tonne CO2 by 2027, enforced through coordinated national policies** — At least 30 countries implement the price, resulting in a measurable 5% reduction in global CO2 emissions by 2030
+- **Accelerate implementation of climate provisions in China's upcoming five‑year plans, aiming for a 20% increase in renewable electricity share by 2030** — Renewables constitute ≥20% of China's electricity mix, verified by national statistics
 
 ## Sources (YouTube)
-- [WEF Global Risk Report 2026 - YouTubeWorld Economic Forum - The Global Risk Report 2026 SummaryGlobal Risks Report 2026 - The World Economic ForumUnited Nations Global Risk Report | United NationsLIVE: Climate change is here - What happens next is still in ...GLOBAL CATASTROPHIC RISKS 2026 – RISK 1 Catastrophic Climate ...Global Catastrophic Risks 2026 - Global Challenges Foundation](https://www.youtube.com/watch?v=ZyjKh16rdR0)
-  > [DESCRIPTION FALLBACK] Feb 14, 2026 · In this episode, we unpack the latest findings from the World Economic Forum, where experts warn that the world is balancing on a precipice. We explore the dawn o...
+- [Extreme Weather 2025: Fires, Floods, Heatwaves ... - YouTubeYear in Review: How Extreme Weather and Natural Disasters ...Wildfires, floods and extreme heat: These are the biggest ...World slammed by extreme weather in 2025, one of the hottest ...2025’s Extreme Weather – A Climate Change Reality CheckState of the Global Climate 2025 - wmo.intIn a new documentary, PIK Director Johan Rockström joins ...](https://www.youtube.com/watch?v=jrLBkuyQgKs)
+  > Welcome to Starcon International, where every story is built on verified facts and trusted sources. 2024 wasn't just another hot year. It was the hottest year in modern history. With global temperatur...
 
-- [World Economic Forum - The Global Risk Report 2026 SummaryGlobal Risks Report 2026 - The World Economic ForumUnited Nations Global Risk Report | United NationsLIVE: Climate change is here - What happens next is still in ...GLOBAL CATASTROPHIC RISKS 2026 – RISK 1 Catastrophic Climate ...Global Catastrophic Risks 2026 - Global Challenges Foundation](https://www.youtube.com/watch?v=SZtlSLsbZEQ)
-  > [DESCRIPTION FALLBACK] Feb 23, 2026 · Drawing on the GRPS 2025–2026 and the Executive Opinion Survey, the summary explores how technological acceleration, geostrategic shifts, climate change, and demo...
+- [Year in Review: How Extreme Weather and Natural Disasters ...Wildfires, floods and extreme heat: These are the biggest ...World slammed by extreme weather in 2025, one of the hottest ...2025’s Extreme Weather – A Climate Change Reality CheckState of the Global Climate 2025 - wmo.intIn a new documentary, PIK Director Johan Rockström joins ...](https://www.youtube.com/watch?v=fsBmhrT8ZEk)
+  > As 2025 unfolded, extreme weather and natural disasters reshaped communities across the globe. The year began with devastation in Southern California. In January, fast-moving wildfires tore through Lo...
 
 ## Sources (RSS)
-- [NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory](https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/)
-- [NASA Shares SpaceX Crew-14 Assignments for Space Station Mission](https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/)
-- [Travel](https://www.nasa.gov/centers-and-facilities/nssc/travel/)
+- [NASA, Boeing to Provide Update on Starliner Development](https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/)
+- [NASA Welcomes San Marino Signing the Artemis Accords](https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/)
+- [NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch](https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/)
 
 
 ---
