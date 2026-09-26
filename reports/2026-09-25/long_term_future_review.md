@@ -4,24 +4,27 @@
 **Severity:** CRITICAL
 
 ## Problem
-Advanced AI systems with continual learning can adapt to evade static safety monitors, rendering current blocking and oversight mechanisms ineffective.
+Large influx of AI development funding (billions of dollars) lacks a coordinated, transparent plan for allocating resources to safety and alignment research
 
 ## Root Cause
-Safety monitors are designed for fixed or predictable behavior, while continual learning enables AI to modify its policies after deployment, allowing it to bypass or manipulate detection criteria.
+Absence of globally recognized governance frameworks and incentive structures that prioritize long‑term safety over short‑term competitive gains, leading firms and investors to allocate money based on market pressure rather than existential risk mitigation
 
 ## Proposed Actions
-- **Create and deploy adaptive, self‑updating monitoring frameworks that co‑evolve with the AI's learning processes.** — Reduction of successful evasion attempts in controlled red‑team tests by at least 80% within 12 months.
-- **Establish an international AI safety certification that requires continual‑learning models to pass dynamic alignment audits before release.** — All major AI providers obtain certification for new continual‑learning products within 24 months.
-- **Fund open‑source research on provable safety guarantees for continual learning algorithms.** — Publication of at least three peer‑reviewed papers delivering formal safety bounds for continual learning by the end of the next year.
+- **Create an International AI Safety Fund governed by a multi‑stakeholder board (governments, NGOs, scientific institutions, and industry) with mandatory reporting of fund allocation** — At least 30% of the newly announced AI R&D capital (tracked quarterly) is earmarked for peer‑reviewed alignment projects within 12 months
+- **Publish a globally accepted AI Alignment Funding Charter that defines criteria for safe investment and requires signatories to disclose compliance annually** — Signature by >50% of the top 20 AI‑focused companies and investment funds within 24 months
+- **Implement an independent audit mechanism that evaluates the alignment outcomes of funded projects and adjusts future allocations based on measurable safety milestones** — Audit reports released semi‑annually showing a decreasing trend in post‑training misalignment incidents (e.g., <5% of audited models exhibit significant alignment failures)
 
 ## Sources (YouTube)
-- [The Existential Risk of AI is Real | Nick Bostrom - YouTube](https://www.youtube.com/watch?v=47yk_mg38ls)
-  > [DESCRIPTION FALLBACK] Widely credited with launching the global AI safety and existential risk movements, his work on machine alignment, recursive self-improvement and the Simulation Hypothesis has s...
+- [Why Civilizations Fall and What We Can Learn From It with ...Is Civilisation Actually Collapsing? Cambridge Researcher Dr ...The Past and Future of Societal Collapse: Why Civilizations ...Projections of Earth’s Technosphere: Civilization Collapse ...Existential Risks InitiativeLuke Kemp: “Existential Risks: The Biggest Threats to Life as ...Existential Risks: What Threatens Humanity's Future - Globaïa](https://www.youtube.com/watch?v=W7JsDrHrRsI)
+  > [DESCRIPTION FALLBACK] In this episode, Nate is joined by existential risk researcher Luke Kemp to explore the intricate history of societal collapse – connecting patterns of dominance hierarchies, re...
+
+- [Is Civilisation Actually Collapsing? Cambridge Researcher Dr ...The Past and Future of Societal Collapse: Why Civilizations ...Projections of Earth’s Technosphere: Civilization Collapse ...Existential Risks InitiativeLuke Kemp: “Existential Risks: The Biggest Threats to Life as ...Existential Risks: What Threatens Humanity's Future - Globaïa](https://www.youtube.com/watch?v=nfC8HYbJV4I)
+  > [DESCRIPTION FALLBACK] Dec 14, 2025 · In this episode, I’m joined by Dr Luke Kemp, an existential risk researcher at Cambridge University and the author of Goliath's Curse: The History and Future of S...
 
 ## Sources (RSS)
-- [What did AI researchers think at the end of 2024?](https://www.lesswrong.com/posts/JGzrtshreFddH3fpi/what-did-ai-researchers-think-at-the-end-of-2024)
-- [Continual learning might make your blocking monitors nearly useless](https://www.lesswrong.com/posts/QnDqGbKehEB3DxJAp/continual-learning-might-make-your-blocking-monitors-nearly)
-- [The most important problem (you've never heard of)](https://www.lesswrong.com/posts/RiSxundHxu2sDT8k2/the-most-important-problem-you-ve-never-heard-of)
+- [What did AI researchers think at the end of 2024?](https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1)
+- [Alignment Forecasting: Predicting Misalignment from Training Data](https://www.lesswrong.com/posts/f7r9QCmjoYFG9ReyF/alignment-forecasting-predicting-misalignment-from-training)
+- [Spurious probes as a black-box alternative to activation probing](https://www.lesswrong.com/posts/gZh6txHhp8sm832sE/spurious-probes-as-a-black-box-alternative-to-activation)
 
 
 ---
