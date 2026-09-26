@@ -1,30 +1,29 @@
 # HUMAN WELL BEING REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Unauthorized access to a deceased teenager's medical records by NHS staff
+NHS staff investigated over access to dead teenager's medical records; NHS staff suspected of snooping on patient records; abuse of trust by staff in general.
 
 ## Root Cause
-Weak data governance and insufficient enforcement of privacy policies within the NHS, allowing staff to retrieve records without clear consent or oversight
+Staff misuse their authority and violate patients' trust, leading to unauthorized access to sensitive information.
 
 ## Proposed Actions
-- **Introduce mandatory, role‑based access controls and automated audit logging for all patient record systems, with a specific prohibition on post‑mortem access without documented consent** — 100% of access attempts to deceased patients are logged and reviewed monthly; zero unauthorized accesses reported in the first 12 months
-- **Conduct compulsory privacy and data‑handling training for all NHS staff, emphasizing legal and ethical obligations regarding deceased patients** — All staff complete training within 6 months; post‑training assessment pass rate ≥ 90%
-- **Establish an independent oversight committee to audit compliance quarterly and publish transparent reports** — Quarterly audit reports released publicly with remediation actions tracked to completion
+- **Implement stricter policies and training on data security and privacy for NHS staff; increase oversight and accountability mechanisms.** — Reduce the number of investigations into NHS staff by 20% within one year.
+- **Publish a statement from the NHS leadership about their commitment to protecting patient records; encourage patients to report any suspicious activity.** — Increase patient awareness and reporting by 30% within six months.
 
 ## Sources (YouTube)
+- [How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan](https://www.youtube.com/watch?v=j774AFDJqFg)
+  > I start with a business crush, meaning there's an idea and I can't stop thinking about it. And then a week later, I'm still thinking about it. >> And now I'm thinking, "Oh my god, this would be good a...
+
 - [How to Legalize Medical Psychedelics in Your Country — Tania de Jong on Australia’s Breakthrough](https://www.youtube.com/watch?v=r2j6tUj35F0)
-  > [DESCRIPTION FALLBACK] My guest today is Tania de Jong, co-founder of Mind Medicine Australia. Tania and her husband, Peter, helped lead the push that, in 2023, made Australia the first country in the...
+  > We're standing in the kitchen and my husband goes, "It's been rescheduled." And I just said, "No, you can't be serious." And I said, "You've got to show me this." And I read the document. I kept think...
 
 - [How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava](https://www.youtube.com/watch?v=JW3Q8Qd4Xxc)
   > [DESCRIPTION FALLBACK] This episode is a bit different. It's a live, unscripted working session with a founder, and I've only done one other earlier this year.
 
 Niels Hoven (@NielsHoven) is the founde...
-
-- [Go Against The Age of Pathological Conformity](https://www.youtube.com/watch?v=CpZrnhSkOis)
-  > [DESCRIPTION FALLBACK] Frank Miller is regarded as one of the most influential and awarded creators. He began his career in comics in the late 1970s, first gaining notoriety as the artist, and later w...
 
 ## Sources (RSS)
 - [WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health](https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health)
