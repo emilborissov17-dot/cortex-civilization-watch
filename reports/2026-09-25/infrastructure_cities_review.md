@@ -4,27 +4,26 @@
 **Severity:** HIGH
 
 ## Problem
-Aging homeless population in U.S. cities facing increasing health and social service needs
+Urban infrastructure projects are becoming unaffordable for municipalities due to rising construction and material costs combined with lengthy permitting processes.
 
 ## Root Cause
-Insufficient affordable housing combined with fragmented social safety nets and limited targeted health services for older adults experiencing homelessness
+Escalating material and labor prices together with fragmented, slow permitting regimes increase total project cost and delay, straining limited municipal budgets.
 
 ## Proposed Actions
-- **Create city‑wide supportive housing pilots that co‑locate affordable units with on‑site medical and case‑management services for adults 55+ experiencing homelessness** — Reduce the count of homeless adults aged 55+ by 25% within three years in pilot cities
-- **Revise zoning codes to allow higher‑density, low‑cost housing and provide tax incentives for developers that allocate at least 30% of new units to age‑targeted supportive housing** — Increase the stock of affordable units for older adults by 15,000 units nationwide within five years
-- **Establish a federal grant program that matches local funding for integrated health‑housing services for the aging homeless** — Secure $500 M in matched funding across 20 cities within two years
+- **Adopt a fast‑track, virtual inspection permitting system for low‑risk projects, modeled after Pittsburgh’s ‘fast lane’, across major U.S. cities.** — Reduce average permitting time for qualifying projects by 40% within 12 months and cut associated cost overruns by 15%.
+- **Establish a dedicated affordable‑infrastructure financing pool (e.g., a $10 B revolving fund) to subsidize cost‑overrun risks for essential city projects.** — Enable at least 50% of surveyed municipalities to complete planned projects within original budget limits within 3 years.
 
 ## Sources (YouTube)
-- [“How the Housing Crisis Fuels Inequality — Explained Simply”"The Global Housing Crisis is Fundamentally a Crisis of ...The Global Housing Crisis. - ArcGIS StoryMapsUrban inequalities in the 21st century economy - ScienceDirectHousing 101 Video Series - Bipartisan Policy CenterUrban inequality, the housing crisis and deteriorating water ...What's driving the housing affordability crisis? And what can ...](https://www.youtube.com/watch?v=tRw9DkxP5MQ)
-  > [DESCRIPTION FALLBACK] This video breaks down how housing shortages drive rising income inequality and block social mobility — from the homeowners vs. renters wealth gap to intergenerational disadvant...
+- [How Singapore Inspires Southeast Asia’s Smart Cities in 2025?Smart Cities - YouTubeTop 10 Smartest Cities in Asia to Watch in 2025 - TechnologyhqSmart AI Cities AsiaBuilding Responsible Smart Cities: A Toolkit for Public and ...How smart are the smart cities in South Asia & Pacific?CFA - Centre for Financial Accountability](https://www.youtube.com/watch?v=FoqIBBRreqs)
+  > [DESCRIPTION FALLBACK] Oct 19, 2025 · Green Sustainability – Why Singapore’s eco-city concept is now a model for Southeast Asia. 💻 3. Digital Governance – How the island nation built one of the world’...
 
-- ["The Global Housing Crisis is Fundamentally a Crisis of ...The Global Housing Crisis. - ArcGIS StoryMapsUrban inequalities in the 21st century economy - ScienceDirectHousing 101 Video Series - Bipartisan Policy CenterUrban inequality, the housing crisis and deteriorating water ...What's driving the housing affordability crisis? And what can ...](https://www.youtube.com/watch?v=WeRBQvDLLkg)
-  > [DESCRIPTION FALLBACK] Jul 12, 2026 · Today, more than three billion people lack access to adequate housing, including over 1.1 billion living in informal settlements and slums. The UN-Habitat Executi...
+- [Smart Cities - YouTubeTop 10 Smartest Cities in Asia to Watch in 2025 - TechnologyhqSmart AI Cities AsiaBuilding Responsible Smart Cities: A Toolkit for Public and ...How smart are the smart cities in South Asia & Pacific?CFA - Centre for Financial Accountability](https://www.youtube.com/watch?v=LR55vhmhiY4)
+  > [DESCRIPTION FALLBACK] Nov 14, 2024 · Our video explains what Smart Cities are and how they transform urban living. #SmartCities use cutting-edge tech to create cleaner, more connected, and sustainabl...
 
 ## Sources (RSS)
-- [The US homeless population is aging. Cities must brace for new challenges.](https://www.smartcitiesdive.com/news/aging-homeless-population-us-cities-harvard-jchs/831260/)
-- [How a water infrastructure crisis became a riverfront opportunity in Columbia, South Carolina](https://www.smartcitiesdive.com/news/how-water-infrastructure-crisis-became-riverfront-opportunity-columbia-sc/831257/)
-- [California High-Speed Rail Authority’s ‘wasteful’ spending criticized by its inspector general](https://www.smartcitiesdive.com/news/california-high-speed-rail-oig-spending/831110/)
+- [On clean energy, bigger is not always better](https://www.smartcitiesdive.com/news/community-solar-energy-storage-der-tax-credits/831367/)
+- [Pittsburgh eyes quicker permitting with virtual inspections and a ‘fast lane’ for low-risk projects](https://www.smartcitiesdive.com/news/permitting-reform-pittsburgh-housing-development-streamline/831368/)
+- [Second federal judge overturns $7B Solar for All cancellation by Trump administration EPA](https://www.smartcitiesdive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation/831364/)
 
 
 ---
