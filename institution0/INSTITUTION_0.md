@@ -14,7 +14,41 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 - PROVISIONAL: UCDP Candidate Events Dataset, monthly release 26.0.10 (expected around 2026-11-20 (UCDP extracts candidate data on the 20th of every month)); resolve by release date + 14 days; SOURCE_LATE if no release by 2026-12-31.
 - FINAL: the first UCDP GED annual release whose coverage includes 2026-10 (GED 27.1, around June 2027 - an expectation, not the rule); resolve by release date + 14 days; SOURCE_LATE if no such release by 2027-09-30.
 
-**Baseline (as_of ucdp:26.0.8).** Pre-commitment 2024-07-19 .. 2025-07-18: mean 319.17 fatalities/month (January 2025 alone is 3,425 of 3,830; the mean is dominated by one month.). Post-commitment 2025-08 .. 2026-08 (13 calendar months): 10 of 13 months at or above 25 -> p_not_kept = 0.7692.
+**Baseline (as_of ucdp:26.0.8).** Pre-commitment 2024-07-19 .. 2025-07-18: mean 319.17 fatalities/month (January 2025 alone is 3,425 of 3,830; the mean is dominated by one month.). Post-commitment 2025-08 .. 2026-08 (13 calendar months): 10 of 13 months at or above the threshold -> p_not_kept = 0.7692.
+
+**Seal.** Merkle root `3d0ac18840bd1f8703737e15f7bd1eb260b50656695728605832cc95d54181c2` over the exact bytes of `experiments/institution/forward/F-001.json` (sha256 `4efc4c3d7fcfb4d188bbe3f5e1db48b72167ee351bfd814d6538a60acab70a60`, 6971 bytes) + previous root `9687c512f6b3b6e1a7c4eab4ab6d6f48ddc89b22f34569bd8a2c13e37a5b7d0f` + writer {"pid": 75904, "process": "register_forward_row.py", "commit": "091edbb67a8d2224740e2deb1733470d962a003d"}.
+
+## F-002 — SUCCESSOR — Jeddah Declaration of Commitment to Protect the Civilians of Sudan (2023-05-11)
+
+*RSF, signatory at Jeddah, is the leading component of SFA as UCDP codes it; the link is confirmed by Emil, not by UCDP*
+
+Registered 2026-09-26 by Emil, chat 2026-09-26 ('да'). Liveness: pending Emil's SIGN.
+Lane I-1: pre-registered; OPEN; no measurement yet.
+
+**Condition (UCDP GED).** type_of_violence = 1 (state-based armed conflict); dyad "Government of Sudan - SFA" (dyad_new_id 18621); whole country (Sudan); date_start 2026-10-01 .. 2026-10-31; metric sum(best); KEPT if < 25, NOT KEPT if >= 25.
+
+**Resolution.** Appended, never overwritten; OPEN until FINAL.
+- PROVISIONAL: UCDP Candidate Events Dataset, monthly release 26.0.10 (expected around 2026-11-20 (UCDP extracts candidate data on the 20th of every month)); resolve by release date + 14 days; SOURCE_LATE if no release by 2026-12-31.
+- FINAL: the first UCDP GED annual release whose coverage includes 2026-10 (GED 27.1, around June 2027 - an expectation, not the rule); resolve by release date + 14 days; SOURCE_LATE if no such release by 2027-09-30.
+
+**Baseline (as_of ucdp:26.0.8).** Pre-commitment 2022-05-11 .. 2023-05-10: mean 0.0 fatalities/month (0 because dyad 18621 did not exist before 2025-02 - not because there was no fighting.). Post-commitment 2023-06 .. 2026-08 (39 calendar months): 19 of 39 months at or above the threshold -> p_not_kept = 0.4872. The 20 zero months 2023-06..2025-01 are before the SFA string existed; see successor_reference.
+
+**Seal.** Merkle root `26c0e80d80a870e516bfe6cb4aad165bab2d7006b8dbfb3e3c08e45e30e8d7a1` over the exact bytes of `experiments/institution/forward/F-002.json` (sha256 `77d2902e54935e01ffe2d3f85379e7f04ffad5bd7351194a8b086cc69cdf99e8`, 6682 bytes) + previous root `f39d68c7d9ac7750b736b1666b1f66e36fb9972a11b2a5107d9a5804c24850b3` + writer {"pid": 105844, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
+
+## F-004 — Gaza ceasefire and hostage-release agreement accepted by the parties (2025-01-19)
+
+Registered 2026-09-26 by Emil, chat 2026-09-26 ('да'). Liveness: pending Emil's SIGN.
+Lane I-1: pre-registered; OPEN; no measurement yet.
+
+**Condition (UCDP GED).** type_of_violence = 1 (state-based armed conflict); dyad "Government of Israel - Hamas" (dyad_new_id 477); adm_1 in 'Gaza Strip'; date_start 2026-10-01 .. 2026-10-31; metric sum(best); KEPT if < 25, NOT KEPT if >= 25.
+
+**Resolution.** Appended, never overwritten; OPEN until FINAL.
+- PROVISIONAL: UCDP Candidate Events Dataset, monthly release 26.0.10 (expected around 2026-11-20 (UCDP extracts candidate data on the 20th of every month)); resolve by release date + 14 days; SOURCE_LATE if no release by 2026-12-31.
+- FINAL: the first UCDP GED annual release whose coverage includes 2026-10 (GED 27.1, around June 2027 - an expectation, not the rule); resolve by release date + 14 days; SOURCE_LATE if no such release by 2027-09-30.
+
+**Baseline (as_of ucdp:26.0.8).** Pre-commitment 2024-01-19 .. 2025-01-18: mean 1588.42 fatalities/month (Every month of the window is far above the threshold.). Post-commitment 2025-02 .. 2026-08 (19 calendar months): 19 of 19 months at or above the threshold -> p_not_kept = 1.0.
+
+**Seal.** Merkle root `f8ba811282449c4fb3c46bdaaf7da4c8077d15b0a49a0b9afcfeca3913b43957` over the exact bytes of `experiments/institution/forward/F-004.json` (sha256 `ad1fa611d5668f369351e07174258aaf1254b162e8f17568f58a0bd37e04c756`, 4877 bytes) + previous root `42ebb2ff0b5b70f97ffef68794fc79fa568b4a1d839cf618b26481238c80b937` + writer {"pid": 103592, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
 
 ## Retrospective rows (method validation, as_of ucdp:26.0.8)
 
@@ -30,10 +64,6 @@ the register's original rule: UCDP one-sided violence (type_of_violence=3) event
 | drc_doha_2025 | AFC | 73 | 14/14 | 484 | NOT KEPT |
 | gaza_ceasefire_2025_01 | Government of Israel | 92 | 20/20 | 109 | NOT KEPT |
 | gaza_ceasefire_2025_01 | Hamas | 2 | 2/20 | 0 | NOT KEPT |
-
-## Seal
-
-Merkle root `3d0ac18840bd1f8703737e15f7bd1eb260b50656695728605832cc95d54181c2` over the exact bytes of `experiments/institution/forward/F-001.json` (sha256 `4efc4c3d7fcfb4d188bbe3f5e1db48b72167ee351bfd814d6538a60acab70a60`, 6971 bytes) + previous root `9687c512f6b3b6e1a7c4eab4ab6d6f48ddc89b22f34569bd8a2c13e37a5b7d0f` + writer {"pid": 75904, "process": "register_forward_row.py", "commit": "091edbb67a8d2224740e2deb1733470d962a003d"}.
 
 ## Citation
 
