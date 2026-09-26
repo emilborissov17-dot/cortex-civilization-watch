@@ -35,6 +35,23 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 
 **Seal.** Merkle root `26c0e80d80a870e516bfe6cb4aad165bab2d7006b8dbfb3e3c08e45e30e8d7a1` over the exact bytes of `experiments/institution/forward/F-002.json` (sha256 `77d2902e54935e01ffe2d3f85379e7f04ffad5bd7351194a8b086cc69cdf99e8`, 6682 bytes) + previous root `f39d68c7d9ac7750b736b1666b1f66e36fb9972a11b2a5107d9a5804c24850b3` + writer {"pid": 105844, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
 
+## F-003 — PROXY — Washington Accord — Peace Agreement between the DRC and the Republic of Rwanda (2025-06-27)
+
+Registered 2026-09-26 by Emil, chat 2026-09-26 ('да'). Liveness: pending Emil's SIGN.
+Lane I-1: pre-registered; OPEN; no measurement yet.
+
+**Condition (UCDP GED).** type_of_violence = 1 (state-based armed conflict); dyad "Government of DR Congo (Zaire) - AFC" (dyad_new_id 17740); adm_1 in 'Nord Kivu province', 'Sud Kivu province'; date_start 2026-10-01 .. 2026-10-31; metric sum(best); KEPT if < 25, NOT KEPT if >= 25.
+
+*PROXY. The Washington Accord's parties are the DRC and Rwanda. UCDP codes no state-based dyad 'Government of DR Congo (Zaire) - Government of Rwanda' in 2024-2026 (the only Rwanda dyad in the DRC data is Government of Rwanda - FDLR-FOCA). The Accord commits the parties to cease hostilities and not to support non-state armed groups; this row measures the fighting between the DRC and the AFC/M23 - the group Rwanda is obliged not to support - in the two Kivus. It measures the Accord's effect, not either party's own conduct, and must be read that way. Verified via the authenticated API: dyad 17740, adm_1 'Nord Kivu province' / 'Sud Kivu province' (as F-001).*
+
+**Resolution.** Appended, never overwritten; OPEN until FINAL.
+- PROVISIONAL: UCDP Candidate Events Dataset, monthly release 26.0.10 (expected around 2026-11-20 (UCDP extracts candidate data on the 20th of every month)); resolve by release date + 14 days; SOURCE_LATE if no release by 2026-12-31.
+- FINAL: the first UCDP GED annual release whose coverage includes 2026-10 (GED 27.1, around June 2027 - an expectation, not the rule); resolve by release date + 14 days; SOURCE_LATE if no such release by 2027-09-30.
+
+**Baseline (as_of ucdp:26.0.8).** Pre-commitment 2024-06-27 .. 2025-06-26: mean 323.0 fatalities/month (January 2025 alone is 3,425 of 3,876; the mean is dominated by one month.). Post-commitment 2025-07 .. 2026-08 (14 calendar months): 10 of 14 months at or above the threshold -> p_not_kept = 0.7143.
+
+**Seal.** Merkle root `42ebb2ff0b5b70f97ffef68794fc79fa568b4a1d839cf618b26481238c80b937` over the exact bytes of `experiments/institution/forward/F-003.json` (sha256 `6eb1d8114764025098294657388a40b99f93f6522974fd805a47b5651d3882e9`, 5132 bytes) + previous root `26c0e80d80a870e516bfe6cb4aad165bab2d7006b8dbfb3e3c08e45e30e8d7a1` + writer {"pid": 105684, "process": "register_forward_row.py", "commit": "01b536d7241e77dc2de0ce75be5a8a46ea978aa9"}.
+
 ## F-004 — Gaza ceasefire and hostage-release agreement accepted by the parties (2025-01-19)
 
 Registered 2026-09-26 by Emil, chat 2026-09-26 ('да'). Liveness: pending Emil's SIGN.
