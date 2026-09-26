@@ -1,0 +1,13 @@
+{
+  "root": "9ce9cb5463a99deec33c56afea5369c3b62cef9a0777c3b108771ed9b4585494",
+  "prev_root": "864fc56feb688f9f308911b3b88912f254c1eb277ef1e8762d39bd4a243e7af3",
+  "writer": {
+    "pid": 133644,
+    "process": "revisions.py",
+    "commit": "535290901f790c0bd009602e16a3632ed52e9da0"
+  },
+  "row_sha256": "0a72f2b243759583d0bfc54b50ed0ddd9415afd3924a3682ba6792187421ee3a",
+  "row_bytes": 493,
+  "file": "F-003.revisions.jsonl",
+  "ts": "2026-09-26T11:16:10.636247+00:00"
+}
