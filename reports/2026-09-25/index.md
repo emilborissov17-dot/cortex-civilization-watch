@@ -2,38 +2,38 @@
 
 > An autonomous system monitoring 25 axes of civilization toward dignity, sustainability and long-term survival of intelligent life.
 
-**Coverage:** 25 axes · 260 sources · 47 videos · 25 axes flagged critical ([details](master_web_intel.md))
+**Coverage:** 25 axes · 264 sources · 54 videos · 15 axes flagged critical ([details](master_web_intel.md))
 
-**Critical this run:** CLIMATE_GLOBAL_RISK_REVIEW, ENERGY_REVIEW, WATER_REVIEW, FOOD_REVIEW, MATERIALS_WASTE_REVIEW, ECOSYSTEMS_BIODIVERSITY_REVIEW, HUMAN_WELL_BEING_REVIEW, CULTURE_MEDIA_REVIEW, COGNITION_LEARNING_REVIEW, SOCIAL_RELATIONS_REVIEW, GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL, ECONOMY_WORK_REVIEW
+**Critical this run:** WATER_REVIEW, ENERGY_REVIEW, CLIMATE_GLOBAL_RISK_REVIEW, INFRASTRUCTURE_CITIES_REVIEW, EDUCATION_CULTURE_REVIEW, GOVERNANCE_INSTITUTIONS_REVIEW, TECHNOLOGY_INFRA_REVIEW, SPACE_INFRASTRUCTURE_REVIEW, COSMIC_RESOURCES_REVIEW, LONG_TERM_FUTURE_REVIEW, DEEP_TIME_RISKS_REVIEW, TECHNOLOGY_AI_REVIEW
 
 ## Today's Findings
 
 | Axis | Severity | Summary |
 |------|----------|----------|
-| [ECONOMY_WORK_REVIEW](economy_work_review.md) | HIGH | Sharp increase in reported assaults on Britain's rail services, affecting passen... |
-| [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | HIGH | Significant decline in the number of male teachers in K-12 education, leading to... |
-| [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | HIGH | UNRWA's operational capacity is seriously imperilled due to funding shortfalls a... |
-| [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | HIGH | Gaza reconstruction is underfunded and lacks effective local leadership, risking... |
-| [INFRASTRUCTURE_CITIES_REVIEW](infrastructure_cities_review.md) | HIGH | Aging homeless population in U.S. cities facing increasing health and social ser... |
-| [TECHNOLOGY_AI_REVIEW](technology_ai_review.md) | HIGH | Insufficient governance and orchestration frameworks for interacting AI agents i... |
-| [TECHNOLOGY_INFRA_REVIEW](technology_infra_review.md) | HIGH | Unregulated deployment of consumer AI agents and tools creates security vulnerab... |
-| [COSMIC_RESOURCES_REVIEW](cosmic_resources_review.md) | HIGH | Absence of an enforceable legal framework for asteroid and space resource extrac... |
-| [DEEP_TIME_RISKS_REVIEW](deep_time_risks_review.md) | HIGH | Small near‑Earth asteroids are detected only hours before possible impact, leavi... |
-| [GENERAL_SELF_REVIEW](general_self_review.md) | HIGH | Unregulated deployment of AI‑enhanced surveillance towers along the US southern ... |
-| [GOAL_PROGRESS_REVIEW](goal_progress_review.md) | HIGH | Many countries have not established legally binding, clear timelines for phasing... |
-| [LONG_TERM_FUTURE_REVIEW](long_term_future_review.md) | CRITICAL | Advanced AI systems with continual learning can adapt to evade static safety mon... |
-| [SPACE_INFRASTRUCTURE_REVIEW](space_infrastructure_review.md) | HIGH | Critical launch missions (e.g., SpaceX Starship orbital flight) are delayed pend... |
-| [COGNITION_LEARNING_REVIEW](cognition_learning_review.md) | HIGH | Unequal access to AI‑enhanced educational tools and insufficient disability‑incl... |
-| [CULTURE_MEDIA_REVIEW](culture_media_review.md) | HIGH | Health-related misinformation is being spread on video platforms, exemplified by... |
-| [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | HIGH | Widespread human rights violations committed by U.S. Immigration and Customs Enf... |
-| [HUMAN_WELL_BEING_REVIEW](human_well_being_review.md) | HIGH | Unauthorized access to a deceased teenager's medical records by NHS staff |
-| [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | HIGH | Government-imposed restrictions on White House press access that barred major me... |
-| [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | HIGH | Inadequate funding for climate loss-and-damage, exemplified by Nepal's $20 milli... |
-| [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | HIGH | Habitat loss caused by infrastructure projects (e.g., proposed hydropower in Kom... |
-| [ENERGY_REVIEW](energy_review.md) | HIGH | A market glut of Chinese plug‑in hybrid vehicles is flooding Europe, threatening... |
-| [FOOD_REVIEW](food_review.md) | HIGH | Resurgence of the New World screwworm parasite in the United States, threatening... |
-| [MATERIALS_WASTE_REVIEW](materials_waste_review.md) | HIGH | Termination of Lake County's plastic bag and Styrofoam recycling program after t... |
-| [PLANETARY_POTENTIAL_REVIEW](planetary_potential_review.md) | CRITICAL | Observed weakening of the Atlantic Meridional Overturning Circulation (AMOC) acr... |
+| [ECONOMY_WORK_REVIEW](economy_work_review.md) | UNKNOWN | Анализ на ECONOMY_WORK_REVIEW — данни получени но LLM грешка |
+| [EDUCATION_CULTURE_REVIEW](education_culture_review.md) | HIGH | Widespread education inequality in Southeast Asia, where children from disadvant... |
+| [GOVERNANCE_INSTITUTIONS_REVIEW](governance_institutions_review.md) | HIGH | Resurgence of armed conflict in Ethiopia as the Tigray People's Liberation Front... |
+| [INEQUALITY_POVERTY_REVIEW](inequality_poverty_review.md) | MEDIUM | Poverty is rising and inequality widening in Asia and the region; corruption is ... |
+| [INFRASTRUCTURE_CITIES_REVIEW](infrastructure_cities_review.md) | HIGH | Urban infrastructure projects are becoming unaffordable for municipalities due t... |
+| [TECHNOLOGY_AI_REVIEW](technology_ai_review.md) | HIGH | The U.S. Department of Defense is allocating $30.3 million to develop an AI‑powe... |
+| [TECHNOLOGY_INFRA_REVIEW](technology_infra_review.md) | HIGH | Widespread digital divide resulting in unequal access to internet connectivity a... |
+| [COSMIC_RESOURCES_REVIEW](cosmic_resources_review.md) | HIGH | Absence of a coherent, binding international regulatory framework for asteroid m... |
+| [DEEP_TIME_RISKS_REVIEW](deep_time_risks_review.md) | CRITICAL | A ~61 million ton asteroid is on a trajectory toward Earth, creating an imminent... |
+| [GENERAL_SELF_REVIEW](general_self_review.md) | HIGH | The U.S. Department of Defense is allocating $30.3 million over five years to de... |
+| [GOAL_PROGRESS_REVIEW](goal_progress_review.md) | HIGH | Coastal communities worldwide face imminent displacement due to accelerating sea... |
+| [LONG_TERM_FUTURE_REVIEW](long_term_future_review.md) | CRITICAL | Large influx of AI development funding (billions of dollars) lacks a coordinated... |
+| [SPACE_INFRASTRUCTURE_REVIEW](space_infrastructure_review.md) | HIGH | Increasing number of classified military space launches (e.g., USSF-385 on a Fal... |
+| [COGNITION_LEARNING_REVIEW](cognition_learning_review.md) | MEDIUM | Education inequality; factors like socioeconomic disparities, inadequacy of educ... |
+| [CULTURE_MEDIA_REVIEW](culture_media_review.md) | LOW | Taylor Swift: The Life of a Showgirl; MNEK on writing smash hits, battling self-... |
+| [GOVERNANCE_RIGHTS_AT_HUMAN_LEVEL](governance_rights_at_human_level.md) | MEDIUM |  |
+| [HUMAN_WELL_BEING_REVIEW](human_well_being_review.md) | LOW | NHS staff investigated over access to dead teenager's medical records; NHS staff... |
+| [SOCIAL_RELATIONS_REVIEW](social_relations_review.md) | MEDIUM | Special agents' blood and urine test results stolen in FBI hack; critics have qu... |
+| [CLIMATE_GLOBAL_RISK_REVIEW](climate_global_risk_review.md) | HIGH | Antarctic sea ice extent reached its third-lowest winter peak, indicating accele... |
+| [ECOSYSTEMS_BIODIVERSITY_REVIEW](ecosystems_biodiversity_review.md) | UNKNOWN | Анализ на ECOSYSTEMS_BIODIVERSITY_REVIEW — данни получени но LLM грешка |
+| [ENERGY_REVIEW](energy_review.md) | HIGH | Global fossil fuel extraction is expanding (Nigeria crude output at six‑year hig... |
+| [FOOD_REVIEW](food_review.md) | LOW | 645 vs previous years: down by 14 million vs 2024; down by 43 million vs 2022; s... |
+| [MATERIALS_WASTE_REVIEW](materials_waste_review.md) | LOW |  |
+| [PLANETARY_POTENTIAL_REVIEW](planetary_potential_review.md) | HIGH | Atlantic Meridional Overturning Circulation (AMOC) is weakening across a wide st... |
 | [WATER_REVIEW](water_review.md) | HIGH | Record low water levels in major US reservoirs (Lake Powell and Lake Mead) threa... |
 
 ---
