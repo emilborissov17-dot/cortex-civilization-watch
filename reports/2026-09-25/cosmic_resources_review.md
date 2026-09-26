@@ -4,21 +4,22 @@
 **Severity:** HIGH
 
 ## Problem
-Absence of an enforceable legal framework for asteroid and space resource extraction
+Absence of a coherent, binding international regulatory framework for asteroid mining leading to legal uncertainty, potential environmental harm, and inequitable resource distribution.
 
 ## Root Cause
-National legislation on space resources is fragmented and the most prominent attempt (U.S. Space Resource Exploration and Utilization Act of 2015) never became law, leaving a regulatory vacuum at the international level
+Fragmented national initiatives and lack of consensus among spacefaring nations; the 2015 Space Resource Exploration and Utilization Act never became law, leaving a policy vacuum.
 
 ## Proposed Actions
-- **Initiate a multilateral negotiation under COPUOS to draft a binding International Space Resource Utilization Treaty that defines ownership, licensing, and environmental safeguards** — Treaty adopted and signed by at least 30 spacefaring nations within five years; establishment of a transparent licensing registry with at least three commercial extraction licenses issued within two years of ratification
-- **Create a public‑private partnership platform (e.g., through the Commercial Space Federation) to run pilot asteroid‑mining demonstrations under the future treaty’s guidelines** — Successful completion of at least one demonstration mission extracting ≥10 kilograms of water or metal by 2029
+- **Negotiate and adopt an International Asteroid Resource Utilization Treaty with mandatory environmental impact assessments and equitable benefit‑sharing provisions.** — At least 30 UN member states ratify the treaty within five years and 10 sustainable mining licences are issued under its framework within ten years.
+- **Create a transparent, centralized licensing authority under the treaty to evaluate technical feasibility, debris mitigation plans, and socio‑economic equity of each proposed mission.** — Licensing authority processes 100% of submitted applications within 12 months and publishes annual reports on compliance and debris metrics.
+- **Fund interdisciplinary research programs on in‑situ resource processing, closed‑loop thruster production (building on Moog’s clean‑room expansion), and space debris mitigation.** — Increase funded research projects from current baseline to 20 projects by 2030, with at least five demonstrating viable low‑debris extraction technologies.
 
 ## Sources (YouTube)
-- [Колонизация Космоса за 200 циклов в Oxygen Not... - YouTube](https://www.youtube.com/watch?v=YKY-27ZR3CY)
-  > [DESCRIPTION FALLBACK] На этот раз я решил взять на себя роль колонизации космического пространства в Oxygen Not Included.Поддержать развитие канала :https://www.donationalerts.com......
+- [Asteroid Mining - YouTubeAsteroid mining: Is space the new gold rush for resource ...Middle East Asteroid Mining Market (2025 - 2031) | Trends ...Economics of the Stars: The Future of Asteroid Mining and the ...Asteroid mining - WikipediaAsteroid Mining Explained: Concepts, Challenges & What’s NextWe may be about to see an asteroid-mining gold rush. But here ...](https://www.youtube.com/watch?v=Ar-qppWjZD8)
+  > [DESCRIPTION FALLBACK] What are the consequences of mining asteroids. the benefits are clear but the downsides need to be considered. especially this one. Oct 7, 2025 · Long time considered as being a...
 
-- [What If The Earth Stopped Spinning - Minute By Minute - YouTube](https://www.youtube.com/watch?v=qUxZ4T6IMIM)
-  > [DESCRIPTION FALLBACK] What If the Solar System's Largest Asteroid SLAMMED Into Earth?How Starlink Actually Works. The Space Race. 950K 7d ago....
+- [Asteroid mining: Is space the new gold rush for resource ...Middle East Asteroid Mining Market (2025 - 2031) | Trends ...Economics of the Stars: The Future of Asteroid Mining and the ...Asteroid mining - WikipediaAsteroid Mining Explained: Concepts, Challenges & What’s NextWe may be about to see an asteroid-mining gold rush. But here ...](https://www.youtube.com/watch?v=Uiqet8E5Htc)
+  > [DESCRIPTION FALLBACK] Oct 7, 2025 · Long time considered as being a part of the Science fiction field, asteroids mining exploitation is on the verge of becoming a reality. Middle East Asteroid Mining...
 
 ## Sources (RSS)
 - [True or false on space industry trends with Pacôme Révillon](https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/)
