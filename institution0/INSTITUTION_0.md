@@ -88,7 +88,7 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 
 - R1 (2026-09-26, restatement, in force; sha256 `7936fc140f9aa9df`): p_not_kept restated with Laplace (k+1)/(n+2) = (19+1)/(19+2) = 0.9524 over 2025-02 .. 2026-08; original 1.0 (19/19, 2025-02 .. 2026-08 (19 calendar months)) kept
 - R2 (2026-09-26, restatement, in force; sha256 `1a1bac2142f70aef`): label = SENTINEL
-- R3 (2026-09-26, signed_wording, PENDING Emil's signature - not in force; sha256 `39dd42682fffc408`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
+- R3 (2026-09-26, signed_wording, in force, signed by Emil; sha256 `39dd42682fffc408`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## Hit rate
 
