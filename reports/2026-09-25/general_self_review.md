@@ -4,26 +4,26 @@
 **Severity:** HIGH
 
 ## Problem
-Unregulated deployment of AI‑enhanced surveillance towers along the US southern border
+The U.S. Department of Defense is allocating $30.3 million over five years to develop an AI‑powered lie detector (Polygraph+).
 
 ## Root Cause
-Political emphasis on automated border enforcement combined with insufficient legislative oversight and privacy safeguards for AI‑driven monitoring systems
+A defense‑centered procurement culture that prioritizes surveillance and control technologies without rigorous ethical, scientific, or societal impact assessments, combined with limited external oversight.
 
 ## Proposed Actions
-- **Pass a bill that mandates an independent audit of the border tower program’s AI components, privacy impact, and ecological footprint, followed by an immediate suspension of any towers that fail the audit** — Audit completed and public report released within 90 days; number of suspended towers documented; compliance certifications obtained for remaining towers
-- **Allocate federal funds to develop and pilot community‑driven, low‑impact border security alternatives (e.g., remote sensing, cooperative monitoring) that do not rely on invasive AI surveillance** — At least two pilot projects operational in border counties within 12 months; reduction in AI‑tower usage by 30% in those areas
+- **Mandate an independent, publicly disclosed impact assessment for the Polygraph+ program, covering technical validity, privacy risks, and alternative allocations of the funds.** — Publication of a peer‑reviewed assessment report within 12 months and a congressional vote to either suspend or reallocate at least 50 % of the $30 M budget to civilian AI safety research.
+- **Create a cross‑agency task force (DoD, OSTP, NSF, civil‑society NGOs) to develop transparent guidelines for military AI applications that could affect civil liberties.** — Adoption of the guidelines by the DoD and inclusion in the next defense budget cycle.
 
 ## Sources (YouTube)
-- [Artificial Intelligence and Consciousness - A Deep Dive - YouTube](https://www.youtube.com/watch?v=8rvwRHCkJAE)
-  > [DESCRIPTION FALLBACK] Consciousness in AI systems is a scientific question, not just a philosophical one. The debate on AI consciousness is messy and strangely polarising (and often heated) but fasci...
+- [Unlocking the Potential: AI in Sub-Saharan Africa - YouTubeEmpowering Sub-Saharan Africa in AI Governance I ... - YouTubeUnlocking the Potential: AI in Sub-Saharan Africa - IMFNew Video Released: Amplifying Sub-Saharan Africa’s Voice in ...Unlocking the Potential: AI in Sub-Saharan Africa - IMFArtificial intelligence and sustainable development in Africa ...Africa and Artificial Intelligence: The promise, the risk ...](https://www.youtube.com/watch?v=NsSaDHu3gZk)
+  > [DESCRIPTION FALLBACK] Can sub-Saharan Africa scale AI fast enough to raise productivity and improve public services?New IMF research finds that under current conditions, AI's prod... Aug 8, 2024 · 🎙️...
 
-- [Sufi Meditation of AI Futuristic Robots by an Ancient Middle Eastern ...](https://www.youtube.com/watch?v=SZ2LMZT2NkQ)
-  > [DESCRIPTION FALLBACK] Explore the profound intersection of Sufi meditation and artificial intelligence as an ancient Middle Eastern Sufi master guides AI robots through the transformative experience ...
+- [Empowering Sub-Saharan Africa in AI Governance I ... - YouTube](https://www.youtube.com/watch?v=HHXFniNonf0)
+  > [DESCRIPTION FALLBACK] Aug 8, 2024 · 🎙️Join us for an enlightening interview with Samuel Segun, researcher at the Global Center on AI Governance, as he discusses their mission to provide a global plat...
 
 ## Sources (RSS)
-- [The Download: a bid to scrap the virtual wall and AI hits Climate Week](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/)
-- [AI is dominating the conversation at Climate Week](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/)
-- [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
+- [The Download: the Pentagon’s AI-powered lie detector and young organ limits](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/)
+- [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
+- [Young organs may not be a fountain of youth for recipients](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/)
 
 
 ---
