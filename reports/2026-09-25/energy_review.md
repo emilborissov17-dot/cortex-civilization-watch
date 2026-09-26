@@ -4,29 +4,29 @@
 **Severity:** HIGH
 
 ## Problem
-A market glut of Chinese plug‑in hybrid vehicles is flooding Europe, threatening European automakers and undermining the transition to fully zero‑emission transport.
+Global fossil fuel extraction is expanding (Nigeria crude output at six‑year high, Venezuela targeting 1.8 M bpd by 2030, US drilling rigs increasing) while renewable capacity, though record‑setting, is insufficient to offset the added carbon emissions.
 
 ## Root Cause
-EU tariff policy targets only battery‑electric cars, leaving plug‑in hybrids untaxed and cheaper than EU‑made equivalents, which incentivises massive Chinese hybrid exports into Europe.
+Economic dependence on oil revenues, weak or absent carbon pricing, and policy lag that prioritize short‑term fiscal gains over long‑term climate stability.
 
 ## Proposed Actions
-- **Amend EU tariff rules to include plug‑in hybrids that exceed a defined CO2‑emission threshold, and introduce a phased import levy on low‑efficiency hybrids.** — Reduce Chinese plug‑in hybrid import volume to less than 10% of total hybrid sales in the EU within two years.
-- **Create EU subsidies and tax credits for domestic production of full battery‑electric vehicles that meet a minimum range and efficiency standard.** — Increase EU‑built EV market share by 5 percentage points by 2028.
+- **Implement a robust, revenue‑neutral carbon pricing mechanism (e.g., carbon tax or cap‑and‑trade) that directly taxes fossil fuel extraction and production.** — Limit growth of new fossil fuel extraction capacity to <2 % per year across the three highlighted countries within 5 years.
+- **Phase out fossil‑fuel subsidies and redirect equivalent funds to renewable energy R&D and grid integration projects.** — Increase the share of public energy R&D spending on renewables to ≥50 % within 3 years.
 
 ## Sources (YouTube)
-- [War reshapes debate over bill to reclassify solar power under renewable energy standard - YouTube](https://www.youtube.com/watch?v=cu9WVVonyn4)
-  > [DESCRIPTION FALLBACK] With Middle East airstrikes targeting energy infrastructure, the war is reshaping a debate at the New Hampshire State House over solar power. Skyrocketing oi... Published: March...
+- [The Energy Revolution is Unstoppable: Record Solar and Wind Additions in 2025 - YouTube](https://www.youtube.com/watch?v=spSOp5s_6_A)
+  > The world added a staggering amount of wind and solar power in 2025. And the numbers were incredible. Hello my friends. Welcome to the channel. I'm Sam Evans. And this is video number 8,100. I've done...
 
-- [Is solar power solving Europe’s energy problem? - YouTube](https://www.youtube.com/watch?v=yAjKdf9-He8)
-  > [DESCRIPTION FALLBACK] Europe's push to become less reliant on imported fossil fuels has resulted in the growth of solar power with a record 25% of the EU’s electricity being gener... Published: July ...
+- [Will Renewable Energy Dominate in 2025? - YouTube](https://www.youtube.com/watch?v=N43dSWuYF3Y)
+  > welcome to Renee energy.com on YouTube the hub for all things renewable energy and sustainability our channel is dedicated to bringing you the latest Innovations and insights in green energy including...
 
-- [You are being misled about renewable energy technology. - YouTube](https://www.youtube.com/watch?v=KtQ9nt2ZeGM)
-  > [DESCRIPTION FALLBACK] 00:00 Intro 07:35 Some opening notes 10:14 Cars and all the oil they use 15:38 Photovoltaics and electric cars 18:59 A cost and opportunity comparison 22:33 Solar farms 30:35 A ...
+- [Accelerating a Clean Energy Transition: WRI's Stories to Watch 2025 - YouTube](https://www.youtube.com/watch?v=USKHRfjk90Y)
+  > Standing near these gigantic wind turbines in the Netherlands, it feels like the global clean energy transition is well underway. Turbines like this, both on land and offshore, along with solar and ot...
 
 ## Sources (RSS)
-- [LA Metro Secures 220 New Battery-Electric Transit Buses](https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/)
-- [Sierra Club Welcomes NYC Comptroller’s $5B Private-Market Climate Investment Proposal](https://cleantechnica.com/2026/09/24/sierra-club-welcomes-nyc-comptrollers-5b-private-market-climate-investment-proposal/)
-- [Glut Of Chinese Plug-In Hybrids Threatens European Automakers](https://cleantechnica.com/2026/09/24/glut-of-chinese-plug-in-hybrids-threatens-european-automakers/)
+- [Green Lightning’s Fertilizer Claim Doesn’t Add Up](https://cleantechnica.com/2026/09/25/green-lightning-fertilizer-claim-doesnt-add-up/)
+- [Harvard Study Predicts 32 Percent Of US New Car Sales In US In 2030 Will Be EVs](https://cleantechnica.com/2026/09/25/harvard-study-predicts-32-percent-of-us-new-car-sales-in-us-in-2030-will-be-evs/)
+- [Tesla Claims Its Full Self Driving (FSD) Saves Lives, But Wants You To Pay $99/Month To Get It](https://cleantechnica.com/2026/09/25/tesla-claims-its-full-self-driving-fsd-saves-lives-but-wants-you-to-pay-99-month-to-get-it/)
 
 
 ---
