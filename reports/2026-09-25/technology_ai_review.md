@@ -4,27 +4,30 @@
 **Severity:** HIGH
 
 ## Problem
-Insufficient governance and orchestration frameworks for interacting AI agents in enterprise and public systems, creating hidden systemic risks.
+The U.S. Department of Defense is allocating $30.3 million to develop an AI‑powered lie detector (Polygraph+) without publicly demonstrated scientific validation of its accuracy or bias.
 
 ## Root Cause
-Rapid deployment of multiple AI agents without standardized data‑layer governance, driven by commercial pressure and fragmented development across vendors.
+A strategic priority within the Pentagon to enhance surveillance and interrogation capabilities, combined with a lack of robust, independent oversight and standards for AI reliability in high‑stakes security contexts.
 
 ## Proposed Actions
-- **Create and publish an open, interoperable AI Agent Governance Protocol that mandates data‑layer governance, provenance tracking, and safety checks for autonomous agents.** — Adoption by at least 5 of the top 10 enterprise AI providers within 2 years and integration into 30% of large‑scale AI deployments.
-- **Establish a regulatory sandbox where multi‑agent AI systems can be tested for orchestration safety before commercial release.** — Reduction of reported governance‑related incidents in sandbox participants by 50% within 1 year of operation.
-- **Fund interdisciplinary research (technical, ethical, legal) on AI agent complexity and publish best‑practice guidelines for civil‑society applications such as climate modeling, border surveillance, and wearable tech.** — Release of a peer‑reviewed guideline document and citation in at least 3 policy papers within 3 years.
+- **Mandate an independent, peer‑reviewed validation study of the AI lie detector’s false‑positive/false‑negative rates and bias across demographic groups before any field deployment.** — Publication of a validation report showing ≤5 % false‑positive rate and no statistically significant demographic bias.
+- **Require the program to comply with a federal AI transparency and accountability framework that includes algorithmic auditability, data provenance tracking, and a public impact assessment.** — Adoption of the framework documented in a compliance audit within 12 months.
+- **Reallocate a portion of the $30 million budget toward proven, non‑invasive conflict‑resolution and mental‑health interventions for military personnel.** — At least 25 % of the original budget redirected to evidence‑based programs, tracked via DoD financial reports.
 
 ## Sources (YouTube)
-- [AGI Explained: Rise, Risks & Future of Artificial General ...The Race for AGI: Artificial General Intelligence Explained ...Yoshua Bengio: The catastrophic risks of AI — and a safer ...International AI Safety ReportInternational AI Safety Report 2025AI 202710 Best AGI Documentaries to Watch in 2025 That Will Change ...](https://www.youtube.com/watch?v=PBE5UqlM8Bs)
-  > [DESCRIPTION FALLBACK] Sep 12, 2025 · In this video you’ll see 80 vivid scenarios from medical miracles and climate rescue to mass automation, surveillance, and the possibility of a Singularity. Dec 1...
+- [Ethan Kross | Chatter | Talks at Google](https://www.youtube.com/watch?v=jezPMP_ODZk)
+  > [DESCRIPTION FALLBACK] One of the world’s leading experts on the science of emotion regulation, Dr. Ethan Kross, discusses his workbook "Chatter The Workbook: How to Stop Overthinking and Harness the ...
 
-- [The Race for AGI: Artificial General Intelligence Explained ...Yoshua Bengio: The catastrophic risks of AI — and a safer ...International AI Safety ReportInternational AI Safety Report 2025AI 202710 Best AGI Documentaries to Watch in 2025 That Will Change ...](https://www.youtube.com/watch?v=0xzVMZdMNKE)
-  > [DESCRIPTION FALLBACK] Dec 1, 2025 · This video breaks down the current state of AI development, the key players in the AGI race, and the implications of achieving human-level artificial intelligence....
+- [Rachel Glennerster | Innovation and the Center for Global Development | Talks at Google](https://www.youtube.com/watch?v=xc2NnKThTX0)
+  > [DESCRIPTION FALLBACK] President of the Center for Global Development,  Dr. Rachel Glennerster, discusses the CGD and why the future of global progress depends on simple, scalable, and evidence-based ...
+
+- [Rebecca Winthrop | Rethinking the Purpose of Education in the Age of AI | Talks at Google](https://www.youtube.com/watch?v=43FZtdF2RcY)
+  > [DESCRIPTION FALLBACK] Leading global authority on education, Brookings scholar and an adjunct professor at Georgetown University Rebecca Winthrop discusses the intersection of AI and technology in le...
 
 ## Sources (RSS)
-- [The Download: a bid to scrap the virtual wall and AI hits Climate Week](https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/)
-- [AI is dominating the conversation at Climate Week](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/)
-- [A congressional representative just proposed killing America’s border tower program](https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/)
+- [The Download: the Pentagon’s AI-powered lie detector and young organ limits](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/)
+- [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
+- [Young organs may not be a fountain of youth for recipients](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/)
 
 
 ---
