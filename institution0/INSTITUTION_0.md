@@ -67,7 +67,7 @@ Lane I-1: pre-registered; OPEN; no measurement yet.
 **Revisions** (append-only, beside the row; the row's bytes are unchanged).
 
 - R1 (2026-09-26, restatement, in force; sha256 `f50901d0e7c912e7`): p_not_kept restated with Laplace (k+1)/(n+2) = (10+1)/(14+2) = 0.6875 over 2025-07 .. 2026-08; original 0.7143 (10/14, 2025-07 .. 2026-08 (14 calendar months)) kept
-- R2 (2026-09-26, signed_wording, PENDING Emil's signature - not in force; sha256 `f3b241549b3f19a3`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
+- R2 (2026-09-26, signed_wording, in force, signed by Emil; sha256 `f3b241549b3f19a3`): sentences[1] = A death recorded here is one breach of one specific, signed, pre-registered commitment — row, dyad, threshold, and source all named before the fact. We count breaches because dignity admits no score; the count is evidence against the commitment, never a measure of dignity, and changing the count by changing row, dyad, threshold, or source — without re-registering — is itself a violation.
 
 ## F-004 — SENTINEL — Gaza ceasefire and hostage-release agreement accepted by the parties (2025-01-19)
 
