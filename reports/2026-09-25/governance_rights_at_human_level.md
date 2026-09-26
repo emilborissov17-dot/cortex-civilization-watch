@@ -1,30 +1,23 @@
 # GOVERNANCE RIGHTS AT HUMAN LEVEL
 **Date:** 2026-09-25
 
-**Severity:** HIGH
-
-## Problem
-Widespread human rights violations committed by U.S. Immigration and Customs Enforcement (ICE) in anti-immigrant operations
+**Severity:** MEDIUM
 
 ## Root Cause
-U.S. immigration policy prioritizes deterrence and enforcement over due process and dignity, combined with limited external oversight and profit-driven detention contracts
+Authorities' silence vs requests for humanitarian visits; failure to release prisoners: these actions prevent them from accessing necessary support and freedom.
 
 ## Proposed Actions
-- **Pass legislation to restructure ICE, capping detention authority, requiring judicial review for all arrests, and creating an independent civilian oversight board** — Number of documented ICE human‑rights violations drops by at least 50% within two years, as measured by Amnesty International and other NGOs
-- **Terminate contracts with for‑profit detention facilities and mandate transparent reporting of detainee conditions** — All ICE detention facilities are publicly audited annually; audit reports show compliance with international standards
-- **Launch a public awareness campaign partnering with NGOs to educate migrants on legal rights and provide free legal assistance** — Increase the proportion of detained individuals receiving legal counsel within 48 hours to 90% within one year
+- **Ensure timely responses to all human rights requests; release prisoners who are not facing immediate danger.** — Increase the number of successful humanitarian visits and releases by 20% within one year.
+- **Promote transparency in decision-making processes related to human rights issues.** — Reduce public perception that authorities are not responsive to human rights requests by at least 30% within one year.
 
 ## Sources (YouTube)
-- [HRW urges UN leaders to defend human rights and ... - YouTubeAmnesty Launches Annual Report on the State of Human Rights ...Top Human Rights Videos of 2025 | Human Rights WatchVideos | OHCHR - UN Human Rights OfficeUN Rights Council Creates Afghanistan Accountability BodyUN Human Rights in Action in 2025 | OHCHRLatest - Amnesty International](https://www.youtube.com/watch?v=H6j6HwN5X-A)
-  > [DESCRIPTION FALLBACK] HRW urges UN leaders to defend human rights and accountabilitySource: Human Rights Watchhttps://www.hrw.org/news/2026/09/21/un-commit-to-human-rights-justice... Across the world...
-
-- [Amnesty Launches Annual Report on the State of Human Rights ...Top Human Rights Videos of 2025 | Human Rights WatchVideos | OHCHR - UN Human Rights OfficeUN Rights Council Creates Afghanistan Accountability BodyUN Human Rights in Action in 2025 | OHCHRLatest - Amnesty International](https://www.youtube.com/watch?v=Mlmkav4BVBE)
-  > [DESCRIPTION FALLBACK] Across the world, powerful states and actors are undermining accountability, while ongoing conflicts continue to drive immense civilian suffering. Still, people continue to resi...
+- [HRW urges UN leaders to defend human rights and ... - YouTubeHuman Rights Watch - YouTubeUS: Trump Administration’s Pervasive Attacks on RightsSouthern Africa: Grave Rights Abuses, Impunity PersistVenezuela: Accountability and democracy cannot be built on ...Videos | OHCHR - UN Human Rights Office8 Powerful Documentaries on Human Rights Issues](https://www.youtube.com/watch?v=H6j6HwN5X-A)
+  > [DESCRIPTION FALLBACK] HRW urges UN leaders to defend human rights and accountabilitySource: Human Rights Watchhttps://www.hrw.org/news/2026/09/21/un-commit-to-human-rights-justice... Human Rights Wat...
 
 ## Sources (RSS)
+- [El Salvador: Authorities remain silent over request for humanitarian visit to Ruth López](https://www.amnesty.org/en/latest/news/2026/09/el-salvador-autoridades-guardan-silencio-ante-la-solicitud-de-una-visita-humanitaria-a-ruth-lopez/)
+- [Azerbaijan: Authorities must immediately release activist Bahruz Samadov who cut himself during latest court appearance](https://www.amnesty.org/en/latest/news/2026/09/azerbaijan-authorities-must-immediately-release-activist-bahruz-samadov-who-cut-himself-during-latest-court-appearance/)
 - [Austria: “End Genocide” protest at UEFA Nations League Israel game](https://www.amnesty.org/en/latest/news/2026/09/austria-end-genocide-protest-at-uefa-nations-league-israel-game/)
-- [Yemen: One year on, Huthis must release arbitrarily detained lawyer Abdul Majid Sabra](https://www.amnesty.org/en/latest/news/2026/09/yemen-one-year-on-huthis-must-release-detained-lawyer-abdul-majid-sabra/)
-- [USA: Amnesty International Calls for ICE to Be Abolished After Documenting Widespread Human Rights Violations in Anti-Immigrant Operations](https://www.amnesty.org/en/latest/news/2026/09/ee-uu-amnistia-internacional-pide-la-disolucion-del-ice-tras-documentar-violaciones-generalizadas-de-derechos-humanos-en-operaciones-contra-inmigrantes/)
 
 
 ---
