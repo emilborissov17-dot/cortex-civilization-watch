@@ -1,27 +1,29 @@
 # CULTURE MEDIA REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
+**Severity:** LOW
 
 ## Problem
-Health-related misinformation is being spread on video platforms, exemplified by misleading content about anorexia on YouTube.
+Taylor Swift: The Life of a Showgirl; MNEK on writing smash hits, battling self-doubt and his solo struggles:
 
 ## Root Cause
-Algorithms prioritize engagement over factual accuracy and there is insufficient expert-led moderation for health topics.
+Individual success has eluded him; he is now back with a new album that puts queer joy in the spotlight — and he says he wants to sell that as well.
 
 ## Proposed Actions
-- **Modify the recommendation algorithm to demote videos flagged as health misinformation and boost content from verified medical sources.** — Reduce the share of health‑misinformation videos in top‑10 recommendations by 40% within 6 months.
-- **Implement mandatory transparent labeling for health‑related videos, requiring creators to cite credible sources and undergo a quick expert review.** — Achieve 90% compliance among new health‑topic uploads within 12 months.
-- **Create a partnership program with medical organizations to supply vetted educational content and to assist in rapid removal of harmful videos.** — Establish at least 5 active partnerships and remove 80% of identified harmful videos within 18 months.
+- **Promote more inclusivity in his music and interviews; encourage him to speak about his experiences with pride and joy rather than self-doubt.** — Increase the number of positive mentions vs negative ones about their work
+- **Support LGBTQ+ rights and visibility efforts; advocate for more representation in mainstream media.** — LGBTQ+ representation increases in mainstream media outlets
 
 ## Sources (YouTube)
-- [YouTube Is Misleading You. Help Us Make It Better. - YouTube](https://www.youtube.com/watch?v=7Qx3Ba5tn9U)
-  > [DESCRIPTION FALLBACK] "How misinformation spreads on social media—And what to do about it."Syed-Abdul, Shabbir, et al. "Misleading health-related information promoted through video-based social media...
+- [How Manipulation Distorts Freedom of Speech Today - YouTube](https://www.youtube.com/watch?v=TWYtRnjfLAI)
+  > [DESCRIPTION FALLBACK] In this eye-opening discussion about freedom of speech, we unravel the tactics used to manipulate public perception. Discover how misinformation spreads in t......
+
+- [How Social Media Hacks Your Mind: Disinformation ... - YouTube](https://www.youtube.com/watch?v=QSGVAI2V63U)
+  > [DESCRIPTION FALLBACK] How do social media, disinformation, conspiracy theories, and algorithmic manipulation hack our minds? In this episode of Cults, Culture, & Coercion, Dr. Steven Hassan interview...
 
 ## Sources (RSS)
-- [Violinist Jennifer Koh on Her Decade-Long Struggle With a Rare Neurological Disorder](https://www.nytimes.com/2026/09/24/arts/music/jennifer-koh-violin.html)
-- [Jeff Probst Made ‘Survivor’ His Life’s Work. He’s Not Done Yet.](https://www.nytimes.com/2026/09/24/arts/television/jeff-probst-survivor-popcast-interview.html)
-- [A Weary Hollywood Celebrates the Prospect of Federal Funding](https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html)
+- [How ‘The Sopranos’ Influenced the Best TV Shows of the 21st Century](https://www.nytimes.com/2026/09/24/arts/television/the-sopranos-tv-21st-century.html)
+- [Kennedy Center Shelved Repairs Now Cited for Closure, Whistle-Blowers Say](https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html)
+- [Es Devlin, Master of the Extravaganza, Highlights the Art of Craft](https://www.nytimes.com/2026/09/25/arts/design/es-devlin-homo-faber-biennial-venice.html)
 
 
 ---
