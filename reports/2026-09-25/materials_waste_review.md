@@ -1,29 +1,23 @@
 # MATERIALS WASTE REVIEW
 **Date:** 2026-09-25
 
-**Severity:** HIGH
-
-## Problem
-Termination of Lake County's plastic bag and Styrofoam recycling program after two years, leaving these plastics unrecycled
+**Severity:** LOW
 
 ## Root Cause
-Economic unviability due to low market demand for recycled plastic bags, high contamination rates, inadequate collection logistics, and insufficient policy incentives for producers
+People are trying to sell items at flea markets during rainy days because they need money to pay their rent; this leads to lower quality of goods and higher prices.
 
 ## Proposed Actions
-- **Enact an EPR ordinance for single‑use plastic bags and flexible packaging, requiring a minimum recycled‑content quota and funding the collection system** — Achieve a 40% increase in recycled‑plastic‑bag tonnage within 2 years and maintain program operation beyond 2028
-- **Deploy AI‑based sorting systems (such as Greyparrot) at the county material recovery facility to reduce contamination and improve recovery rates** — Raise the contamination rejection rate from current levels to <5% and increase overall recovery efficiency to >80% within 1 year
+- **Promote alternative ways to raise funds (e.g., online platforms, community support)** — Lower the average price at flea markets; increase customer satisfaction.
+- **Educate renters about financial planning and options** — Reduce reliance on flea market sales for rent payments.
 
 ## Sources (YouTube)
-- [The Plastic Country | Official Documentary Trailer - YouTube](https://www.youtube.com/watch?v=2haHCKyavV8)
-  > [DESCRIPTION FALLBACK] In The Plastic Country, Kal Glanznig goes on a journey across Australia to uncover the true impact of plastic on our beaches, wildlife, communities and human health. From remote...
-
-- [How Two Workers Recycle 300 Maunds of Plastic Bags... - YouTube](https://www.youtube.com/watch?v=H-0MDzOyUko)
-  > [DESCRIPTION FALLBACK] ...recycled plastic bags, plastic recycling factory, factory process, plastic waste, recycling process, industrial recycling, plastic bag production, shopping bag factory, polye...
+- [Buying watches to Clean Up from a California Flea Market - YouTube](https://www.youtube.com/watch?v=ARdC93k1c38)
+  > So, I'm here at Long Beach. They're having a special show that they have on the fifth Sunday of the month. It's actually raining a good amount right now, which is why the show looks a little smaller t...
 
 ## Sources (RSS)
-- [How Divert Pairs Data with Reverse Logistics to Tackle Grocery Waste](https://www.waste360.com/organic-waste/how-divert-pairs-data-with-reverse-logistics-to-tackle-grocery-waste)
-- [Why Waste Experts Are Betting on “Avoided Emissions” (AKA “Scope 4”)](https://www.waste360.com/emissions/why-waste-experts-are-betting-on-avoided-emissions-aka-scope-4-)
-- [‘It just didn’t take off’: Why Lake County plastic bag recycling program is ending next year](https://www.waste360.com/waste-collection-transfer/-it-just-didn-t-take-off-why-lake-county-plastic-bag-recycling-program-is-ending-next-year)
+- [Two NSAC Co-Sponsored Bills Signed Into Law After Passing California Legislature With Strong Bipartisan Support](https://www.waste360.com/waste-legislation/two-nsac-co-sponsored-bills-signed-into-law-after-passing-california-legislature-with-strong-bipartisan-support)
+- [Driving the Circular Economy: HydroCycle Embarks on New Liquid Waste Recycling Venture](https://www.waste360.com/wastewater/driving-the-circular-economy-hydrocycle-embarks-on-new-liquid-waste-recycling-venture)
+- [Waste Pro Columbus Division Earns Back-to-Back Partner of the Year from Keep Columbus Beautiful](https://www.waste360.com/industry-insights/waste-pro-columbus-division-earns-back-to-back-partner-of-the-year-from-keep-columbus-beautiful)
 
 
 ---
