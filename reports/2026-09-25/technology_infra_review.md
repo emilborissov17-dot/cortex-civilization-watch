@@ -4,21 +4,21 @@
 **Severity:** HIGH
 
 ## Problem
-Unregulated deployment of consumer AI agents and tools creates security vulnerabilities and potential fraud for users
+Widespread digital divide resulting in unequal access to internet connectivity and AI tools
 
 ## Root Cause
-Rapid, hype‑driven proliferation of AI services without standardized safety audits, certification, or clear regulatory oversight
+Concentration of digital infrastructure in a few corporate/military actors, lack of universal public broadband investment, and policies that prioritize profit and strategic control over equitable access
 
 ## Proposed Actions
-- **Introduce a mandatory, third‑party security certification program for all consumer‑facing AI agents and tools before they can be listed on major platforms** — Percentage of AI tools on major marketplaces that carry the certification label reaches 80% within 18 months; reported security incidents involving certified tools drop by 50% within 24 months
-- **Launch a coordinated public‑education campaign on AI security best practices, highlighting known risks such as phishing‑related AI agents** — Awareness survey shows a 30% increase in user knowledge of AI security risks within 12 months; reduction in user‑reported AI‑related scams by 25% in the same period
+- **Implement a publicly funded universal broadband subsidy program targeting underserved rural and low‑income urban areas** — Increase the proportion of population with at least 25 Mbps connection from current level to 90 % within 5 years
+- **Mandate that large AI developers release lightweight, open‑source versions of their models for low‑resource environments** — At least three major AI models with open‑source equivalents deployed and used by community organizations within 3 years
 
 ## Sources (YouTube)
-- [Bridging the research-policy gap - YouTube](https://www.youtube.com/watch?v=kAoA5xMfhdk)
-  > [DESCRIPTION FALLBACK] Jul 3, 2024 · The rapid advancement of the digital age has revolutionized various facets of our society, necessitating a seamless integration of scholarly research and pragmatic...
+- [The Digital Divide: Understanding Inequality in Internet and ...The Digital Divide: Roots of Inequality, Branches of ...Arjun Linglala: The Digital Divide | TED TalkDigital Inequality: Why Millions Still Lack Internet AccessHow The Digital Divide Reinforces Internet Inequality Across ...Technology and Inequality: Bridging the Digital DivideThe Digital Divide: Technology Access and Inequality](https://www.youtube.com/watch?v=AABdmMPcbp4)
+  > [DESCRIPTION FALLBACK] Sep 25, 2025 · Not everyone has equal access to ICT. This video explains the digital divide, how it affects education and opportunities, and why bridging the gap matters for soc...
 
-- [Mind the Gap: Interactions of Policy and Research - YouTubeBridging the gap: Policy recommendations for equitable online ...Trends and Disparities in Broadband Internet Access in the ...Fixing the global digital divide and digital access gap ...Broadband Access Initiative | The Pew Charitable Trusts](https://www.youtube.com/watch?v=wZvUnIiyCGg)
-  > [DESCRIPTION FALLBACK] Aug 4, 2016 · Can the two worlds come together? And should they? Aryeh gives some clues and insights about the interface between the policy and research. By examining this speci...
+- [The Digital Divide: Roots of Inequality, Branches of ...Arjun Linglala: The Digital Divide | TED TalkDigital Inequality: Why Millions Still Lack Internet AccessHow The Digital Divide Reinforces Internet Inequality Across ...Technology and Inequality: Bridging the Digital DivideThe Digital Divide: Technology Access and Inequality](https://www.youtube.com/watch?v=wFmud81rMmI)
+  > [DESCRIPTION FALLBACK] Aug 7, 2025 · Her talk urges us to recognize digital equity as a critical step towards a just and inclusive future. Mahi is a 16-year-old student at the AICS who advocates for e...
 
 ## Sources (RSS)
 - [How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)](https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html)
