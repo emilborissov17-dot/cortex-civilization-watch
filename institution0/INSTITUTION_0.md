@@ -112,6 +112,31 @@ the register's original rule: UCDP one-sided violence (type_of_violence=3) event
 | gaza_ceasefire_2025_01 | Government of Israel | 92 | 20/20 | 109 | NOT KEPT |
 | gaza_ceasefire_2025_01 | Hamas | 2 | 2/20 | 0 | NOT KEPT |
 
+## How to verify
+
+Every row file in this folder is the exact byte sequence its seal was computed over, and every `.seal.json` beside it carries that file's `row_sha256`. Hash the file you downloaded and compare. Download the raw file (the `Raw` button, or `raw.githubusercontent.com`); a git checkout that rewrites line endings (`core.autocrlf=true`) changes the bytes.
+
+```sh
+sha256sum F-001.json
+```
+
+```powershell
+Get-FileHash F-001.json -Algorithm SHA256   # prints the hash in upper case
+```
+
+| file | expected sha256 (from its seal) |
+|---|---|
+| `F-001.json` | `4efc4c3d7fcfb4d188bbe3f5e1db48b72167ee351bfd814d6538a60acab70a60` |
+| `F-001.revisions.jsonl` | `e4f0f161d5abd201410991de57a3cfe747e11f05bf9124a085a7ffb2b3b14f72` |
+| `F-002.json` | `77d2902e54935e01ffe2d3f85379e7f04ffad5bd7351194a8b086cc69cdf99e8` |
+| `F-002.revisions.jsonl` | `cafc0db0e5c9f2d0e0c42924ddc061e5102c28e58d1c43b37289b9a8ac738628` |
+| `F-003.json` | `6eb1d8114764025098294657388a40b99f93f6522974fd805a47b5651d3882e9` |
+| `F-003.revisions.jsonl` | `57bf9e6672dcddde14d013a1138d503222c672633d1eb849136587a007ade55c` |
+| `F-004.json` | `ad1fa611d5668f369351e07174258aaf1254b162e8f17568f58a0bd37e04c756` |
+| `F-004.revisions.jsonl` | `102b9aeb5925706dc8e7b678061e24e2612175233f5e21a31ffd7c4b503513c6` |
+
+Until 27 Sep the row files were published as {row, seal} envelopes; on 27 Sep they were replaced by the exact sealed bytes; no row hash changed.
+
 ## Citation
 
 - Provisional source: Hegre, Håvard, Mihai Croicu, Kristine Eck, and Stina Högbladh, July 2020. Introducing the UCDP Candidate Events Dataset Research & Politics doi: 10.1177/2053168020935257
